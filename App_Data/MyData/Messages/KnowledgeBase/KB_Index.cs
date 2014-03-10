@@ -1,0 +1,1 @@
+1|celio|move Oracle content from KB standards!! |2010/02/22 16:10:43|-1|Hi,%0A%0A  Oracle content should be moved to KPN-NEC namespace. Because we only use it on that non-standard project. %0A%0ACheers,%0ACelio

@@ -1,0 +1,1 @@
+<div style="float: right;">Welcome {USERNAME}, you are in: <b>{NAMESPACE}</b> - {LOGINLOGOUT}</div><h1>{WIKITITLE}</h1>

@@ -1,0 +1,4 @@
+Domain=brainnet
+Server=brainnet-srv01.brainnet.local
+GroupMap=Ontwikkelaars:Brainnet_Developers
+GroupMap=Brainnet medewerkers:Brainnet_Medewerkers
