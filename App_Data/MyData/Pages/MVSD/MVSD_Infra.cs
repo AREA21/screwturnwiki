@@ -34,7 +34,7 @@ SPLA(Services Provider License Agreement) : [https://www.microsoft.com/servicepr
 '''Network'''
  [image||{UP:ScrewTurn.Wiki.FilesStorageProvider}/MVSD/ICTinfra/MVSD.Netwerk.02.Celio.png]
  other formats:
- [MyData/Upload//MVSD/ICTinfra/MVSD.Netwerk.02.Celio.vsd|MVSD ICT Infrastructuur(Visio&copy;)]
+ [App_Data/MyData/Upload//MVSD/ICTinfra/MVSD.Netwerk.02.Celio.vsd|MVSD ICT Infrastructuur(Visio&copy;)]
  sharepoint: [http://intranet.mvsd.nl/sites/beheer/Shared%20Documents/Netwerk/]
 
  [image|Network Scan:|{UP:ScrewTurn.Wiki.FilesStorageProvider}/MVSD/ICTinfra/MVSD.NetworkScan.01.Celio.jpg]
