@@ -116,3 +116,40 @@ E|2014/03/10 19:46:53|http://wiki.insightsgtd.nl/AdminHome.aspx{BR}System.Web th
 G|2014/03/10 19:47:10|User procm logged out|SYSTEM
 G|2014/03/10 19:47:37|User procm logged in|SYSTEM
 G|2014/03/10 19:52:17|User procm logged in|SYSTEM
+G|2014/03/12 17:22:05|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider SQL Server Users Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider SQL Server Files Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider SQL Server Pages Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider Download Counter Plugin loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider Footnotes Plugin loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|MessageFormatter - Init success|MessageFormatter
+G|2014/03/12 17:22:05|Provider MessageFormatter loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|Provider TableFormatter loaded (Enabled)|SYSTEM
+G|2014/03/12 17:22:05|ScrewTurn Wiki is ready|SYSTEM
+G|2014/03/12 17:22:27|User procm logged in|SYSTEM
+G|2014/03/12 17:22:40|User procm logged in|SYSTEM
+G|2014/03/12 18:45:00|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:00|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:00|Provider SQL Server Users Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/12 18:45:00|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:00|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:01|Provider SQL Server Files Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/12 18:45:01|Provider SQL Server Pages Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/12 18:45:01|Provider Download Counter Plugin loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:01|Provider Footnotes Plugin loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:01|MessageFormatter - Init success|MessageFormatter
+G|2014/03/12 18:45:01|Provider MessageFormatter loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:01|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:01|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:01|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:01|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:01|Provider TableFormatter loaded (Enabled)|SYSTEM
+G|2014/03/12 18:45:01|ScrewTurn Wiki is ready|SYSTEM
+G|2014/03/12 18:45:11|User procm logged in|SYSTEM

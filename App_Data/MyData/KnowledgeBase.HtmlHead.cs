@@ -1,4 +1,4 @@
-<!-- ..\App_Data\MyData\Plugins\Prabir_SyntaxHighlighter\scripts * supported languages 
+<!-- ..\Public\MyData\Plugins\Prabir_SyntaxHighlighter\scripts * supported languages 
 shBrushAS3.js
 shBrushBash.js
 shBrushCpp.js
@@ -23,20 +23,20 @@ shBrushXml.js
 shCore.js
 shLegacy.js
 -->
-<link type="text/css" rel="stylesheet" href="/App_Data/MyData/Plugins/Prabir_SyntaxHighlighter/styles/shCore.css" />
-<link type="text/css" rel="stylesheet" href="/App_Data/MyData/Plugins/Prabir_SyntaxHighlighter/styles/shThemeDefault.css" />
-<script type="text/javascript" src="/App_Data/MyData/Plugins/Prabir_SyntaxHighlighter/scripts/shCore.js">
+<link type="text/css" rel="stylesheet" href="/Public/Plugins/Prabir_SyntaxHighlighter/styles/shCore.css" />
+<link type="text/css" rel="stylesheet" href="/Public/Plugins/Prabir_SyntaxHighlighter/styles/shThemeDefault.css" />
+<script type="text/javascript" src="/Public/Plugins/Prabir_SyntaxHighlighter/scripts/shCore.js">
 </script>
-<script type="text/javascript" src="/App_Data/MyData/Plugins/Prabir_SyntaxHighlighter/scripts/shBrushXml.js">
+<script type="text/javascript" src="/Public/Plugins/Prabir_SyntaxHighlighter/scripts/shBrushXml.js">
 </script>
-<script type="text/javascript" src="/App_Data/MyData/Plugins/Prabir_SyntaxHighlighter/scripts/shBrushPlain.js">
+<script type="text/javascript" src="/Public/Plugins/Prabir_SyntaxHighlighter/scripts/shBrushPlain.js">
 </script>
-<script type="text/javascript" src="/App_Data/MyData/Plugins/Prabir_SyntaxHighlighter/scripts/shBrushCSharp.js">
+<script type="text/javascript" src="/Public/Plugins/Prabir_SyntaxHighlighter/scripts/shBrushCSharp.js">
 </script>
-<script type="text/javascript" src="/App_Data/MyData/Plugins/Prabir_SyntaxHighlighter/scripts/shBrushJScript.js">
+<script type="text/javascript" src="/Public/Plugins/Prabir_SyntaxHighlighter/scripts/shBrushJScript.js">
 </script>
 <script type="text/javascript">
         SyntaxHighlighter.config.clipboardSwf
-= '/App_Data/MyData/Plugins/Prabir_SyntaxHighlighter/scripts/clipboard.swf';  
+= '/Public/Plugins/Prabir_SyntaxHighlighter/scripts/clipboard.swf';  
         SyntaxHighlighter.all();
 </script>
