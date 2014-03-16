@@ -153,3 +153,100 @@ G|2014/03/12 18:45:01|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
 G|2014/03/12 18:45:01|Provider TableFormatter loaded (Enabled)|SYSTEM
 G|2014/03/12 18:45:01|ScrewTurn Wiki is ready|SYSTEM
 G|2014/03/12 18:45:11|User procm logged in|SYSTEM
+G|2014/03/13 16:00:32|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider SQL Server Users Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider SQL Server Files Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider SQL Server Pages Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider Download Counter Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider Footnotes Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|MessageFormatter - Init success|MessageFormatter
+G|2014/03/13 16:00:32|Provider MessageFormatter loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|Provider TableFormatter loaded (Enabled)|SYSTEM
+G|2014/03/13 16:00:32|ScrewTurn Wiki is ready|SYSTEM
+G|2014/03/13 16:00:42|User procm logged in|SYSTEM
+E|2014/03/13 16:00:51|http://wiki.insightsgtd.nl/AdminHome.aspx{BR}System.Web thrown System.Web.HttpUnhandledException{BR}Exception of type 'System.Web.HttpUnhandledException' was thrown.{BR}   at System.Web.UI.Page.HandleError(Exception e){BR}   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint){BR}   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint){BR}   at System.Web.UI.Page.ProcessRequest(){BR}   at System.Web.UI.Page.ProcessRequest(HttpContext context){BR}   at ASP.adminhome_aspx.ProcessRequest(HttpContext context){BR}   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute(){BR}   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)|SYSTEM
+G|2014/03/13 18:21:49|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:49|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider SQL Server Files Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider SQL Server Pages Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider Download Counter Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider Footnotes Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|MessageFormatter - Init success|MessageFormatter
+G|2014/03/13 18:21:50|Provider MessageFormatter loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|Provider TableFormatter loaded (Enabled)|SYSTEM
+G|2014/03/13 18:21:50|ScrewTurn Wiki is ready|SYSTEM
+G|2014/03/13 18:22:30|User procm logged in|SYSTEM
+E|2014/03/13 18:22:42|http://wiki.insightsgtd.nl/AdminHome.aspx{BR}System.Web thrown System.Web.HttpUnhandledException{BR}Exception of type 'System.Web.HttpUnhandledException' was thrown.{BR}   at System.Web.UI.Page.HandleError(Exception e){BR}   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint){BR}   at System.Web.UI.Page.ProcessRequest(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint){BR}   at System.Web.UI.Page.ProcessRequest(){BR}   at System.Web.UI.Page.ProcessRequest(HttpContext context){BR}   at ASP.adminhome_aspx.ProcessRequest(HttpContext context){BR}   at System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute(){BR}   at System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)|SYSTEM
+G|2014/03/13 18:26:31|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:31|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:31|Provider SQL Server Users Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider SQL Server Files Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider SQL Server Pages Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider Download Counter Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider Footnotes Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:32|MessageFormatter - Init success|MessageFormatter
+G|2014/03/13 18:26:32|Provider MessageFormatter loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:32|Provider TableFormatter loaded (Enabled)|SYSTEM
+G|2014/03/13 18:26:32|ScrewTurn Wiki is ready|SYSTEM
+G|2014/03/13 18:26:42|User procm logged in|SYSTEM
+G|2014/03/16 12:41:15|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:15|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider SQL Server Users Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider SQL Server Files Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider SQL Server Pages Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider Download Counter Plugin loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider Footnotes Plugin loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|MessageFormatter - Init success|MessageFormatter
+G|2014/03/16 12:41:16|Provider MessageFormatter loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|Provider TableFormatter loaded (Enabled)|SYSTEM
+G|2014/03/16 12:41:16|ScrewTurn Wiki is ready|SYSTEM
+G|2014/03/16 12:41:29|User procm logged in|SYSTEM
+G|2014/03/16 12:43:01|Index rebuild requested for ScrewTurn.Wiki.PagesStorageProvider|procm
+E|2014/03/16 12:43:02|Page indexing error for Brainnet.Brainnet_BoaBaas-Portal (skipping page): System.IO.IOException: The process cannot access the file 'D:\Transfer.cmo\Dropbox\MyProjects\Programming\workbench.cmo\Screwturn-wiki-4.FileBased\App_Data\MyData\IndexWords.cs' because it is being used by another process.{BR}   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath){BR}   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy){BR}   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy){BR}   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share){BR}   at ScrewTurn.Wiki.IndexStorer.SaveData(DumpedChange data, Object state){BR}   at ScrewTurn.Wiki.SearchEngine.IndexStorerBase.IndexChangedHandler(Object sender, IndexChangedEventArgs e){BR}   at ScrewTurn.Wiki.SearchEngine.InMemoryIndexBase.OnIndexChange(IDocument document, IndexChangeType change, DumpedChange changeData, Object state){BR}   at ScrewTurn.Wiki.SearchEngine.InMemoryIndexBase.StoreDocument(IDocument document, String[] keywords, String content, Object state){BR}   at ScrewTurn.Wiki.PagesStorageProvider.IndexPage(PageContent content)|Local Pages Provider+SYSTEM
+E|2014/03/16 12:43:03|Page indexing error for MVSD.MVSD-Website-Economy (skipping page): System.IO.IOException: The process cannot access the file 'D:\Transfer.cmo\Dropbox\MyProjects\Programming\workbench.cmo\Screwturn-wiki-4.FileBased\App_Data\MyData\IndexDocuments.cs' because it is being used by another process.{BR}   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath){BR}   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy){BR}   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy){BR}   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share){BR}   at ScrewTurn.Wiki.IndexStorer.SaveData(DumpedChange data, Object state){BR}   at ScrewTurn.Wiki.SearchEngine.IndexStorerBase.IndexChangedHandler(Object sender, IndexChangedEventArgs e){BR}   at ScrewTurn.Wiki.SearchEngine.InMemoryIndexBase.OnIndexChange(IDocument document, IndexChangeType change, DumpedChange changeData, Object state){BR}   at ScrewTurn.Wiki.SearchEngine.InMemoryIndexBase.StoreDocument(IDocument document, String[] keywords, String content, Object state){BR}   at ScrewTurn.Wiki.PagesStorageProvider.IndexPage(PageContent content)|Local Pages Provider+SYSTEM
+E|2014/03/16 12:43:03|Page indexing error for MVSD.MVSD_EasyShop (skipping page): System.IO.IOException: The process cannot access the file 'D:\Transfer.cmo\Dropbox\MyProjects\Programming\workbench.cmo\Screwturn-wiki-4.FileBased\App_Data\MyData\IndexWords.cs' because it is being used by another process.{BR}   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath){BR}   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy){BR}   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy){BR}   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share){BR}   at ScrewTurn.Wiki.IndexStorer.SaveData(DumpedChange data, Object state){BR}   at ScrewTurn.Wiki.SearchEngine.IndexStorerBase.IndexChangedHandler(Object sender, IndexChangedEventArgs e){BR}   at ScrewTurn.Wiki.SearchEngine.InMemoryIndexBase.OnIndexChange(IDocument document, IndexChangeType change, DumpedChange changeData, Object state){BR}   at ScrewTurn.Wiki.SearchEngine.InMemoryIndexBase.StoreDocument(IDocument document, String[] keywords, String content, Object state){BR}   at ScrewTurn.Wiki.PagesStorageProvider.IndexPage(PageContent content)|Local Pages Provider+SYSTEM
+G|2014/03/16 12:43:04|Index rebuild completed for ScrewTurn.Wiki.PagesStorageProvider|SYSTEM
+G|2014/03/16 12:43:17|WebApp shutdown requested|procm
+G|2014/03/16 12:43:17|Executing WebApp shutdown|SYSTEM
+G|2014/03/16 12:59:20|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider SQL Server Files Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider SQL Server Pages Storage Provider loaded (Disabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider Download Counter Plugin loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider Footnotes Plugin loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|MessageFormatter - Init success|MessageFormatter
+G|2014/03/16 12:59:20|Provider MessageFormatter loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|Provider TableFormatter loaded (Enabled)|SYSTEM
+G|2014/03/16 12:59:20|ScrewTurn Wiki is ready|SYSTEM
+G|2014/03/16 12:59:25|User procm logged in|SYSTEM
