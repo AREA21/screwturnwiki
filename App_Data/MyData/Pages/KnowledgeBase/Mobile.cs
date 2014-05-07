@@ -1,5 +1,5 @@
 Mobile: hardware, apps (tips & tricks)
-procm|2014/02/17 15:46:43
+procm|2014/04/18 16:45:56
 ##PAGE##
 {TOC}
 
@@ -22,6 +22,9 @@ procm|2014/02/17 15:46:43
 ** '''Reference'''(s):
 *** [http://jingyan.baidu.com/article/e4d08ffddcd65e0fd2f60d0f.html]
 *** [http://code.google.com/p/android/issues/detail?id=63524]
+
+* [http://wiki.cyanogenmod.org/w/SMSC_Updates|SMS (Short Message Service) issues]
+** KPN SMSC: '''+31653131313''' PDU(notation): '''07911356131313F3'''
 
 '''Resources'''(s):
 

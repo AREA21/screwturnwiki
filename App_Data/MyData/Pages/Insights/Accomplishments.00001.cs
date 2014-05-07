@@ -1,17 +1,11 @@
 Accomplishments
-procm|2014/03/26 16:20:38
+procm|2014/03/26 14:56:43
 ##PAGE##
 {TOC}
 
 === Ongoing===
-* [http://gpsunderground.com/forum/car-navi-system/car-gps-systems/volkswagen-seat-skoda|Update Car Navigation]
-
-* [http://www.mono-project.com|Mono Project]
-** ...open source implementation of Microsoft's .Net Framework based on the ECMA standards for C# and the Common Language Runtime.
-
-=== ScrewturnWiki migration to the Cloud===
-<PRE>
-* [http://sueetie.com/documentation/screwturn-file-to-sql|ScrewTurn Wiki- Local/File to SQL, Provider Migration Guide]
+==== Screwturn Wiki migration to the Cloud====
+* [http://sueetie.com/documentation/screwturn-file-to-sql|File to SQL migration]
 
 * [http://appharbor.com|evaluation: AppHarbor (GIT, Heroku)]
 ** [http://cmo-wiki.apphb.com|My ScrewTurnWiki on AppHarbor]
@@ -21,7 +15,9 @@ procm|2014/03/26 16:20:38
 ** [https://bitbucket.org/screwturn|Bitbucket ScrewTurn Wiki 4]
 ** [https://stw.codeplex.com/releases/view/108727|Codeplex ScrewTurn Wiki 3.0.5.600]
 ** [http://blogs.msdn.com/b/windowsazure/archive/2011/06/17/real-world-windows-azure-interview-with-dario-solera-cofounder-of-threeplicate.aspx]
-</PRE>
+
+* [http://www.mono-project.com|Mono Project]
+** ...open source implementation of Microsoft's .Net Framework based on the ECMA standards for C# and the Common Language Runtime.
 
 === High Availability (Private Cloud) Proof of Concept (@Brainnet, 2012)===
 <PRE>

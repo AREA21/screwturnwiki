@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2014/03/26 12:07:56
+procm|2014/03/26 12:06:27
 ##PAGE##
 {TOC}
 
@@ -89,7 +89,7 @@ procm|2014/03/26 12:07:56
 
 == '''References, Resources'''==
 <PRE>
-* [http://www.gegeek.com/documents/649546B630371346316B2DAAD5D323C7F7B73A14.html|The ultimate cheat sheet of (technical) cheat sheets]
+* [http://www.gegeek.com/documents/649546B630371346316B2DAAD5D323C7F7B73A14.html|Cheat Sheets]
 </PRE>
 
 == '''FAQ'''==

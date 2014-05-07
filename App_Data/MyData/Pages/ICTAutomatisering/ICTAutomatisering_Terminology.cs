@@ -1,5 +1,5 @@
 Terminology, Systems & apps names
-procm|2014/01/29 23:11:09
+procm|2014/04/09 17:18:53
 ##PAGE##
 '''Abbreviations ''':
 <PRE>
@@ -9,7 +9,7 @@ procm|2014/01/29 23:11:09
 
 * '''SDM'''- '''S'''ervice '''D'''elivery '''M'''anager
  
-* '''MANNA'''- '''M'''igratie '''A'''pplicaties .'''N'''ET '''NA'''ar '''A'''zure
+* '''MANNA'''- '''M'''igratie '''A'''pplicaties .'''N'''ET '''N'''aar '''A'''zure
 * '''MONA'''- '''M'''igratie '''O'''ntvangservices '''N'''aar '''A'''zure
 ** '''ACE'''-
 *** PostNL On-Premise: Loadbalancing, Decryptie, Authenticatie, Proxying

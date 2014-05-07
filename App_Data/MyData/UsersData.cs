@@ -6,3 +6,7 @@ robvdkamp|PageChanges|
 robvdkamp|DiscussionMessages|
 procm|PageChanges|
 procm|DiscussionMessages|
+icta|Culture|nl-NL
+icta|Timezone|60
+icta|NamespacePageChanges|ICTAutomatisering
+icta|NamespaceDiscussionMessages|ICTAutomatisering
