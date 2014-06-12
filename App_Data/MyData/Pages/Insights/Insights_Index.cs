@@ -1,16 +1,21 @@
 Insights *Getting Things Done
-procm|2014/02/25 10:52:04
+procm|2014/06/12 10:59:50
 ##PAGE##
 {TOC}
 
 (((
-'''List''': skills to develop/improve
+== Skills to develop/improve==
+* '''IQ test'''(s)
+** [http://www.fibonicci.com/nl/rekenen/cijferreeksen|Cijferreeksen / Getallenrijen]
+** [http://www.fibonicci.com/nl/rekenen/redactiesommen|Redactiesommen / Verhaaltjessommen]
+** [http://pretest.hrorganizer.com/assessmentbijcapgemini|Capgemini Oefen-assessment]
+
 * '''.NET''' FRAMEWORK 
 ** Enterprise Library
 ** Reflection
 ** Advanced debugging
 
-* '''SQL2012'''
+* '''MS SQL'''
 ** T-SQL
 ** Role-based security
 ** DTS [http://en.wikipedia.org/wiki/Data_Transformation_Services|Data Transformation Services]

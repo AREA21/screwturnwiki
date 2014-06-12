@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2014/03/26 12:07:56
+procm|2014/05/21 11:33:40
 ##PAGE##
 {TOC}
 
@@ -94,6 +94,14 @@ procm|2014/03/26 12:07:56
 
 == '''FAQ'''==
 (((
+=== How to correctly set Java environment?===
+eg:
+* '''PATH'''= C:\Program Files\Java\jdk1.7.0_45\bin
+* '''JAVA_HOME'''= C:\Program Files\Java\jdk1.7.0_45
+* '''JRE_HOME'''= C:\Program Files\Java\jre7 '''or''' C:\Program Files\Java\jdk1.7.0_45\jre
+* '''CLASSPATH'''= %JAVA_HOME%\jre\lib  (Optional! path to JAR files)
+** [http://www3.ntu.edu.sg/home/ehchua/programming/howto/environment_variables.html|'''Environment Variables for Java Applications''']
+
 === How do I sync the Solution Explorer with the current File in Visual Studio?===
 * Tools - Options - Projects and Solutions - General - Track Active Item In Solution Explorer
 
