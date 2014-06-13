@@ -1,5 +1,5 @@
 ICT Automatisering index
-procm|2014/02/25 17:17:12
+procm|2014/06/13 14:03:18
 ##PAGE##
 '''I'''ndustriële '''C'''omputing '''T'''oepassingen ('''ICT''') Automatisering
 : summary:...
@@ -12,6 +12,8 @@ procm|2014/02/25 17:17:12
 * [ICTAutomatisering_Hardware|Hardware]
 * [ICTAutomatisering_Windows-Azure|Windows Azure (MANNA)]
 * [ICTAutomatisering_RhoMobile|Motorola RhoMobile(apps)]
+
+* [ICTAutomatisering_MonitoringTool|'''Monitoring Tool(asp.net, azure...)''']
 
 * [https://intranet.ict.nl/C1256F38001F1D5D/INETPage/ykOqMUeF?open|'''Boeken Bestellen''']
 </PRE>

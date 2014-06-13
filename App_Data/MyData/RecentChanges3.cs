@@ -1,15 +1,3 @@
-ICTAutomatisering.ICTAutomatisering_Hardware|ICT Automatisering Hardware||2014/01/22 14:04:37|procm|U|
-KnowledgeBase.KB_Index|KnowledgeBase Index||2014/01/23 10:54:41|procm|U|
-KnowledgeBase.KB_Index|KnowledgeBase Index||2014/01/26 16:48:38|procm|U|
-ICTAutomatisering.ICTAutomatisering_Infra|Infrastructuur||2014/01/27 11:30:04|procm|U|
-ICTAutomatisering.ICTAutomatisering_Infra|Infrastructuur||2014/01/27 13:59:18|procm|U|
-ICTAutomatisering.ICTAutomatisering_Hardware|ICT Automatisering Hardware||2014/01/28 10:46:48|procm|U|
-ICTAutomatisering.ICTAutomatisering_Hardware|ICT Automatisering Hardware||2014/01/28 12:00:26|procm|U|
-KnowledgeBase.KB_Index|KnowledgeBase Index||2014/01/28 16:57:32|procm|U|
-ICTAutomatisering.ICTAutomatisering_Terminology|Terminology, Systems & apps names||2014/01/29 23:11:09|procm|U|
-KnowledgeBase.KB_Index|KnowledgeBase Index||2014/02/01 12:01:30|procm|U|
-KnowledgeBase.KB_Index|KnowledgeBase Index||2014/02/04 11:53:07|procm|U|
-Insights.Insights_Index|Insights *Getting Things Done||2014/02/06 14:44:24|procm|U|
 ICTAutomatisering.ICTAutomatisering_Infra|Infrastructuur||2014/02/06 15:25:18|procm|U|
 ICTAutomatisering.ICTAutomatisering_Hardware|ICT Automatisering Hardware||2014/02/07 11:50:58|procm|U|
 ICTAutomatisering.ICTAutomatisering_Hardware|ICT Automatisering Hardware||2014/02/07 17:56:02|procm|U|
@@ -97,3 +85,8 @@ Insights.Insights_Index|Insights *Getting Things Done||2014/06/07 20:42:38|procm
 ICTAutomatisering.ICTAutomatisering_RhoMobile|Motorola RhoMobile||2014/06/10 10:47:03|procm|U|
 Insights.Insights_Index|Insights *Getting Things Done||2014/06/12 10:57:17|procm|U|
 ICTAutomatisering.ICTAutomatisering_RhoMobile|Motorola RhoMobile||2014/06/12 15:39:04|procm|U|
+ICTAutomatisering.ICTAutomatisering_Windows-Azure|Windows Azure (MANNA)||2014/06/13 13:55:40|procm|U|
+ICTAutomatisering.ICTAutomatisering_Index|ICT Automatisering index||2014/06/13 14:03:18|procm|U|
+ICTAutomatisering.ICTAutomatisering_MonitoringTool|Monitoring Tool||2014/06/13 14:03:50|procm|U|
+ICTAutomatisering.ICTAutomatisering_MonitoringTool|Monitoring Tool||2014/06/13 15:28:46|procm|U|
+ICTAutomatisering.ICTAutomatisering_MonitoringTool|Monitoring Tool||2014/06/13 16:28:51|procm|U|

@@ -114,3 +114,4 @@ KnowledgeBase.Workspace-Management|KnowledgeBase\Workspace-Management.cs|2013/10
 ICTAutomatisering.ICTAutomatisering_Hardware|ICTAutomatisering\ICTAutomatisering_Hardware.cs|2014/01/22 10:50:09
 KnowledgeBase.Mobile|KnowledgeBase\Mobile.cs|2014/02/17 15:46:09
 ICTAutomatisering.ICTAutomatisering_RhoMobile|ICTAutomatisering\ICTAutomatisering_RhoMobile.cs|2014/02/25 10:34:04
+ICTAutomatisering.ICTAutomatisering_Windows-Azure|ICTAutomatisering\ICTAutomatisering_Windows-Azure.cs|2014/02/25 17:11:10

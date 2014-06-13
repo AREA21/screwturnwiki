@@ -1,9 +1,9 @@
 Windows Azure (MANNA)
-procm|2014/02/25 17:11:10
+procm|2014/06/13 13:55:40
 ##PAGE##
 {TOC}
 
-=== Competences===
+=== Competencies===
 <PRE>
 * Certificates
 ** PKI '''X.509''' - Public Key Infrastructure 
