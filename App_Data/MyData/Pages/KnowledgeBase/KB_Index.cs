@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2014/05/21 11:33:40
+procm|2014/06/30 11:16:03
 ##PAGE##
 {TOC}
 
@@ -94,6 +94,12 @@ procm|2014/05/21 11:33:40
 
 == '''FAQ'''==
 (((
+=== How-to generate a Certificate Signing Request (CSR)?===
+* [https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&actp=CROSSLINK&id=SO21228|Certificate Signing Request (CSR) Generation Instructions for Microsoft IIS 8]
+
+=== How-to convert Certificates?===
+* [https://www.sslshopper.com/ssl-converter.html|SSL converter with OpenSSL commands to Convert SSL Certificates on Your Machine]
+
 === How to correctly set Java environment?===
 eg:
 * '''PATH'''= C:\Program Files\Java\jdk1.7.0_45\bin

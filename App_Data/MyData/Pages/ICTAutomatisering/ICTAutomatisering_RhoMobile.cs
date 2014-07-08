@@ -1,5 +1,5 @@
 Motorola RhoMobile
-procm|2014/06/12 15:50:31|(((mobile,mobile apps)))(((Motorola RhoMobile)))
+procm|2014/06/18 12:06:07|(((mobile,mobile apps)))(((Motorola RhoMobile)))
 ##PAGE##
 {TOC}
 
@@ -25,6 +25,9 @@ procm|2014/06/12 15:50:31|(((mobile,mobile apps)))(((Motorola RhoMobile)))
 ** Windows Phone
 ** iPhone IOS -> needed to register as IOS developer, not free 
 ** Win32
+
+* Hardware
+** [http://www.youtube.com/watch?v=-P2IBSRdXLg|MC40 (android) video]
 </PRE>
 
 === '''Modules'''===
@@ -243,6 +246,13 @@ Contact    : Jan.Mulder@ict.nl
 
 === '''Backlog(s)'''===
 <PRE>
+==== What to do when Motorola MC40 can't connect to WIFI?====
+* Tap on Menu Button
+* Select '''Settings / Wireless & networks'''
+* Tap on the Menu Button again and select '''Advanced'''
+* Deselect the '''Enable 802.11d''' checkbox
+* Re-connect to the wireless network
+
 ==== How-to fix Git (clone) permission denied?====
 * Check for SSH keys
 ** folder Path: %USERPROFILE%\.ssh eg: c:\users\insights\.ssh

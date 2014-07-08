@@ -1,5 +1,5 @@
 Infrastructuur
-procm|2014/06/17 15:55:55
+procm|2014/06/17 15:43:17
 ##PAGE##
 {TOC}
 
@@ -42,12 +42,12 @@ procm|2014/06/17 15:55:55
 
 === OTAP environment===
 <PRE>
-* '''PostNL(extern)'''
+* PostNL(extern)
 ** '''P'''rod                 : *.mijnpost.postnl.nl
 ** p'''A'''t/GAT (acceptatie) : *.mijnpost.pat.postnl.nl
 ** '''T'''/'''TST'''est       : *.mijnpost.tst.postnl.nl
 
-* '''ICT Auto.(intern)'''
+* ICT Auto.(intern)
 ** STS (test)
 *** server                    :  \\'''vm0053.bar.ict.nl''', *.tntpost.nl
 ** DEV 
@@ -55,28 +55,8 @@ procm|2014/06/17 15:55:55
 **** dev\agtstub\TestData\{'''computername'''}
 **** dev\agtstub\LogData\{'''computername'''}
 
-==== URL (naming conventions)====
-'''On Premise'''
-* AGT/PAK
-** [https://agt.sts.tntpost.nl]
-** [https://aangetekend.mijnpost.tst.postnl.nl]
-** [https://aangetekend.mijnpost.pat.postnl.nl]
-** [https://aangetekend.mijnpost.postnl.nl]
-
-* MijnPost
-** [https://mytnt.sts.tntpost.nl/Start]
-** [https://home.mijnpost.tst.postnl.nl/Start]
-** [https://home.mijnpost.pat.postnl.nl/Start]
-** [https://home.mijnpost. postnl.nl/Start]
-
-* Overige
-** https://selfservice.mijnpost.tst.postnl.nl
-
-'''Windows AZure'''
-* https://{'''appname'''}.{'''waz'''}.mijnpost.{'''waz'''}.{'''TA'''}.postnl.nl
-** eg.: https://tarieventool.tst.waz.mijpost.post.nl
-
-</PRE>{TOP}
+: [https://cm11.cm.ict.nl/mijnpost_trac/wiki/Testgebruikers|'''PostNL TestUsers env.''']
+</PRE>
 
 === Visual Studio TFS Solutions===
 
@@ -109,3 +89,26 @@ VS Solution(path): ..\Rel\2013_R4\Humiq.MyTNT.AgtPak.Project.sln
 * AWN, '''A'''nt'''W'''oord'''N'''ummers)))
 </PRE>
 
+=== URL (naming conventions)===
+<PRE>
+'''On Premise'''
+* AGT/PAK
+** [https://agt.sts.tntpost.nl]
+** [https://aangetekend.mijnpost.tst.postnl.nl]
+** [https://aangetekend.mijnpost.pat.postnl.nl]
+** [https://aangetekend.mijnpost.postnl.nl]
+
+* MijnPost
+** [https://mytnt.sts.tntpost.nl/Start]
+** [https://home.mijnpost.tst.postnl.nl/Start]
+** [https://home.mijnpost.pat.postnl.nl/Start]
+** [https://home.mijnpost. postnl.nl/Start]
+
+* Overige
+** https://selfservice.mijnpost.tst.postnl.nl
+
+'''Windows AZure'''
+* https://{'''appname'''}.{'''waz'''}.mijnpost.{'''waz'''}.{'''TA'''}.postnl.nl
+** eg.: https://tarieventool.tst.waz.mijpost.post.nl
+
+</PRE>

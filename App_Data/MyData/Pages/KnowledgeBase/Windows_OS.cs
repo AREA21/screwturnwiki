@@ -1,9 +1,21 @@
 Windows OS'es
-procm|2014/02/27 15:23:04
+procm|2014/06/23 14:16:18
 ##PAGE##
 {TOC}
 
-=== '''Windows Desktop (XP-7)'''===
+=== '''Windows Desktop (XP-8)'''===
+: '''VMware Workstation and Hyper-V are not compatible'''. Remove the Hyper-V role from the system before running VMware Workstation.
+<PRE>
+This is because the Hyper-V role is installed and this conflicts with VMware Workstation. 
+
+To disable Hyper-V from starting the following command can be used:
+* bcdedit /set hypervisorlaunchtype off
+** A reboot of of the Windows OS is necessary.
+
+To enable the Hyper-V role again use the following command:
+* bcdedit /set hypervisorlaunchtype auto
+** A reboot of of the Windows OS is necessary.
+</PRE>
 
 : '''RES PowerFuse/Workspace Manager cannot continue because no licenses are available'''
 <PRE>
