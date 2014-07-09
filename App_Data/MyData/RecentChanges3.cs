@@ -95,3 +95,4 @@ ICTAutomatisering.ICTAutomatisering_MonitoringTool|Monitoring Tool||2014/06/19 1
 KnowledgeBase.Windows_OS|Windows OS'es||2014/06/23 14:15:52|procm|U|
 KnowledgeBase.KB_Index|KnowledgeBase Index||2014/06/27 12:15:35|procm|U|
 KnowledgeBase.KB_Index|KnowledgeBase Index||2014/06/30 11:16:03|procm|U|
+Insights.Accomplishments|Accomplishments||2014/07/09 14:28:09|procm|U|

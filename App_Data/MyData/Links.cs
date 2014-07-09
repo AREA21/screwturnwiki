@@ -21,7 +21,6 @@ ICTAutomatisering.ICTAutomatisering_RhoMobile|ICTAutomatisering.
 ICTAutomatisering.ICTAutomatisering_Terminology|
 ICTAutomatisering.ICTAutomatisering_Tools-Technologies|
 ICTAutomatisering.ICTAutomatisering_Windows-Azure|
-Insights.Accomplishments|KnowledgeBase.AD_Migration|KnowledgeBase.ServersAndServices_Migration|KnowledgeBase.Exchange_Virtualization
 Insights.Certification-MCPD_Dev4|
 Insights.Insights_Index|ICTAutomatisering.ICTAutomatisering_RhoMobile|KnowledgeBase.Umbraco-CMS|Insights.Certification-MCPD_Dev4|Insights.Accomplishments
 KnowledgeBase.AD_Migration|
@@ -116,3 +115,4 @@ MVSD.Vestia-Projectontwikkeling|
 MVSD.Wateringse-Binnentuinen|
 MVSD.Zomerfestival-Brielle|
 NexusVerus.NexusVerus_Index|
+Insights.Accomplishments|KnowledgeBase.AD_Migration|KnowledgeBase.ServersAndServices_Migration|KnowledgeBase.Exchange_Virtualization

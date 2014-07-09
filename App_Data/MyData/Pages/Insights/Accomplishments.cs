@@ -1,5 +1,5 @@
 Accomplishments
-procm|2014/03/26 16:20:38
+procm|2014/07/09 14:28:09
 ##PAGE##
 {TOC}
 
@@ -16,6 +16,7 @@ procm|2014/03/26 16:20:38
 * [http://appharbor.com|evaluation: AppHarbor (GIT, Heroku)]
 ** [http://cmo-wiki.apphb.com|My ScrewTurnWiki on AppHarbor]
 ** issue SQLCE support: [http://support.appharbor.com/discussions/problems/519-sql-server-compact]
+** Load Testing: [https://appharbor.com/addons/loaderio]
 
 * Available Repo's, docs & info:
 ** [https://bitbucket.org/screwturn|Bitbucket ScrewTurn Wiki 4]
