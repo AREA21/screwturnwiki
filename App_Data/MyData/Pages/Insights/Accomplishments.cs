@@ -1,10 +1,16 @@
 Accomplishments
-procm|2014/07/09 14:28:09
+procm|2014/07/11 17:23:23
 ##PAGE##
 {TOC}
 
-=== Ongoing===
-* [http://gpsunderground.com/forum/car-navi-system/car-gps-systems/volkswagen-seat-skoda|Update Car Navigation]
+=== Ongoing (eInsights, enhanced Insights)===
+* Port/replicate Sony Ericson K750i Presenter to Android
+** [http://developer.sonymobile.com/knowledge-base/archives/bluetooth-remote-control]
+** [http://seamonkey420.tech-recipes.com/k750i/myhid.html|'''Jimmy Selix''', K750/W800i HID Profiles i made for PowerDVD, SageTV, and more...]
+** [http://www.mobiles24.com/downloads/d/dqEZRzYSuk|Nokia Wireless Presenter]
+** [http://forum.xda-developers.com/showthread.php?t=2325619|Install Java apps(.jar files) on Android]
+
+* [http://gpsunderground.com/forum/car-navi-system/car-gps-systems/volkswagen-seat-skoda|Hack/myCar Navigation]
 
 * [http://www.mono-project.com|Mono Project]
 ** ...open source implementation of Microsoft's .Net Framework based on the ECMA standards for C# and the Common Language Runtime.
@@ -21,7 +27,7 @@ procm|2014/07/09 14:28:09
 * Available Repo's, docs & info:
 ** [https://bitbucket.org/screwturn|Bitbucket ScrewTurn Wiki 4]
 ** [https://stw.codeplex.com/releases/view/108727|Codeplex ScrewTurn Wiki 3.0.5.600]
-** [http://blogs.msdn.com/b/windowsazure/archive/2011/06/17/real-world-windows-azure-interview-with-dario-solera-cofounder-of-threeplicate.aspx]
+** [http://blogs.msdn.com/b/windowsazure/archive/2011/06/17/real-world-windows-azure-interview-with-dario-solera-cofounder-of-threeplicate.aspx|Interview with Dario Solera, Cofounder of Threeplicate]
 </PRE>
 
 === High Availability (Private Cloud) Proof of Concept (@Brainnet, 2012)===

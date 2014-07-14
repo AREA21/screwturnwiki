@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2014/06/30 11:16:03
+procm|2014/07/09 17:12:54
 ##PAGE##
 {TOC}
 
@@ -46,6 +46,28 @@ procm|2014/06/30 11:16:03
 ** [MSBuild|MSBuild]
 * [http://drewby.com/using-web-deploy-to-sync-your-webmatrix-site|Using WebDeploy to sync your Webmatrix site]
 
+==== Quick start: deploying to '''AppHarbor''', Heroku cloud====
+(((<nowiki>
+* Getting started
+ 1. Download and install msysGit
+ 2. Start Git Bash
+ 3. git config --global user.name procm (or use your full name)
+ 4. git config --global user.email procm@hotmail.com
+ 5. git config --global http.postBuffer 52428800 (optional?)
+
+* New Application?
+ 1. Create Visual Studio solution with Web Project (eg. ASP.NET MVC 3 template project)
+ 2. cd path\to\my\solution\folder
+ 3. git init
+ 4. git add .
+ 5. git commit -m "eg.: add template project"
+
+* Add AppHarbor Repository and Push
+ 1. git remote add appharbor https://procm@appharbor.com/cmo-wiki.git
+ 2. git push appharbor master
+ 3. Refresh this page to see your code build
+</nowiki>
+)))
 
 === Version Control===
 * [SVN-Branches|SVN Branches]

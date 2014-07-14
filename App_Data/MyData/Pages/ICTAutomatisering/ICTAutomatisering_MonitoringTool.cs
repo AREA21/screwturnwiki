@@ -1,5 +1,5 @@
 Monitoring Tool
-procm|2014/06/19 16:13:07
+procm|2014/07/14 14:52:52
 ##PAGE##
 {TOC}
 
@@ -88,6 +88,8 @@ message in the management portal. To obtain more detailed information on the hea
 ** [http://www.manageengine.com/free-azure-performance-monitor/free-azure-performance-monitor-index.html|Manage Engine Azure]
 ** [http://www.uptrends.nl|Uptrends]
 ** [http://www.site24x7.com|Site24x7]
+
+* [https://www.dropbox.com/s/4vwlab0xp9sgl0w/MonitoringTools%20%26%20Features.docx|Monitoring Tools Comparison]
 
 * Testing
 ** [http://azurespeedtest.azurewebsites.net|Azure Speedtest (Blob Storage Latency)]
