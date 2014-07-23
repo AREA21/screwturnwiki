@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2014/07/09 17:12:54
+procm|2014/07/23 16:14:55
 ##PAGE##
 {TOC}
 
@@ -116,6 +116,9 @@ procm|2014/07/09 17:12:54
 
 == '''FAQ'''==
 (((
+=== How to check which IIS (Internet Information Version) version the server is using?===
+* run '''Regedit''' & look for key value: '''HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\InetStp\VersionString''' eg.: 7.5. 
+
 === How-to generate a Certificate Signing Request (CSR)?===
 * [https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&actp=CROSSLINK&id=SO21228|Certificate Signing Request (CSR) Generation Instructions for Microsoft IIS 8]
 

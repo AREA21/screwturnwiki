@@ -1,5 +1,5 @@
 Insights *Getting Things Done
-procm|2014/06/12 10:59:50
+procm|2014/07/23 15:37:14
 ##PAGE##
 {TOC}
 
@@ -70,6 +70,10 @@ and you can use extended features of the phone like the camera or gyroscope. But
 ** [http://www.outsystems.com/forums/discussion/9911/How-To%3a+build+a+hybrid+app+using+PhoneGap+Builder]
 ** [http://www.outsystems.com/forums/discussion/9906/how-to-build-a-hybrid-android-app]
 ** [http://www.outsystems.com/forums/discussion/9910/how-to-build-a-hybrid-ios-app]
+
+==== Frameworks comparison====
+[http://www.amlcode.com/2010/07/16/comparison-appinventor-rhomobile-phonegap-appcelerator-webview-and-aml|App Inventor vs DroidDraw vs Rhomobile vs PhoneGap vs Appcelerator vs Webview vs Aml]
+[http://floatlearning.com/2011/07/which-cross-platform-framework-is-right-for-me|Which Cross-platform framework is right for me?]
 </PRE>
 
 === SMS Gateways===

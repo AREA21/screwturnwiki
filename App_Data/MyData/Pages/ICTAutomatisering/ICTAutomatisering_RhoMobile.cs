@@ -1,5 +1,5 @@
 Motorola RhoMobile
-procm|2014/06/18 12:06:07|(((mobile,mobile apps)))(((Motorola RhoMobile)))
+procm|2014/07/21 12:59:32|(((mobile,mobile apps)))(((Motorola RhoMobile)))
 ##PAGE##
 {TOC}
 
@@ -39,7 +39,7 @@ procm|2014/06/18 12:06:07|(((mobile,mobile apps)))(((Motorola RhoMobile)))
 '''rake - Project Build command'''
 
 (((examples:
-* rake --trace config:android  #'''Debug''' building process
+* rake -+-trace config:android  #'''Debug''' building process
 * rake -T  #'''Full List'''s available Targets/Options)
 
 '''Full List:'''
@@ -246,6 +246,9 @@ Contact    : Jan.Mulder@ict.nl
 
 === '''Backlog(s)'''===
 <PRE>
+==== Disable MC40 Scan (hardware) button/DataEdge standard functionality ====
+* [https://developer.motorolasolutions.com/docs/DOC-1928#disablingdatawedge| Disabling DataWedge]
+
 ==== What to do when Motorola MC40 can't connect to WIFI?====
 * Tap on Menu Button
 * Select '''Settings / Wireless & networks'''
@@ -320,10 +323,10 @@ to obtain ANY information about the setup of your visitor's computer.
 ==== How-to enable JavaScript '''Remote debugging''' on a Real Device?==== 
 * Update NodeJS Package Manager, to solve its own self signed SSL errors: '''npm update npm -g'''
 * Install WeinRE: '''npm -g install weinre'''
-* start webserver: '''weinre -+-httpPort 8181 -+-boundHost -all-''', {local '''IP Address''' of '''-All-''' for every internal interface>
+(((* <nowiki>start webserver: weinre --httpPort 8181 --boundHost -all- </nowiki> '''...boundHost''': -> local '''IP Address''' of '''-All-''' for every internal interface)))
 * [http://docs.rhomobile.com/en/4.0.0/guide/remote-debug#enabling-weinre-in-your-app|Enable Weinre in the Client (your App)]
 
-==== -specific for Android platform====
+==== ++specific for Android platform====
 * How to fix when SDK Android Manager is not opening?
 ** fix: Computer -> Advanced system settings -> Environment variables -> PATH -> make sure "C:\Program Files\Java\{JDK-version}\bin" became the 1st entry.
 
@@ -347,10 +350,9 @@ eg.: D:\Transfer.cmo\Software\Eclipse\Eclipse_ADT\sdk\tools> emulator -avd testa
 ** devices ...to list available "devices/emulators", start its "daemon" if needed
 ** install {filename.apk} ...install apk file
 ** install -r {filename.apk} ...reinstall apk file 
+*** eg.: {ADT path}\sdk\platform-tools> adb -s 4df1ef5c36ef5f4d install -r d:\temp\scanclientclone_signed.apk
 ** shell ...to get access to the (Linux Operating System) Shell
 *** eg.: {ADT path}\sdk\platform-tools> adb -s 4df1ef5c36ef5f4d shell
-*** eg.: {ADT path}\sdk\platform-tools> adb -s 4df1ef5c36ef5f4d install -r d:\temp\scanclientclone_signed.apk
-
 </PRE>{TOP}
 
 === '''Installation RhoMobile Suite (custom)'''===
