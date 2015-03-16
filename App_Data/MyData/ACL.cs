@@ -42,3 +42,9 @@ N.ICTAutomatisering|*|G.ICTA|0
 P.MainPage|Rd_1Pg|G.ICTA|1
 P.MainPage|*|G.ICTA|0
 N.Insights|*|G.Anonymous|0
+N.Hoogendoorn|*|G.Anonymous|0
+N.Hoogendoorn|Rd_Pg|G.HGMx|1
+N.Hoogendoorn|Rd_Disc|G.HGMx|1
+N.Hoogendoorn|Pst_Disc|G.HGMx|1
+N.Hoogendoorn|Down_Attn|G.HGMx|1
+N.Hoogendoorn|*|G.HGMx|0

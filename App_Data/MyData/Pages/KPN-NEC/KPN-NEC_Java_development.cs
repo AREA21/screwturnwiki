@@ -1,11 +1,11 @@
 KPN-NEC Used Java technologies
-procm|2012/12/07 16:16:02
+procm|2014/07/17 17:10:42
 ##PAGE##
-'''NEC'''('''N'''ieuw '''E'''lectronisch '''C'''ontact) x
+'''NEC'''('''N'''ieuw '''E'''lectronisch '''C'''ontact)
 ----
 <pre>
  Eclipse IDE 3.2 + J2EE (SDK 1.4.2) + J2RE 1.5(client)
- [^http://edocs.bea.com/wls/docs81/|Bea Weblogic 8.1 SP6 Application Server]) 
+ [http://edocs.bea.com/wls/docs81/|Bea Weblogic 8.1 SP6 (Application Server)] 
  Oracle DB 10.1.xx
  EJB 2.0 (Enterprise Java Beans)
  [^http://edocs.bea.com/wls/docs81/jsp/index.html|JSP v1.2/2.0]
@@ -13,7 +13,7 @@ procm|2012/12/07 16:16:02
  [^http://en.wikipedia.org/wiki/Java_Advanced_Imaging|Sun JAI v.1.1.2]
 </pre>
 
-'''OpenSymphony'''' (J2EE components- Web frameworks)
+'''OpenSymphony''' (J2EE components- Web frameworks)
 ----
 <pre>
  [http://www.opensymphony.com/webwork/wikidocs/UI%20Tags.html|Web Application Framework, WebWork v.2.2.2]

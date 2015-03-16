@@ -1,5 +1,5 @@
 Motorola RhoMobile
-procm|2014/07/21 12:59:32|(((mobile,mobile apps)))(((Motorola RhoMobile)))
+procm|2014/09/15 14:09:45|(((mobile,mobile apps)))(((Motorola RhoMobile)))
 ##PAGE##
 {TOC}
 
@@ -219,8 +219,8 @@ RhoMobile(IDE) '''workspace''': D:\Transfer.cmo\Dropbox\MyProjects\ICTNL\RhoMobi
 
 '''ScanClientClone SOAP demo'''
 * Location : %workspace%\ScanclientClone
-* App URL  : [https://app.rhohub.com/schiej/apps/ScanclientClone]
-* Git repo : git@git.rhohub.com:procm/ScanclientClone.git
+* App URL  : [https://app.rhohub.com/procm/apps/scanclientclone_sdk4]
+* Git repo : git@git.rhohub.com:procm/ScanClientClone_sdk4.git
 
 * resources:
 ** [https://www.youtube.com/watch?feature=player_detailpage&v=Btbsgm-xPi8|Barcode API with RhoMobile 4.0]

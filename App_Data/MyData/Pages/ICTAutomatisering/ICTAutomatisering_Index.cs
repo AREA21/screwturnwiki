@@ -1,5 +1,5 @@
 ICT Automatisering index
-procm|2014/06/13 14:03:18
+procm|2014/10/23 16:32:13
 ##PAGE##
 '''I'''ndustriële '''C'''omputing '''T'''oepassingen ('''ICT''') Automatisering
 : summary:...
@@ -11,9 +11,16 @@ procm|2014/06/13 14:03:18
 * [ICTAutomatisering_Terminology|Terminology, Systems & apps names]
 * [ICTAutomatisering_Hardware|Hardware]
 * [ICTAutomatisering_Windows-Azure|Windows Azure (MANNA)]
-* [ICTAutomatisering_RhoMobile|Motorola RhoMobile(apps)]
+
+* [ICTAutomatisering_RhoMobile|Motorola '''RhoMobile'''(apps)]
+** [http://crossdock-demo.cloudapp.net:8101/CrossDock-ViewController-context-root/faces/security/pages/Login.jsf|'''CrossDock''' Backend (cloud version)]
 
 * [ICTAutomatisering_MonitoringTool|'''Monitoring Tool(asp.net, azure...)''']
+** [http://blogs.technet.com/b/cbernier/archive/2013/10/23/monitoring-windows-azure-with-system-center-operations-manager-2012-get-me-started.aspx|Monitoring Windows Azure with '''SCOM 2012''' – GET ME STARTED!]
+
+* [https://humiqtrial.sharepoint.com/sites/LogisticsOperation/LogProductontwikkeling/SmartPortal/Wiki/Home.aspx/|SmartPortal Sharepoint]
+** [https://www.yammer.com/ict.nl/users/frankhoogmans#/Threads/fromUser?type=from_user&feedId=1513331213|Yammer by Frank Hoogmaans]
+
 
 * [https://intranet.ict.nl/C1256F38001F1D5D/INETPage/ykOqMUeF?open|'''Boeken Bestellen''']
 </PRE>

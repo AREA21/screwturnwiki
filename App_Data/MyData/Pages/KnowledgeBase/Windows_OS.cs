@@ -1,5 +1,5 @@
 Windows OS'es
-procm|2014/06/23 14:16:18
+procm|2014/07/30 10:14:54
 ##PAGE##
 {TOC}
 
@@ -74,6 +74,14 @@ resetting the DSRM password.
 </PRE>
 
 === '''Network'''===
+
+==== How-to set Network manually in Windows====
+* netsh interface ipv4 set address name="Wi-Fi" source=static address=10.0.1.251 mask=255.255.252.0 gateway=10.0.1.1
+* netsh interface ipv4 add dnsserver name="DNS1" address=8.8.8.8 index=1
+* netsh interface ipv4 add dnsserver name="DNS2" address=8.8.4.4 index=2	
+
+* Show NIC names: netsh interface show interface
+
 ==== Determine existing Ports bindings====
 * '''netstat -abno | findstr 1801'''
 ** ...From the output it will be shown all instances of the message queue driver listening on port 1801.  To see what is the instance of the driver, execute:

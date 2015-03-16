@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2014/07/23 16:14:55
+procm|2014/09/26 16:34:08
 ##PAGE##
 {TOC}
 
@@ -116,14 +116,30 @@ procm|2014/07/23 16:14:55
 
 == '''FAQ'''==
 (((
+=== Linking Issues: the magic URL trailing Slashes===
+* [http://webmasters.stackexchange.com/questions/35643/is-trailing-slash-automagically-added-on-click-of-home-page-url-in-browser|Is trailing slash automagically added on click of home page URL in browser?]
+* [http://www.searchenginejournal.com/linking-issues-why-a-trailing-slash-in-the-url-does-matter/13021/|Why a Trailing Slash in the URL Does Matter]
+* [http://sebastians-pamphlets.com/thou-must-not-steal-the-trailing-slash-from-my-urls/#why-stealing-slashes-is-plain-robbery|Stealing the trailing slash(/) from the URL]
+
+* Firefox: Add a trailing slash to urls again
+** Type '''about:config''' into the address bar and hit enter.
+*** Confirm that you will be careful if you load the page for the first time.
+** Type in the Search box: '''browser.urlbar.trimURLs'''
+*** Double-click the entry to set it to false
+
 === How to check which IIS (Internet Information Version) version the server is using?===
+* launch '''IIS Manager''' -> Help -> About Internet Information  Services
 * run '''Regedit''' & look for key value: '''HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\InetStp\VersionString''' eg.: 7.5. 
+
 
 === How-to generate a Certificate Signing Request (CSR)?===
 * [https://knowledge.verisign.com/support/ssl-certificates-support/index?page=content&actp=CROSSLINK&id=SO21228|Certificate Signing Request (CSR) Generation Instructions for Microsoft IIS 8]
 
 === How-to convert Certificates?===
 * [https://www.sslshopper.com/ssl-converter.html|SSL converter with OpenSSL commands to Convert SSL Certificates on Your Machine]
+
+=== How-to Change default self-signed-certificate for IIS Express?===
+* [http://blogs.iis.net/divyaa/archive/2010/09/23/changing-the-default-self-signed-certificate-for-a-website-in-webmatrix.aspx|Changing default self-signed-certificate for IIS Express]
 
 === How to correctly set Java environment?===
 eg:

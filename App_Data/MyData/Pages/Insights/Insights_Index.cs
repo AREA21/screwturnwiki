@@ -1,5 +1,5 @@
 Insights *Getting Things Done
-procm|2014/07/23 15:37:14
+procm|2015/03/16 17:49:24
 ##PAGE##
 {TOC}
 
@@ -138,13 +138,12 @@ and you can use extended features of the phone like the camera or gyroscope. But
 ** [http://blogs.msdn.com/b/adonet/archive/2010/12/14/ef-feature-ctp5-released.aspx|Code First deployment, ADO.NET extension coming in EF 4.1(now CTP5)]
 ** [http://weblogs.asp.net/scottgu/archive/2010/07/16/code-first-development-with-entity-framework-4.aspx|Code First deployment, with '''E'''ntity '''F'''ramework-4]
 
+==== Web-technology====
+<PRE>
 * '''WebDAV''' (Web-based Distributed Authoring and Versioning)
 ** [http://www.microsoft.com/netherlands/ondernemers/techniek_techniek/webdav.aspx|WebDAV protocol]
 ** [http://www.windowsnetworking.com/articles_tutorials/WebDAV-IIS.html|Using WebDAV with IIS]
-</PRE>
 
-=== Web-technology===
-<PRE>
 * [http://www.modernizr.com/|Modernizr js library, active detection of browser support for HTML5 & CSS3 features]
 * [http://www.4guysfromrolla.com/articles/030310-1.aspx|Improving CSS With .LESS]
 * [http://clientdependency.codeplex.com/|Client Dependency Framework, replaces scriptmanager/proxy manager of ASP.NET] 
@@ -156,6 +155,7 @@ and you can use extended features of the phone like the camera or gyroscope. But
 ** others
 </PRE>
 
+</PRE>
 === OpenSource & COTS===
 <PRE>
 * [++KnowledgeBase.Umbraco-CMS|'''Umbraco CMS''']
@@ -232,7 +232,7 @@ SCRUM as the Agile pratice
 
 * [http://www.simple-talk.com/dotnet/.net-tools/web-testing-with-selenium-sushi-a-practical-guide-and-toolset/|Web Testing with Selenium]
 * [http://www.simple-talk.com/dotnet/.net-tools/testing-times-ahead-extending-nunit/|Testing times ahead extending Nunit]
-* --[http://www.gibraltarsoftware.com/See/Default.aspx|Gibraltar .NET Analyzer]--
+* [http://www.gibraltarsoftware.com|Gibraltar .NET Analyzer]
 * [http://getfirebug.com/|Firebug]
 ** [http://vimeo.com/18411877|What's new in Firebug 1.6 (video)]
 * [http://getglimpse.com| Glimpse, what Firebug is for the client is Glimpse for the server]
@@ -314,15 +314,15 @@ SCRUM as the Agile pratice
 * --HDTV 3D capable--
 * HD Home Theater System
 * --BLu-ray player capable of 3D & streaming Online content (YouTube, Netflix)--
-* Xbox ONE (Kinect) or PS4   
+* --Xbox ONE (Kinect) or PS--4   
 
 === Informatics===
 * --Server memory 8GB(2x4) Dell PowerEdge 2950-- §§(celio,2011/10/05 17:38:31)§§
 * --Notebook i7 Quad Core--
 * --SSD disk--
 * Tablet for comfortable Reading/Browsing '''Windows8 ??'''
-* NAS/SAN for Central Storage/repository
-* Network 1GB /10GB
+* --NAS/SAN for Central Storage/repository--
+* --Network 1GB /10GB--
 
 === Books===
 * [http://www.amazon.com/gp/registry/wishlist/2C1Y2XGQW63GS]

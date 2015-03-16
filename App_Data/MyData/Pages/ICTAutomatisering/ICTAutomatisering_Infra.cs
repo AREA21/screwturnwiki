@@ -1,5 +1,5 @@
 Infrastructuur
-procm|2014/06/17 15:55:55
+procm|2014/10/28 15:49:17
 ##PAGE##
 {TOC}
 
@@ -55,20 +55,47 @@ procm|2014/06/17 15:55:55
 **** dev\agtstub\TestData\{'''computername'''}
 **** dev\agtstub\LogData\{'''computername'''}
 
+<msg type=information></msg>
+==== How-to abandon STS and map the Dev environment to SAP T?====
+(((per application{PPO, AGT, PAK} we should modify a couple of settings!!)))
+
+'''PPO (PartijenPost):'''
+* ...PostNL\MijnPost\Dev\M_2014_R5\MyTNT\PPO\Impl\Cloud\'''ServiceConfiguration.Local.cscfg'''      
+
+{@code-xml: 
+ <Setting name="IsTareCustomerSpecfic" value="true"></Setting>
+ <Setting name="ADFSUserImpersonationEnabled" value="true"></Setting>
+ <Setting name="ADFSUserImpersonationConfig" value="upn=TS-000044@customer.dmz.ref;name=Post de Tester;klantnr=9223010;email=postnl001235@gmail.com;
+   roles=MIJNPOST_FACT,MIJNPOST_TARIEVENTOOL,MIJNPOST_PAK,MIJNPOST_AGT,MIJNPOST_HYBRIDE,MIJNPOST_RAP,MIJNPOST_PPO,MIJNPOST_OBV,MIJNPOST_AWN"></Setting>
+ 
+ <!-- using PostNL Puma we can go to "admin users", the get the desired credentials--> 
+@}
+
+* Container.components.config
+** ...??? 
+* Finally use Solution Configuration '''T'''!
+
+
 ==== URL (naming conventions)====
-'''On Premise'''
-* AGT/PAK
+
+===== AGT - PAK - Hybride(klikverzend)=====
+* Test: 
 ** [https://agt.sts.tntpost.nl]
 ** [https://aangetekend.mijnpost.tst.postnl.nl]
+** [https://klikverzend.mijnpost.tst.postnl.nl]
+* Acceptatie:
 ** [https://aangetekend.mijnpost.pat.postnl.nl]
+* Productie:
 ** [https://aangetekend.mijnpost.postnl.nl]
+
 
 * MijnPost
 ** [https://mytnt.sts.tntpost.nl/Start]
 ** [https://home.mijnpost.tst.postnl.nl/Start]
 ** [https://home.mijnpost.pat.postnl.nl/Start]
 ** [https://home.mijnpost. postnl.nl/Start]
-
+** PPO
+*** [https://ppo.waz.mijnpost.tst.postnl.nl]
 * Overige
 ** https://selfservice.mijnpost.tst.postnl.nl
 
@@ -101,7 +128,7 @@ VS Solution(path): ..\Rel\2013_R4\Humiq.MyTNT.AgtPak.Project.sln
 
 (((02 - AGT-PAK
 * Aangetekend, Pakketen, *OBV, Services: *AWN, Campagne service, LabelGeneratie, PartyCode, Adresboek, BarcodeBoek
-* Hybride-> Print & Verzend 
+* Hybride-> Print & Verzend -> Klik & Verzend
 * AVA, '''A'''utomatische '''V'''erwerking '''A'''ntwoordnummers
 * OBV, '''O'''ntvangst '''B'''e'''V'''estiging
 * Selfservice
@@ -109,3 +136,12 @@ VS Solution(path): ..\Rel\2013_R4\Humiq.MyTNT.AgtPak.Project.sln
 * AWN, '''A'''nt'''W'''oord'''N'''ummers)))
 </PRE>
 
+=== TypeScript debuggen (Visual Studio 2013)===
+<PRE>
+* Disable: Brouwer Link & Enable Saving F12 Changes (in VS2013)
+* Debug -> Start Debugging (F5) or Start Without Debugging (CTRL+F5)
+* Clear Brouwer cache, Google Chrome works wel with TypeScript.
+
+[imageauto|TypeScript issues in VS2013 (Brouwer Link)|{UP}/ICTA/PostNL/TypeScript VS2013 issues.jpg]
+
+</PRE>
