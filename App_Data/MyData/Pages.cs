@@ -117,3 +117,9 @@ ICTAutomatisering.ICTAutomatisering_RhoMobile|ICTAutomatisering\ICTAutomatiserin
 ICTAutomatisering.ICTAutomatisering_Windows-Azure|ICTAutomatisering\ICTAutomatisering_Windows-Azure.cs|2014/02/25 17:11:10
 ICTAutomatisering.ICTAutomatisering_MonitoringTool|ICTAutomatisering\ICTAutomatisering_MonitoringTool.cs|2014/06/13 14:03:50
 Hoogendoorn.Hoogendoorn_Index|Hoogendoorn\Hoogendoorn_Index.cs|2015/03/08 20:10:07
+Hoogendoorn.Hoogendoorn_ConfigurationManagement|Hoogendoorn\Hoogendoorn_ConfigurationManagement.cs|2015/03/24 13:50:30
+Hoogendoorn.Hoogendoorn_ShareWorkstationProjectFolderWithVPCs|Hoogendoorn\Hoogendoorn_ShareWorkstationProjectFolderWithVPCs.cs|2015/03/31 10:49:11
+Hoogendoorn.Hoogendoorn_Infrastructuur|Hoogendoorn\Hoogendoorn_Infrastructuur.cs|2015/03/31 10:54:04
+Hoogendoorn.Hoogendoorn_KnowledgeBase|Hoogendoorn\Hoogendoorn_KnowledgeBase.cs|2015/03/31 11:10:01
+Hoogendoorn.Hoogendoorn_SoftwareDeploymentAndRelease|Hoogendoorn\Hoogendoorn_SoftwareDeploymentAndRelease.cs|2015/03/31 13:58:48
+Hoogendoorn.Hoogendoorn_Terminology|Hoogendoorn\Hoogendoorn_Terminology.cs|2015/04/15 13:22:09

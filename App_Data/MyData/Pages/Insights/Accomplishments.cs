@@ -1,5 +1,5 @@
 Accomplishments
-procm|2015/02/09 12:08:24
+procm|2015/03/16 18:19:38
 ##PAGE##
 {TOC}
 
@@ -33,6 +33,12 @@ procm|2015/02/09 12:08:24
 === ScrewturnWiki migration to the Cloud===
 <PRE>
 * [http://sueetie.com/documentation/screwturn-file-to-sql|ScrewTurn Wiki- Local/File to SQL, Provider Migration Guide]
+
+(((Publish changes
+* git add . -A
+* git commit -m "{comment}"
+* git push -u origin master)))
+
 
 * [http://appharbor.com|evaluation: AppHarbor (GIT, Heroku)]
 ** [http://cmo-wiki.apphb.com|My ScrewTurnWiki on AppHarbor]
