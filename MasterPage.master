@@ -24,6 +24,7 @@
     
         <div id="HeaderDiv">
             <asp:Literal ID="lblHeaderDiv" runat="server" EnableViewState="false" />
+			<% Response.Write(Server.HtmlEncode(Request.UserHostAddress)); %> 
         </div>
                    
         <div id="ContainerDiv">

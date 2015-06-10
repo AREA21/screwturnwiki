@@ -1,5 +1,5 @@
 Infrastructuur
-procm|2015/05/08 09:47:00
+procm|2015/05/28 17:25:39
 ##PAGE##
 {TOC}
 
@@ -15,9 +15,9 @@ procm|2015/05/08 09:47:00
 *** NET USE h: \\Hoo-pc0031\hgm$ /user:bbinst\cmo /PERSISTENT:YES 
 *** Softlink: MKLINK "D:\transfer.cmo\VirtualImages" "C:\HGM\VPCs"
 ** Sharepoint Webfolders(WebDAV protocol)
-*** NET USE S: https://tfs.24green.com/documentation/HGM /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
+*** NET USE R: https://tfs.24green.com/documentation/HGM /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
 *** NET USE S: https://tfs.24green.com/documentation/24green /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
-*** NET USE S: https://tfs.24green.com/documentation/Anderson/user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
+*** NET USE T: https://tfs.24green.com/documentation/Anderson /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
 
 (((Station Leters (Mustafa op TEST-ISIIRM)
 * Bridge - F
@@ -29,6 +29,7 @@ procm|2015/05/08 09:47:00
 ** 10.30.4.12 -> Kyocera Mita FS-1800+
 
 * '''DNS'''
+** 10.1.2.8 - bbinst-virfil02
 ** 10.30.1.65 - RND-NAS01
 ** 192.168.149.3 - tfs-tfs01.tfs.local
 ** 192.168.149.9 - tfs-translation.tfs.local

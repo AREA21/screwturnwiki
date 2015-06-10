@@ -1,5 +1,5 @@
 KnowledgeBase
-procm|2015/05/08 13:24:42
+procm|2015/05/13 10:07:29
 ##PAGE##
 {TOC}
 
@@ -23,11 +23,14 @@ MSVC++ 7.0  _MSC_VER == 1300
 MSVC++ 6.0  _MSC_VER == 1200
 MSVC++ 5.0  _MSC_VER == 1100)))
 
+
 '''VS 2005''':
 C:\program files (x86)\microsoft visual studio 8\vc\bin>'''cl /?'''
 '''output''' eg.: Microsoft (R) C/C++ Optimizing Compiler Version 17.00.50727.1 for x86
         .....
 </PRE>
+
+=== [http://www.codeproject.com/Articles/28284/Installing-XP-Embedded|Installing XP Embedded (XPe)]===
 
 === Migration C++ projects VS2005 -> VS2010?===
 <PRE>
@@ -38,6 +41,22 @@ C:\program files (x86)\microsoft visual studio 8\vc\bin>'''cl /?'''
 === [Hoogendoorn_ShareWorkstationProjectFolderWithVPCs|Share Workstation Project Folder with VPC's]===
 summary: we can among other things for instance edit PgDB files without 1st copying them to the local Workstation
  
+
+=== How-to update IRS (XPembedded PC) with VC++ 2008===
+* Step1
+** '''Disable EWF protection'''
+*** ewfmgr c: -commitanddisable -live
+
+* Step2
+** '''Install the VC++ 2008 x86 Redistributable'''
+*** \\RND-NAS01\Bridge\Software\Visual Studio\Visual C++ 2008 Express Edition\VC_x86Runtime.exe
+
+* Step3
+** '''Enable EWF'''
+*** ewfmgr c: -commit
+*** ewfmgr c: -enable
+** '''Restart iRS'''(Regel station)
+*** xpepm -restart
 
 === Make iSii SystemManager service dependent on Networkservices(WMI/WBEM)===
 <PRE>

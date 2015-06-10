@@ -1,5 +1,5 @@
 Windows OS'es
-procm|2014/07/30 10:14:54
+procm|2015/05/27 10:03:04
 ##PAGE##
 {TOC}
 
@@ -44,6 +44,52 @@ failure and it was not possible to disable this peace of software because Window
 
 : '''Windows Updates Problems'''
 : ...execute the following command as Administrator: fsutil resource setautoreset true C:\
+
+: '''Windows File Junctions, Symbolic Links and Hard Links'''
+<PRE>
+So in Windows what is the difference between a short-cut and symbolic link (sym-link) and a hard link?
+
+A short cut is basically a file that points to another file. It is an antiquated, pointing system from the Windows 95 era. 
+Shortcuts not only use up space on your hard drive, they linger around after the item they are pointing to has been deleted 
+and may break if the destination is renamed or moved.
+
+A symbolic link is like a short cut but instead of being saved as a file, they are registered to the file system. 
+This means they do not use hard disk space but programs recognise and can read where the link is pointing to. 
+A symbolic link can point to any file or folder either locally on the computer and over a network using a SMB path.
+
+A file hard link and the directory junction are a little different. It not only points to the item but duplicates it as a 
+copy without taking up the extra hard disk space required by a clone. If you have a hard link pointing to a file then delete 
+the original file, the hard link will still retain a copy of the clone. One limitation of the file hard link is that the link 
+can only be made on the same file partition as the file.
+
+Finally a junction is a hard link for directories. To me they are the most useful and unlike their file hard links counterparts 
+you can create junctions on different partitions. Again a junction is stored on the file system where it does not take up additional 
+space and is treated by the operating system and programs as a local folder.
+
+==== How to create those special links====
+* Windows Vista/7 uses the command line program called mklink to create these symbolic links. It has 3 arguments and then requires 
+both a link name and target.
+**'''<nowiki> mklink /D /H /J [LINK NAME] [TARGET]</nowiki>''', there are 4 modes for '''mklink''' and they all counteract each other 
+meaning you can only use one argument or none at all.
+*** No arguments creates file symbolic link which is like a shortcut that is registered on the file system instead of stored in a file.
+*** /D creates a directory symbolic link which is like a shortcut that is registered on the file system instead of stored in a file.
+*** /H creates what Windows refers to as a hard file link. A hard file link is used where you need multiple copies of a file but wish to 
+save space by keeping only one physical copy on disk.
+*** /J creates a Windows Junction which is a directory hard link. If you need duplicate copies of a directory but don’t wish to use up the 
+extra hard drive space you can create a junction. Though be careful as any changes you make to a file or folder in one of the junction will 
+affect all the others. 
+(((note: Microsoft had to keep their older Junction system within NTFS for backwards compatibility with Windows 2000/XP. But if you are not 
+using these systems, then you are probably better off sticking with symbolic links.)))
+* [http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html|Link Shell Extension & documentation]
+
+==== Behaviors when moving/copying==== 
+Here is a difference between how Junctions, Symbolic Links and Volume Mountpoints are treated when performing file system operations such as move/copy etc. 
+
+* If you create a Symbolic Link, and you then move that link it is much the same as a shortcut in that it just moves the link itself, no actual data is moved/copied.
+
+* However, if you move a Junction or Volume Mountpoint, a new folder is created at the move destination point and the contents of the original data folder is physically 
+moved from its source location to the new move location. The Junction or Volume Mountpoint remains where it was, and the source folder remains intact (it just becomes empty).
+</PRE>
 
 === '''Windows Server'''===
 (((
