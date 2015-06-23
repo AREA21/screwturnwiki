@@ -1,15 +1,3 @@
-ICTAutomatisering.ICTAutomatisering_Infra|Infrastructuur||2014/10/20 18:09:37|procm|U|
-ICTAutomatisering.ICTAutomatisering_Infra|Infrastructuur||2014/10/21 10:11:47|procm|U|
-ICTAutomatisering.ICTAutomatisering_Infra|Infrastructuur||2014/10/21 15:03:15|procm|U|
-ICTAutomatisering.ICTAutomatisering_Infra|Infrastructuur||2014/10/21 17:17:05|procm|U|
-ICTAutomatisering.ICTAutomatisering_Index|ICT Automatisering index||2014/10/23 16:31:46|procm|U|
-ICTAutomatisering.ICTAutomatisering_Infra|Infrastructuur||2014/10/27 18:13:40|procm|U|
-ICTAutomatisering.ICTAutomatisering_Infra|Infrastructuur||2014/10/28 15:49:17|procm|U|
-Insights.Insights_Index|Insights *Getting Things Done||2014/11/13 15:14:29|procm|U|
-Insights.Accomplishments|Accomplishments||2014/11/13 15:59:35|procm|U|
-KnowledgeBase.Mobile|Mobile: hardware, apps (tips & tricks)||2014/12/03 10:31:42|procm|U|
-Insights.Insights_Index|Insights *Getting Things Done||2015/02/09 11:51:46|procm|U|
-Insights.Accomplishments|Accomplishments||2015/02/09 12:08:11|procm|U|
 Hoogendoorn.MainPage|Main Page||2015/03/08 20:10:07|SYSTEM|U|
 Hoogendoorn.MainPage|Hoogendoorn Main Page||2015/03/08 20:17:58|procm|U|
 Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/03/08 21:37:19|procm|U|
@@ -90,3 +78,12 @@ Brainnet.ICT-Administration|ICT Administration||2015/05/27 09:46:38|procm|U|
 KnowledgeBase.Windows_OS|Windows OS'es||2015/05/27 09:49:23|procm|U|
 Hoogendoorn.Hoogendoorn_Infrastructuur|Infrastructuur||2015/05/27 14:55:25|procm|U|
 Hoogendoorn.Hoogendoorn_Infrastructuur|Infrastructuur||2015/05/28 17:22:41|procm|U|
+Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/06/10 13:41:54|procm|U|
+Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/06/11 14:03:06|procm|U|
+Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/06/11 15:03:27|procm|U|
+Hoogendoorn.Hoogendoorn_Infrastructuur|Infrastructuur||2015/06/15 18:38:53|procm|U|
+Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/06/16 10:44:50|procm|U|
+Brainnet.Software_Quality|Software Quality||2015/06/22 09:30:19|procm|U|
+Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/06/22 09:39:16|procm|U|
+Hoogendoorn.Hoogendoorn_Infrastructuur|Infrastructuur||2015/06/22 16:42:49|procm|U|
+Hoogendoorn.Hoogendoorn_ConfigurationManagement|English presentation||2015/06/23 14:42:12|procm|U|

@@ -1,5 +1,5 @@
 Infrastructuur
-procm|2015/05/28 17:25:39
+procm|2015/06/22 16:52:08
 ##PAGE##
 {TOC}
 
@@ -8,7 +8,9 @@ procm|2015/05/28 17:25:39
 * '''Shares'''
 ** NET USE M: \\10.30.1.65\Images /user:rnd /PASSWORD: '''see keepass!''' /PERSISTENT:YES
 ** NET USE N: \\10.30.1.65\bridge /user:rnd /PASSWORD: '''see keepass!''' /PERSISTENT:YES
-** Translation Machine & Release Manager
+** Translation Machine 
+*** NET USE ??: \\tfs-build02.tfs.local\24GreenDroplocation /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:NO 
+** Release Manager
 *** NET USE X: \\tfs-tfs01.tfs.local\Releases /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:NO 
 *** NET USE Y: \\tfs-tfs01.tfs.local\Deliveries /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:NO
 ** Custom
@@ -78,6 +80,23 @@ procm|2015/05/28 17:25:39
 * Howto Import licenses?
 ** (((regsvr32 licensing.dll)))
 *** which password should be used? Check '''License.xlsx''' file.
+</PRE>
+
+==== Troubleshooting====
+<PRE>
+((('''Important files locations:'''
+* IBS
+** C:\Program Files (x86)\Hoogendoorn\Data\Backup
+** C:\Program Files (x86)\Hoogendoorn\Data\Autobackup
+** C:\Program Files (x86)\Hoogendoorn\Data\Autobackup\Data
+** C:\Program Files (x86)\Hoogendoorn\Data\Autobackup\Software
+** C:\Program Files (x86)\Hoogendoorn\Data\LogFiles
+** C:\Program Files (x86)\Hoogendoorn\Data\ToDistribute 
+
+* IRS
+** D:\Documents and Settings\All Users\Application Data\Hoogendoorn\ERS
+** D:\Documents and Settings\All Users\Application Data\Hoogendoorn\EvtLog
+)))
 </PRE>
 
 

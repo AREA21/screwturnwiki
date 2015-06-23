@@ -1,11 +1,11 @@
 Software Quality
-procm|2012/10/01 13:04:15
+procm|2015/06/22 09:30:19
 ##PAGE##
 == Software Quality (Brainstorm)==
 <PRE>
 [http://nvie.com/posts/a-successful-git-branching-model/|'''Successful Git(Distributed VCS) branching-model''']
 
-[http://msdn.microsoft.com/en-us/library/xzf533w0(v=VS.71).aspx|'''Naming Guidelines from Microsoft''']
+[https://msdn.microsoft.com/en-us/library/ms229002%28v=vs.110%29.aspx|'''Naming Guidelines from Microsoft''']
 
 === Issue/project Management===
 (((

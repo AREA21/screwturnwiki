@@ -1,5 +1,5 @@
 Hoogendoorn Main Page
-procm|2015/05/08 18:20:32
+procm|2015/06/22 09:39:25
 ##PAGE##
 Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 
@@ -71,16 +71,25 @@ Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 
 * [http://bbinst-virax02:85/HortiQ%20kwaliteitssysteem/Forms/AllItems.aspx?RootFolder=%2fHortiQ%20kwaliteitssysteem%2f1%20Kwaliteitshandboek%20ISO9001%2f1%20Beleid%20en%20Organisatie&FolderCTID=&View=%7b0C13A65C-5DC4-4013-A903-0F4A22DAA278%7d&WCMP=HGM|Management Systeem HGM (ISO 9001)]  
 
+* [https://tfs.24green.com/documentation/24green/1.%20Manuals|24Green Manuals]
+
 === ToDo===
 <PRE>
 * to Follow:
 ** VS2015 CTP6 release in the Summer!
 ** Windows Nano server
 ** Microservices
+*** [http://www.microsoftvirtualacademy.com/training-courses/exploring-microservices-in-docker-and-microsoft-azure]
 
 * Temp:
 ** [https://azureinfo.microsoft.com/Webinar-A-Tour-of-Microsoft-Azure-Thank-You.html?aliId=28555872|Webinar, Tour Microsoft Azure]
 ** [https://www.youtube.com/watch?v=tm5Gw1rIg-M|Tutorial - Docker Overview for .NET Developers (1/7)]
+----
+** [http://thomasardal.com/msbuild-tutorial|MSBuild Tutorial]
+** [http://channel9.msdn.com/Events/Ignite/2015/FND2702|DevOps as a Strategy for Business Agility]
+** [http://channel9.msdn.com/Events/Ignite/2015/FND2701|An Overview of the Microsoft Application Platform for Developers]
+** [http://ignite.microsoft.com/#fbid=a0t7NzHDWZO|Microsoft Ignite 2015 Highlights]
+** [http://channel9.msdn.com/Events/Ignite/2015?sort=status&direction=asc#tab_sortBy_status|Microsoft Ignite 2015]
 * Prepare Yourself for ASP.NET 5
 ** [http://www.binaryintellect.net/articles/aeb80b8f-179a-4477-a1e8-f355f56dd851.aspx|Prepare Yourself for ASP.NET 5 - Part 1 (Less and Sass)]
 ** [http://www.binaryintellect.net/articles/3efa224b-f513-4a50-9e98-3a553b5c8ead.aspx|Prepare Yourself for ASP.NET 5 - Part 2 (NuGet, Npm, Bower)]
@@ -97,6 +106,8 @@ Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 
 * documentation to Read
 ** [https://tfs.24green.com/documentation/HGM/Product%20Development/T40/iSii%20Translation/Translating%20an%20iSii%20build.docx|Translating iSii build]
+** [https://tfs.24green.com/documentation/24green/1.%20Manuals/IO%20Modules%20Overview/io-modules-v1.pdf|IO Modules Overview]
+** '''Greenbox Control Architecture''' -> \\bbinst-virfil02\rnd\ProdDev\Licenses and Configurations\Greenbox\Greenbox Control Architecture\Release Candidate version v NEW TODO
 ** Check Guidelines:
 *** [www.ifsq.org| '''I'''nstitute '''F'''or '''S'''oftware '''Q'''uality Level 2]
 **** Sonarcube- static code analysis!!
