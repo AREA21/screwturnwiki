@@ -87,3 +87,7 @@ Brainnet.Software_Quality|Software Quality||2015/06/22 09:30:19|procm|U|
 Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/06/22 09:39:16|procm|U|
 Hoogendoorn.Hoogendoorn_Infrastructuur|Infrastructuur||2015/06/22 16:42:49|procm|U|
 Hoogendoorn.Hoogendoorn_ConfigurationManagement|English presentation||2015/06/23 14:42:12|procm|U|
+Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/06/24 18:55:20|procm|U|
+Hoogendoorn.Hoogendoorn_ConfigurationManagement|Courses & workshops||2015/06/24 18:56:48|procm|U|
+Hoogendoorn.Hoogendoorn_CoursesAndWorkshops|Courses & workshops||2015/06/26 01:34:19|procm|N|
+Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/06/26 01:34:56|procm|U|

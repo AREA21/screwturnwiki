@@ -1,9 +1,30 @@
-English presentation
-procm|2015/06/23 14:44:27
+Courses & workshops
+procm|2015/06/24 19:00:36
 ##PAGE##
 {TOC}
 
-=== Staying passionate about work & mitigate the stress of demanding jobs?===
+
+== Business English==
+
+=== Lesson 1===
+<PRE>
+</PRE>
+
+=== Lesson 2===
+<PRE>
+</PRE>
+
+=== Lesson 3===
+<PRE>
+</PRE>
+
+=== Lesson 4===
+<PRE>
+</PRE>
+
+==== Presentation====
+
+: '''Staying passionate about work & mitigate the stress of demanding jobs?'''
 <PRE>
 (((aim: stay eager, able to lean, open to all kinds and forms)))
 
@@ -25,5 +46,6 @@ procm|2015/06/23 14:44:27
 ** RSS feeds (Pulse owned by Linkedin)
 </PRE>
 
-(((Lesson Nr.4)))
-
+=== Lesson 5===
+<PRE>
+</PRE>

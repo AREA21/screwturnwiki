@@ -122,4 +122,4 @@ Hoogendoorn.Hoogendoorn_ShareWorkstationProjectFolderWithVPCs|Hoogendoorn\Hoogen
 Hoogendoorn.Hoogendoorn_Infrastructuur|Hoogendoorn\Hoogendoorn_Infrastructuur.cs|2015/03/31 10:54:04
 Hoogendoorn.Hoogendoorn_KnowledgeBase|Hoogendoorn\Hoogendoorn_KnowledgeBase.cs|2015/03/31 11:10:01
 Hoogendoorn.Hoogendoorn_SoftwareDeploymentAndRelease|Hoogendoorn\Hoogendoorn_SoftwareDeploymentAndRelease.cs|2015/03/31 13:58:48
-Hoogendoorn_Terminology|Hoogendoorn_Terminology.cs|2015/04/15 13:22:09
+Hoogendoorn.Hoogendoorn_Terminology|Hoogendoorn\Hoogendoorn_Terminology.cs|2015/04/15 13:22:09

@@ -1,5 +1,5 @@
 Hoogendoorn Main Page
-procm|2015/06/22 09:39:25
+procm|2015/06/26 01:37:04
 ##PAGE##
 Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 
@@ -7,13 +7,13 @@ Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 
 === [Hoogendoorn_Infrastructuur|Infrastructuur]===
 
-=== [Hoogendoorn_ConfigurationManagement|Configuration Management]===
-
 === [Hoogendoorn_SoftwareDeploymentAndRelease|Software Deployment & Release]===
 
 === [Hoogendoorn_KnowledgeBase|KnowledgeBase]===
 
 === [Hoogendoorn_Terminology|Jargon/Terminology]===
+
+=== [Hoogendoorn_CoursesAndWorkshops|Courses/Workshops]===
 
 === Code & design conventions===
 
