@@ -91,3 +91,4 @@ Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/06/24 18:55:20|procm|U
 Hoogendoorn.Hoogendoorn_ConfigurationManagement|Courses & workshops||2015/06/24 18:56:48|procm|U|
 Hoogendoorn.Hoogendoorn_CoursesAndWorkshops|Courses & workshops||2015/06/26 01:34:19|procm|N|
 Hoogendoorn.Hoogendoorn_Index|Hoogendoorn Main Page||2015/06/26 01:34:56|procm|U|
+Hoogendoorn.Hoogendoorn_CoursesAndWorkshops|Courses & workshops||2015/06/30 12:24:34|procm|U|
