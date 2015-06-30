@@ -1,5 +1,5 @@
 Courses & workshops
-procm|2015/06/30 12:41:08
+procm|2015/06/30 16:04:12
 ##PAGE##
 {TOC}
 
@@ -26,7 +26,7 @@ procm|2015/06/30 12:41:08
 
 : '''Staying passionate about our career & mitigate the stress of demanding jobs!'''
 <PRE>
-(((aim: stay eager to lean, open minded, insightful & most important find your [http://dictionary.cambridge.org/dictionary/british/mojo|'''MOJO''']!)))
+(((aim: stay eager to learn, open minded, insightful & most important find your [http://dictionary.cambridge.org/dictionary/british/mojo|'''MOJO''']!)))
 
 * '''Workplace'''
 ** Observe, ask questions, adapt to the environment
@@ -45,7 +45,7 @@ procm|2015/06/30 12:41:08
 **** Politics {MpD & CDA}
 **** Develop my network & vision
 **** Learn & share ideas
-**** [https://lh3.googleusercontent.com/-MCzHuwrX2Ww/UQWM_YINQuI/AAAAAAAALmQ/SF19QCnQNNM/s512/youtube_profile.jpg|'''Lucas'''] & [https://picasaweb.google.com/109726890582768727196/2014_0311ElanaKateBirthDay#5989641824789701346|'''Elana Kate''']   
+**** [https://lh3.googleusercontent.com/-MCzHuwrX2Ww/UQWM_YINQuI/AAAAAAAALmQ/SF19QCnQNNM/s512/youtube_profile.jpg|'''Lucas'''] & [https://lh3.googleusercontent.com/-5khUJJAJAug/VZKha9OjFhI/AAAAAAAAV64/OIb_YCueMNs/s800/P1060788.JPG|'''Elana Kate''']   
 </PRE>
 
 === Lesson 5===
