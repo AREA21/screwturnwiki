@@ -1,7 +1,29 @@
 Windows OS'es
-procm|2015/05/27 10:03:04
+procm|2015/07/03 14:50:54
 ##PAGE##
 {TOC}
+
+=== '''Windows Embedded'''===
+<PRE>
+* Command Line Logoff or Switch Users
+** rundll32.exe user32.dll, LockWorkStation
+
+* ewfmgr: Failed getting protected volume configuration with error 1
+(((EMF is not configured correctly.
+1. Run: ewfcfg /install-configuration
+2. Reboot the Client
+3. Run: ewfmgr c: -enable
+4. Reboot the Client))) 
+
+* [https://technet.microsoft.com/en-us/library/hh825236.aspx| What is DISM??]
+(((Deployment Image Servicing and Management (DISM.exe) is a command-line tool that can be used to service a Windows® image 
+or to prepare a Windows Preinstallation Environment (Windows PE) image. 
+DISM can be used to service a Windows image (.wim)or a virtual hard disk (.vhd or .vhdx). DISM replaces the ImageX tool 
+which was deprecated in Windows 8. DISM also replaces Package Manager (Pkgmgr.exe), PEimg, and Intlcfg that were included 
+in previous deployment toolkits. DISM also adds new functionality to improve the experience for offline servicing.)))
+
+* [https://social.msdn.microsoft.com/Forums/en-US/076a1357-dc75-4a19-80f2-315c74a0426d/configuring-iis-in-wes7|Configuring IIS in WES7]
+</PRE>
 
 === '''Windows Desktop (XP-8)'''===
 : '''VMware Workstation and Hyper-V are not compatible'''. Remove the Hyper-V role from the system before running VMware Workstation.
@@ -181,14 +203,3 @@ To change this on your local server , follow these steps:
 *** '''PS:\''' Get-Cluster | %{$_.EnableSharedVolumes = '''"Disabled"'''}
 </PRE>
 
-=== '''IIS''' (Internet Information Services)===
-
-==== [http://support.microsoft.com/kb/943891|HTTP status code in IIS 7.0, IIS 7.5, and IIS 8.0]====
-
-==== What is "pass-through authentication" in IIS?====
-<PRE>
-* Normally, IIS would use the '''process identity''' (the user account it is running the worker process as) to access protected resources like file system or network.
-* With '''passthrough authentication''', IIS will attempt to use the actual identity of the user when accessing protected resources.
-** If the user is not authenticated, IIS will use the '''application pool''' identity instead. If pool identity is set to '''NetworkService''' or '''LocalSystem''', the actual Windows account used is the computer account.
-* The actual check will be performed at execution time, and if it fails, it'll show up in the log.
-</PRE>

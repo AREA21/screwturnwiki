@@ -1,5 +1,5 @@
 Accomplishments
-procm|2015/03/16 18:19:38
+procm|2015/07/12 18:28:08
 ##PAGE##
 {TOC}
 
@@ -106,6 +106,11 @@ eg.:
 
 * Install Eclipse IDE
 ** reconfigure KPN-NEC projects
+** install Plugins:
+*** Maven, to build projects
+*** Amateras, XML/HTML highlighter
+** Optional:
+** import file: CodeFormaterMVSDprofile.xml
 
 * Install CollabNet Subversion Edge
 ** restore Repositories

@@ -14,9 +14,8 @@ Brainnet.Optimization-OPerations-Services|
 Brainnet.Research|KnowledgeBase.DotNET-Chart-Controls|KnowledgeBase.ASP_DotNET-MVC
 Brainnet.Software-installation-configuration|Brainnet.
 Brainnet.Software_Quality|
+Hoogendoorn.Hoogendoorn_CoursesAndWorkshops|
 Hoogendoorn.Hoogendoorn_Index|Hoogendoorn.Hoogendoorn_Infrastructuur|Hoogendoorn.Hoogendoorn_SoftwareDeploymentAndRelease|Hoogendoorn.Hoogendoorn_KnowledgeBase|Hoogendoorn.Hoogendoorn_Terminology|Hoogendoorn.Hoogendoorn_CoursesAndWorkshops
-Hoogendoorn.Hoogendoorn_Infrastructuur|
-Hoogendoorn.Hoogendoorn_KnowledgeBase|Hoogendoorn.Hoogendoorn_ShareWorkstationProjectFolderWithVPCs
 Hoogendoorn.Hoogendoorn_ShareWorkstationProjectFolderWithVPCs|Hoogendoorn.
 Hoogendoorn.Hoogendoorn_SoftwareDeploymentAndRelease|
 Hoogendoorn.Hoogendoorn_Terminology|
@@ -109,10 +108,8 @@ MVSD.MVSD_EasyShop|
 MVSD.MVSD_EasyWebEdit|MVSD.MVSD_EasyWebEditSites
 MVSD.MVSD_EasyWebEditSites|
 MVSD.MVSD_FoodAndBeverage|
-MVSD.MVSD_Index|MVSD.MVSD_Infra|MVSD.MVSD_PhoneNumbers|MVSD.MVSD_FoodAndBeverage|MVSD.MVSD_ToDoList|KPN-NEC.KPN-NEC_Index|MVSD.MVSD_EasyWebEdit|MVSD.CodeBase-EasyMail|MVSD.MVSD_EasyShop|MVSD.MVSD-Projects|KnowledgeBase.Deployment-van-een-nieuwe-website-incl-SQL-database-op-test3-mvsd-nl|KnowledgeBase.Builden-en-Online-zetten-van-een-bestaande-EasyWebEditNet-website|KnowledgeBase.EasyWebEditNet website opzetten vanuit de Codebase|KnowledgeBase.Setup-NHibernate-based-applications-EasyShop-EasyMail|KnowledgeBase.Connect-an-EasyWebEditNet-website-with-EasyMail
 MVSD.MVSD_Infra|MVSD.|KPN-NEC.KPN-NEC_Infrastructuur
 MVSD.MVSD_PhoneNumbers|
-MVSD.MVSD_ProcessesAndProcedures|
 MVSD.MVSD_ToDoList|
 MVSD.Reconstruction-Rotterdam|
 MVSD.Robo-Toys-Webshop|
@@ -124,4 +121,7 @@ MVSD.Vestia-Projectontwikkeling|
 MVSD.Wateringse-Binnentuinen|
 MVSD.Zomerfestival-Brielle|
 NexusVerus.NexusVerus_Index|
-Hoogendoorn.Hoogendoorn_CoursesAndWorkshops|
+MVSD.MVSD_Index|MVSD.MVSD_Infra|MVSD.MVSD_ProcessesAndProcedures|MVSD.MVSD_PhoneNumbers|MVSD.MVSD_FoodAndBeverage|MVSD.MVSD_ToDoList|KPN-NEC.KPN-NEC_Index|MVSD.MVSD_EasyWebEdit|MVSD.CodeBase-EasyMail|MVSD.MVSD_EasyShop|MVSD.MVSD-Projects|KnowledgeBase.Deployment-van-een-nieuwe-website-incl-SQL-database-op-test3-mvsd-nl|KnowledgeBase.Builden-en-Online-zetten-van-een-bestaande-EasyWebEditNet-website|KnowledgeBase.EasyWebEditNet website opzetten vanuit de Codebase|KnowledgeBase.Setup-NHibernate-based-applications-EasyShop-EasyMail|KnowledgeBase.Connect-an-EasyWebEditNet-website-with-EasyMail
+MVSD.MVSD_ProcessesAndProcedures|
+Hoogendoorn.Hoogendoorn_Infrastructuur|
+Hoogendoorn.Hoogendoorn_KnowledgeBase|Hoogendoorn.Hoogendoorn_ShareWorkstationProjectFolderWithVPCs

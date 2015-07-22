@@ -1,25 +1,25 @@
 Infrastructuur
-procm|2015/06/22 16:52:08
+procm|2015/07/22 11:08:02
 ##PAGE##
 {TOC}
 
 === Network=== 
 <PRE>
-* '''Shares'''
-** NET USE M: \\10.30.1.65\Images /user:rnd /PASSWORD: '''see keepass!''' /PERSISTENT:YES
-** NET USE N: \\10.30.1.65\bridge /user:rnd /PASSWORD: '''see keepass!''' /PERSISTENT:YES
-** Translation Machine 
-*** NET USE ??: \\tfs-build02.tfs.local\24GreenDroplocation /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:NO 
-** Release Manager
-*** NET USE X: \\tfs-tfs01.tfs.local\Releases /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:NO 
-*** NET USE Y: \\tfs-tfs01.tfs.local\Deliveries /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:NO
-** Custom
-*** NET USE h: \\Hoo-pc0031\hgm$ /user:bbinst\cmo /PERSISTENT:YES 
-*** Softlink: MKLINK "D:\transfer.cmo\VirtualImages" "C:\HGM\VPCs"
-** Sharepoint Webfolders(WebDAV protocol)
-*** NET USE R: https://tfs.24green.com/documentation/HGM /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
-*** NET USE S: https://tfs.24green.com/documentation/24green /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
-*** NET USE T: https://tfs.24green.com/documentation/Anderson /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
+==== Shares====
+* NET USE M: \\10.30.1.65\Images /user:rnd /PASSWORD: '''see keepass!''' /PERSISTENT:YES
+* NET USE N: \\10.30.1.65\bridge /user:rnd /PASSWORD: '''see keepass!''' /PERSISTENT:YES
+* Translation Machine 
+** NET USE ??: \\tfs-build02.tfs.local\24GreenDroplocation /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:NO 
+* Release Manager
+** NET USE X: \\tfs-tfs01.tfs.local\Releases /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:NO 
+** NET USE Y: \\tfs-tfs01.tfs.local\Deliveries /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:NO
+* Custom
+** NET USE h: \\Hoo-pc0031\hgm$ /user:bbinst\cmo /PERSISTENT:YES 
+** Softlink: MKLINK "D:\transfer.cmo\VirtualImages" "C:\HGM\VPCs"
+* Sharepoint Webfolders(WebDAV protocol)
+** NET USE R: https://tfs.24green.com/documentation/HGM /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
+** NET USE S: https://tfs.24green.com/documentation/24green /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
+** NET USE T: https://tfs.24green.com/documentation/Anderson /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
 
 (((Station Leters (Mustafa op TEST-ISIIRM)
 * Bridge - F
@@ -27,15 +27,21 @@ procm|2015/06/22 16:52:08
 * Releases - X
 * Deliveries - Y)))
 
-* '''Printers'''
-** 10.30.4.12 -> Kyocera Mita FS-1800+
+==== Printers====
+* 10.30.4.12 -> Kyocera Mita FS-1800+
 
-* '''DNS'''
-** 10.1.2.8 - bbinst-virfil02
-** 10.30.1.65 - RND-NAS01
-** 192.168.149.3 - tfs-tfs01.tfs.local
-** 192.168.149.9 - tfs-translation.tfs.local
-** 192.168.149.8 - TEST-ISIIRM 
+==== DNS====
+* 10.1.2.8 - '''bbinst-virfil02'''
+* 10.1.2.15 - '''bbinst-virax03''' (Microsoft Dynamics AX)
+* 10.30.1.65 - '''RND-NAS01'''
+* 192.168.149.3 - '''tfs-tfs01.tfs.local'''
+* 192.168.149.9 - '''tfs-translation.tfs.local'''
+* 192.168.149.8 - '''TEST-ISIIRM''' 
+* 185.21.240.135 - '''prod.24green.com''' - Central server (cloud)
+** Greenbox Update service (FTP server)
+*** rc.update.yagni.biz
+*** dev.update.yagni.biz
+
 
 * '''Exchange settings''' 
 ** Mail server- CL-MAIL001.bbinst.local -> URL Mobile: https://mobile.batenburgssc.nl
@@ -60,6 +66,14 @@ procm|2015/06/22 16:52:08
 '''VS2010''' 
 * Innocom 
 ** 24green
+
+((( Depends on:
+* Common
+* Interfaces
+
+References:
+* Common\bin\V4
+* Interfaces\bin\V13)))
 </PRE>
 
 === iSii===

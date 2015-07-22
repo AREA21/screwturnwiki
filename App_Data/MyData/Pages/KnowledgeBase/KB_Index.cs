@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2014/09/26 16:34:08
+procm|2015/07/02 16:48:53
 ##PAGE##
 {TOC}
 
@@ -74,16 +74,31 @@ procm|2014/09/26 16:34:08
 * [SVN-Sventon|SVN Sventon]
 
 === IIS (Internet Information Services)===
+* [http://www.iis.net/learn|IIS Learn]
+** [http://www.iis.net/configreference|IIS Configuration Reference]
+** [http://www.iis.net/learn/get-started/planning-your-iis-architecture/introduction-to-applicationhostconfig|Introduction to ApplicationHost.config]
+** [http://www.iis.net/learn/publish/using-webdav/how-to-configure-webdav-settings-using-appcmd|How-to Configure WebDAV Settings Using AppCmd]
+
+* [http://support.microsoft.com/kb/943891|HTTP status code in IIS 7.0, IIS 7.5, and IIS 8.0]
+
 * [http://content5.catalog.video.msn.com/e2/ds/e4bfca63-55f2-48c0-a7d0-1fec6deb824f.mp4|'''Troubleshooting''' Unexpected Issues]
 ** '''Default log files location''': %systemroot%\system32\logfiles\HTTPERR
+
 * [http://www.iis.net/expand/All|'''IIS extentions''']
 * [http://learn.iis.net/page.aspx/150/understanding-sites-apps-and-vdirs-in-iis-7/|'''IIS7'''- Sites, Applications & Virtual dirs]
-* older IIS
+
+* older '''IIS'''
 ** [IIS-6-Deploying-and-configuring-a-new-website|IIS6 Deploying and configuring a new website]
 ** [IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory|IIS6 Deploying and configuring a new website into a virtual directory]
 ** [IIS-6-Deploying-an-url-forward|IIS6 Deploying an url-forward]
 ** [IIS6-Add-AWStats|IIS6 Add AWStats to a website]
 ** [IIS6-Support-for-Ms-Office2007|IIS6 Support for Ms Office2007]
+
+==== What is "pass-through authentication" in IIS?====
+* Normally, IIS would use the '''process identity''' (the user account it is running the worker process as) to access protected resources like file system or network.
+* With '''passthrough authentication''', IIS will attempt to use the actual identity of the user when accessing protected resources.
+** If the user is not authenticated, IIS will use the '''application pool''' identity instead. If pool identity is set to '''NetworkService''' or '''LocalSystem''', the actual Windows account used is the computer account.
+* The actual check will be performed at execution time, and if it fails, it'll show up in the log.
 
 === JS/Text Libraries===
 * JavaScript 

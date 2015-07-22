@@ -1,5 +1,5 @@
 KnowledgeBase
-procm|2015/05/13 10:07:29
+procm|2015/07/22 15:08:02
 ##PAGE##
 {TOC}
 
@@ -43,6 +43,7 @@ summary: we can among other things for instance edit PgDB files without 1st copy
  
 
 === How-to update IRS (XPembedded PC) with VC++ 2008===
+<PRE>
 * Step1
 ** '''Disable EWF protection'''
 *** ewfmgr c: -commitanddisable -live
@@ -57,6 +58,7 @@ summary: we can among other things for instance edit PgDB files without 1st copy
 *** ewfmgr c: -enable
 ** '''Restart iRS'''(Regel station)
 *** xpepm -restart
+</PRE>
 
 === Make iSii SystemManager service dependent on Networkservices(WMI/WBEM)===
 <PRE>
@@ -132,6 +134,9 @@ resource(s): [https://msdn.microsoft.com/en-us/library/7wd6ex19(v=vs.110).aspx|R
 * Create on the remote PC a local (administrator)account using the same Username & Password like u are using in your Developer(Visual Studio) PC 
 
 * Add the created user to the ""Log on as a service" within the computer Local GroupPolicies
+** Ms-DOS prompt:
+*** net user {account} {password} /add
+*** net localgroup Administrators {account} /add
 ** secpol.msc -> Local Policies -> User Right Assignment -> Log on as a service
 *** add the created user {account} to the list
 
@@ -157,4 +162,10 @@ resource(s): [https://msdn.microsoft.com/en-us/library/7wd6ex19(v=vs.110).aspx|R
 
 * Disable the Firewall if needed!)))
 
+</PRE>
+
+=== SDL Passolo: How to unmark Language Export tag===
+<PRE>
+ Select aLL the corresponding Languages/translation lists and 
+  then Right click -> String list settings- > Un – export -> Yes.
 </PRE>
