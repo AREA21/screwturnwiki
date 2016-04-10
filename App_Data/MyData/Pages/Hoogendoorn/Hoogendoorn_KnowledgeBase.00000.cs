@@ -1,5 +1,5 @@
 KnowledgeBase
-procm|2015/10/12 17:10:00
+procm|2015/07/30 18:12:27
 ##PAGE##
 {TOC}
 
@@ -7,79 +7,18 @@ procm|2015/10/12 17:10:00
 <PRE>
 * '''iSii videos:''' "N:\iSii\iSii knowledge videos RKu"
 * [https://msdn.microsoft.com/en-US/library/ff793625(v=winembedded.60).aspx|Compare Standard 7 32-bit and 64-bit (Standard 7 SP1)]
-
-=== Software Development procedures and Guidelines===
-* Architectural and Design guidelines
-** [https://tfs.24green.com/documentation/HGM/Product Development/T40/Architectuur/OWP T40 Architectuur.doc|iSii NG: Architecture]
-** [https://tfs.24green.com/documentation/24green/G10 new and changed/Development/General Architecture/G10 Control Architecture.doc|iSii Compact: Architecture]
-** [https://tfs.24green.com/documentation/24green/Guidelines and Procedures/Templates/G10 Guideline template.dot|Design Template]
-** [https://tfs.24green.com/documentation/24green/Guidelines and Procedures/G10 Architectural Guidelines.doc|iSii Compact: G10 Architectural Guidelines]
-** [https://tfs.24green.com/documentation/24green/Guidelines and Procedures/G10 Error handling and logging.doc|iSii Compact: G10 Error Handling and Logging]
-** [https://tfs.24green.com/documentation/24green/Guidelines and Procedures/G10 General component design.doc|iSii Compact: G10 General Component Design]
-** [https://tfs.24green.com/documentation/24green/Guidelines and Procedures/G10 designing namespaces and assemblies.doc|iSii Compact: G10 Designing namespaces and assemblies]
-** [https://tfs.24green.com/documentation/24green/Guidelines and Procedures/IDesignWCFStandard.pdf|iSii Compact & iSii NG: WCF Guidelines]
-
-* Implementation guidelines
-** [https://tfs.24green.com/documentation/HGM/Product Development/SPI Documentatiesysteem/Hoogendoorn Guidelines v 1.0.doc|iSii Compact & iSii NG : Hoogendoorn Guidelines]
-** [https://tfs.24green.com/documentation/24green/Guidelines and Procedures/How to UnitTest internal classes and members.doc|How to UnitTest internal classes and members]
-** [https://tfs.24green.com/documentation/24green/Guidelines and Procedures/Howto split unit tests and integration tests.doc|Howto split unit tests and integration tests]
-** [https://tfs.24green.com/documentation/24green/Guidelines and Procedures/JavaScript Guidelines.doc|JavaScript Guidelines]
-** [https://tfs.24green.com/documentation/24green/Forms/AllItems.aspx?RootFolder=/documentation/24green/Guidelines and Procedures/TDD&FolderCTID=&View={0D3E9F22-1D42-49DD-A3D7-30C514B973F2}|TDD]
-
-* Review
-** [https://tfs.24green.com/documentation/24green/Guidelines and Procedures/G10 Performing a review using TFS.doc|G10 Performing a review using TFS]
-
 </PRE>
 
 
-=== Angular (Niels Gerritsen)===
+=== Angular Niels conventions===
 <PRE>
-'''Conventions'''
-{@code-javascript:
-// It is a good practice to avoid scope issues within a function to use: 
-var self = this;
-self.parameters = [];
+{@code-xml:
+ Within function use: var self = this;
 
-// Anotate the function with $inject, to maintain the functionality using Bundeling & Minification
-ClimateStrategyCtrl.$inject = <nowiki>['$scope', 'hierarchyUtilities', 'climateControlTypeIds', 'ParameterFactory']</nowiki>;
- function ClimateStrategyCtrl($scope, hierarchyUtilities, climateControlTypeIds, ParameterFactory) {...}
+Anotate the function with $inject, to maintain the functionality using Bundeling & Minification 
+ClimateStrategyCtrl.$inject = ['$scope', 'hierarchyUtilities', 'climateControlTypeIds', 'ParameterFactory'];
+ function ClimateStrategyCtrl($scope, hierarchyUtilities, climateControlTypeIds, ParameterFactory) {...
 @}
-
-The webapp Greenbox uses some establish conventions, the following choices were made by R&D team:
-* Anatomy: app -> directives -> modules ??? 
-* uses '''directives''' instead of '''controllers''', but in some cases we have '''controllers''' within '''directives'''   
-* ...
-
-* '''Resources''':
-** [http://www.asp.net/mvc/overview/performance/recommended-resources-for-mvc|Recommended Resources for MVC]
-*** [http://i1.asp.net/media/4773381/lifecycle-of-an-aspnet-mvc-5-application.pdf|Lifecycle ASP.NET MVC5 application]
-*** [http://www.asp.net/mvc/overview/performance/bundling-and-minification|ASP.NET bundling & minification]
-** Angular Guidelines
-** [http://www.johnpapa.net|John Papa]
-** [https://github.com/airbnb/javascript/tree/master/es5|AirBnb Javascript Styleguide]
-* other:
-** [http://knockoutjs.com|Knockout JS]
-** [http://flukeout.github.io|CSS Game]
-
-==== UI/JS Unit Testing==== 
-=====  Install Chutzpah Visual Studio under Tools=====
-* Add Chutzpah as External Tool in Visual Studio
-** Visual Studio -> Tools -> External Tools using the following information
-(((Title: Run Chutzpah &unit tests
-Command: $(SolutionDir)\packages\chutzpah.4.0.3\tools\chutzpah.console.exe
-Arguments: "$(ProjectDir)"
-Initial directory: $(ProjectDir)
-don't forget to check-in: Use Output window
-)))
-
-[imageauto|1.Add External Tool Chutzpah in Visual Studio|{UP}/Hoogendoorn/JS TestFramework/Chutzpah.001.jpg]
-
-[imageauto|2.Add External Tools Chutzpah in Visual Studio|{UP}/Hoogendoorn/JS TestFramework/Chutzpah.002.jpg]
-
-
-===== Running Chutzpah from the command prompt=====
-* ...\GreenBox\Devs\Defiant\packages\chutzpah.4.0.3\tools\chutzpah.console.exe 
-       ...\GreenBox\Devs\Defiant\GreenboxUserInterface\GreenboxUserInterfaceTests\Client\angular-app\control-instances\core\gb-control-instances.test.js
 </PRE>
 
 === Which version of '''C++''' am I using?===
@@ -200,9 +139,9 @@ resource(s): [https://msdn.microsoft.com/en-us/library/7wd6ex19(v=vs.110).aspx|R
 </PRE>
 
 
-=== Remote debugging on VPC's===
-§§(procm,2015/09/16 09:49:35)§§
+=== Remote debug on VPC's===
 <PRE>
+
 * Create on the remote PC a local (administrator)account using the same Username & Password like u are using in your Developer(Visual Studio) PC 
 
 * Add the created user to the ""Log on as a service" within the computer Local GroupPolicies
@@ -220,7 +159,7 @@ resource(s): [https://msdn.microsoft.com/en-us/library/7wd6ex19(v=vs.110).aspx|R
 ** Tools -> Permissions 
 *** Add the created local user {account} to the group
 
-* In Visual Studio (Developer PC): Attach to Process 
+* In Visual Studio: Attach to Process 
 ** Tranport: Default
 ** Qualifier: {user@Computername} eg.: cmo@ECONT4854
 ** if needed check the checkbox(s): 
@@ -240,11 +179,4 @@ resource(s): [https://msdn.microsoft.com/en-us/library/7wd6ex19(v=vs.110).aspx|R
 <PRE>
  Select aLL the corresponding Languages/translation lists and 
   then Right click -> String list settings- > Un – export -> Yes.
-</PRE>
-
-=== Sharepoint: move files/folders around but preserve History===
-<PRE>
-* Navigate Sharepoint using Windows Explorer
-** MS-DOS prompt: NET USE R: https://tfs.24green.com/documentation /user:tfs\{user}
-(((the files/folder we move around will maintain its history. Attention copying will not preserve it!)))
 </PRE>

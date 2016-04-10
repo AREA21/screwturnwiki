@@ -1,5 +1,5 @@
 Hoogendoorn Main Page
-procm|2015/06/26 01:37:04
+procm|2015/11/23 11:53:39
 ##PAGE##
 Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 
@@ -15,7 +15,21 @@ Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 
 === [Hoogendoorn_CoursesAndWorkshops|Courses/Workshops]===
 
-=== Code & design conventions===
+=== [Hoogendoorn_PersonalDevelopmentPlan|Personal Development Plan]===
+
+==== [Hoogendoorn_GreenboxSuggestionsImprovements|Greenbox Suggestions & improvements]====
+
+=== Documentation RnD standards=== 
+<PRE>
+...
+* Diagramming
+** use the lightweight & free DIA tool 
+** Within DIA export the diagram to WMF format
+** In MsWord Import the WMF file format, because that way the diagram can be stretched without losing quality & it could also be edited inside MSWord 
+** Upload the original (.dia) file to Sharepoint next to the related MSWord document
+</PRE>
+
+=== iSii: Code & design conventions===
 
 <PRE>
 ==== Naming conventions====
@@ -25,6 +39,7 @@ Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 
 ==== Datatypes====
 * Charts - Momentaan?
+
 </PRE>
 
 === FAQ===
@@ -80,11 +95,13 @@ Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 ** Windows Nano server
 ** Microservices
 *** [http://www.microsoftvirtualacademy.com/training-courses/exploring-microservices-in-docker-and-microsoft-azure]
-
+** [http://executeautomation.com/blog/learn-team-foundation-server-2015-for-free|Learn Team Foundation Server 2015 for Free]
 * Temp:
 ** [https://azureinfo.microsoft.com/Webinar-A-Tour-of-Microsoft-Azure-Thank-You.html?aliId=28555872|Webinar, Tour Microsoft Azure]
 ** [https://www.youtube.com/watch?v=tm5Gw1rIg-M|Tutorial - Docker Overview for .NET Developers (1/7)]
 ----
+** [http://www.pluralsight.com/courses/description/ethical-hacking-web-applications|Ethical Hacking Web Applications (Troy Hunt)]
+** [https://cleancoders.com/all-videos|Clean Coders, Uncle Bob (SOLID, TDD...)]
 ** [http://thomasardal.com/msbuild-tutorial|MSBuild Tutorial]
 ** [http://channel9.msdn.com/Events/Ignite/2015/FND2702|DevOps as a Strategy for Business Agility]
 ** [http://channel9.msdn.com/Events/Ignite/2015/FND2701|An Overview of the Microsoft Application Platform for Developers]
@@ -99,11 +116,6 @@ Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 ** [https://dev.windows.com/en-US/windows-10-developer-preview-tools|Als eerste een Windows 10 applicatie maken]
 ** [https://www.computerboek.nl/boek/9789039529508/aan-de-slag-met-software-testen-hossein-chamani|Hossein Chamani: Aan de slag met Software Testen]
 
-* C++ upgrade
-** [https://msdn.microsoft.com/en-us/library/bb531344.aspx|Breaking Changes in Visual C++]
-** [http://www.cprogramming.com/visual.html|Microsoft Visual Studio C++ Compiler]
-** [http://wxwidgets.org|Check '''wxWidget''' Cross-Platform GUI Programming library]
-
 * documentation to Read
 ** [https://tfs.24green.com/documentation/HGM/Product%20Development/T40/iSii%20Translation/Translating%20an%20iSii%20build.docx|Translating iSii build]
 ** [https://tfs.24green.com/documentation/24green/1.%20Manuals/IO%20Modules%20Overview/io-modules-v1.pdf|IO Modules Overview]
@@ -113,9 +125,9 @@ Welcome to the '''{NAMESPACE}''' namespace of '''{WIKITITLE}'''!{BR}
 **** Sonarcube- static code analysis!!
 *** [https://www.computer.org/web/swebok/v3-guide|SWEBOK - '''S'''oft'''W'''are '''E'''ngineering '''B'''ody '''O'''f '''K'''nowledge]
 
-* Clone Win8 systeem to SSD
-* Restore Boot on SSD 
-** [http://support.microsoft.com/kb/2004518]
-** [http://pcsupport.about.com/od/fixtheproblem/ht/rebuild-bcd-store-windows.htm]
-** [http://windowsitpro.com/systems-management/build-bootable-bcd-scratch-bcdedit]
+==== C++ development (iSii)====
+* [http://blogs.msdn.com/b/seealso/archive/2011/08/03/10-books-that-will-make-you-a-better-c-programmer.aspx|10 Books that will make you a better C programmer]
+* [https://msdn.microsoft.com/en-us/library/bb531344.aspx|Breaking Changes in Visual C++]
+* [http://www.cprogramming.com/visual.html|Microsoft Visual Studio C++ Compiler]
+* [http://wxwidgets.org|Check '''wxWidget''' Cross-Platform GUI Programming library]
 </PRE>

@@ -1,15 +1,24 @@
 Windows OS'es
-procm|2015/07/03 14:50:54
+procm|2016/04/10 18:29:11
 ##PAGE##
 {TOC}
 
 === '''Windows Embedded'''===
 <PRE>
 * Command Line Logoff or Switch Users
-** rundll32.exe user32.dll, LockWorkStation
+** Lock windows: '''rundll32.exe user32.dll, LockWorkStation'''
+*** resource: [http://www.thewindowsclub.com/rundll32-shortcut-commands-windows|Rundll32 commands for Windows]
+** Shutdown windows: '''shutdown /r /t 0'''
+
+* Network 
+** Read IP address: 
+*** eg.: netsh interface ip show config
+*** eg.: netsh interface ip show config name="Local Area Connection 2"
+** Set IP address to be able to communicate I/O Modules: (from with iSii & Greenbox) 
+*** netsh interface ip set address "Local Area Connection 2" static 172.18.0.1 255.255.0.0 
 
 * ewfmgr: Failed getting protected volume configuration with error 1
-(((EMF is not configured correctly.
+(((EWF is not configured correctly.
 1. Run: ewfcfg /install-configuration
 2. Reboot the Client
 3. Run: ewfmgr c: -enable
@@ -23,9 +32,40 @@ which was deprecated in Windows 8. DISM also replaces Package Manager (Pkgmgr.ex
 in previous deployment toolkits. DISM also adds new functionality to improve the experience for offline servicing.)))
 
 * [https://social.msdn.microsoft.com/Forums/en-US/076a1357-dc75-4a19-80f2-315c74a0426d/configuring-iis-in-wes7|Configuring IIS in WES7]
+
+* [http://www.microsoft.com/windowsembedded/en-us/windows-embedded.aspx|Windows Embedded]
+* [http://blogs.msdn.com/b/usisvde/archive/2009/08/11/windows-embedded-development-center-updated-on-msdn.aspx|Windows Embedded Development Center Updated on MSDN]
 </PRE>
 
-=== '''Windows Desktop (XP-8)'''===
+=== '''Windows Desktop (XP-10)'''===
+: '''sfc /scannow detected some corrupt files.. unable to fix.. what to do?'''
+
+<PRE>
+* original command(s):
+** sfc /scannow
+*** <nowiki>findstr /c:'[SR]' %windir%\logs\cbs\cbs.log >sfcdetails.txt</nowiki> 
+** DISM /Online /Cleanup-Image /RestoreHealth /source:WIM:X:\Sources\Install.wim:1 /LimitAcces
+
+'''Solution:'''
+* Create an empty folder eg.: d:\mounted-wim
+* Copy ...\sources\install.esd (or install.wim) to the desired location, from '''Win10.ISO''' (downloaded from Microsoft)
+** convert the file install.esd to install.wim (i used: [https://www.winreducer.net/winreducer-es-wim-converter.html|Winreducer])
+
+* Open Admin Command prompt, copy/paste each line and run:
+** Dism /mount-wim /wimFile:{desired location}\install.wim /index:1 /MountDir:d:\mounted-wim
+** Dism /Online /Cleanup-Image /CheckHealth
+** Dism /Online /Cleanup-Image /RestoreHealth /Source:d:\mounted-wim\windows /LimitAccess
+** Dism /unmount-wim /Mountdir:d:\mounted-wim /discard
+** re-run: sfc /scannow
+</PRE>
+
+: '''Restore Boot\BCD archive (new boot mechanism since Windows Vista)'''
+<PRE>
+* [http://support.microsoft.com/kb/2004518]
+* [http://pcsupport.about.com/od/fixtheproblem/ht/rebuild-bcd-store-windows.htm]
+* [http://windowsitpro.com/systems-management/build-bootable-bcd-scratch-bcdedit]
+</PRE>
+
 : '''VMware Workstation and Hyper-V are not compatible'''. Remove the Hyper-V role from the system before running VMware Workstation.
 <PRE>
 This is because the Hyper-V role is installed and this conflicts with VMware Workstation. 

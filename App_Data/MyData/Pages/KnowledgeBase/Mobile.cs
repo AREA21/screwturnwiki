@@ -1,5 +1,5 @@
 Mobile: hardware, apps (tips & tricks)
-procm|2014/12/03 10:36:43
+procm|2016/03/07 16:58:09
 ##PAGE##
 {TOC}
 <PRE>
@@ -51,4 +51,12 @@ you should now be able to send and receive SMS properly.)))
 * [http://galaxys3-jellybeans.blogspot.nl/2013/02/how-to-improve-samsung-galaxy-s3.html|How-To improve Samsung Galaxy S3]
 * [http://www.ibtimes.co.uk/articles/465286/20130507/samsung-galaxy-s3-boost-speed-performance-instantly.htm|Samsung Galaxy S3 boost-speed-performance instantly**]
 * [http://au.ibtimes.com/articles/440292/20130228/samsung-galaxy-s3-10-tips-tricks-more.htm|Samsung Galaxy S3, 10 Tips & Tricks]
+</PRE>{TOP}
+
+<PRE>
+=== IPTV on Android===
+* Install MX Player app
+* Install IPTV app
+** IPTV url: [http://bitly.com/husham2015] -> [http://pastebin.com/raw/1akRx2bw]
+*** file (url content): [{UP}/KnowledgeBase/IPTV URL contents.txt]
 </PRE>{TOP}

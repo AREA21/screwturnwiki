@@ -193,7 +193,6 @@
 			<asp:Literal ID="lblHistoryLink" runat="server" EnableViewState="False" meta:resourcekey="lblHistoryLinkResource1" />
 			<asp:Literal ID="lblAttachmentsLink" runat="server" EnableViewState="False" meta:resourcekey="lblAttachmentsLinkResource1" />
 			<asp:Literal ID="lblAdminToolsLink" runat="server" EnableViewState="False" meta:resourcekey="lblAdminToolsLinkResource1" />
-			xxxx
 			<asp:Literal ID="lblPostMessageLink" runat="server" EnableViewState="False" meta:resourcekey="lblPostMessageLinkResource1" />
 			<asp:Literal ID="lblBackLink" runat="server" EnableViewState="False" meta:resourcekey="lblBackLinkResource1" />
 		</div>

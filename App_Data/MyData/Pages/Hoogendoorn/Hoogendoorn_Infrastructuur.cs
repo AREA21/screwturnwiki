@@ -1,5 +1,5 @@
 Infrastructuur
-procm|2015/07/22 11:08:02
+procm|2015/10/06 17:02:06
 ##PAGE##
 {TOC}
 
@@ -17,9 +17,10 @@ procm|2015/07/22 11:08:02
 ** NET USE h: \\Hoo-pc0031\hgm$ /user:bbinst\cmo /PERSISTENT:YES 
 ** Softlink: MKLINK "D:\transfer.cmo\VirtualImages" "C:\HGM\VPCs"
 * Sharepoint Webfolders(WebDAV protocol)
-** NET USE R: https://tfs.24green.com/documentation/HGM /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
-** NET USE S: https://tfs.24green.com/documentation/24green /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
-** NET USE T: https://tfs.24green.com/documentation/Anderson /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
+** NET USE R: https://tfs.24green.com/documentation /user:tfs\CMo /PASSWORD: '''see keepass!''' /PERSISTENT:YES 
+** NET USE R: https://tfs.24green.com/documentation/'''HGM''' /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
+** NET USE S: https://tfs.24green.com/documentation/'''24green''' /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
+** NET USE T: https://tfs.24green.com/documentation/'''Anderson''' /user:tfs\Cmo /PASSWORD: '''see keepass!''' /PERSISTENT:YES
 
 (((Station Leters (Mustafa op TEST-ISIIRM)
 * Bridge - F
@@ -98,7 +99,7 @@ References:
 
 ==== Troubleshooting====
 <PRE>
-((('''Important files locations:'''
+((('''iSii, Important files locations:'''
 * IBS
 ** C:\Program Files (x86)\Hoogendoorn\Data\Backup
 ** C:\Program Files (x86)\Hoogendoorn\Data\Autobackup
@@ -121,6 +122,7 @@ References:
 
 * iRS v3 (Win XPe) & GreenBox –type 2 (Win 7e + SSD ipv compact flash card)
 ** [http://www.koningenhartman.nl/nl/webshop/industrie/industrial-computing/box-pc/fanless-pc-nise104]
+** [http://www.nexcom.com/Products/industrial-computing-solutions/industrial-fanless-computer/atom-compact/fanless-computer-nise-104]
 
 * iBS- type 3 (Win7e)
 ** [http://www.hpsindustrial.nl/shop/207-mini-pcs/143-box-pc/2347-FPC-7700]

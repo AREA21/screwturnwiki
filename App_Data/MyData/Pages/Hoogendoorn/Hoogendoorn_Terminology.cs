@@ -1,5 +1,5 @@
 Jargon-Terminology
-procm|2015/04/29 12:07:58
+procm|2015/11/24 12:06:38
 ##PAGE##
 {TOC}
 
@@ -13,11 +13,21 @@ procm|2015/04/29 12:07:58
 
 * '''GMP''' - Gui Management Process
 
-* Windows Embedded (XPe, Win7e...)
+* '''Windows Embedded''' (XPe, Win7e...)
 ** '''EWF''' - '''E'''nhanced '''W'''rite '''F'''ilter
+
+* '''HAF''' - '''H'''orizontal '''A'''ir '''F'''low
+
+* '''PH''' - [https://en.wikipedia.org/wiki/PH]
+** Zuur(NL), Acidity(EN)
+
+* '''EC''' - [http://en.wikipedia.org/wiki/Electrical_conductivity_meter]
+** Meest(NL), Fertilizer(EN) 
+
 </PRE>
 
-=== Acronyms===
+=== iSii===
+'''Acronyms'''
 <PRE>
 SCM - Software Componenten Model
 IPC - Inter Proces Communicatie
@@ -36,7 +46,7 @@ High - High Priority
 Low - Low Priority
 </PRE>
 
-=== Definitions===
+'''Definitions'''
 <PRE>
 '''Background system'''
 A collection of Windows Services on the EBS that belong to the ECONOMIC system.
@@ -70,11 +80,6 @@ GMP is a web server with all sorts of url handlers for different tasks.
 
 '''AMP.exe'''
 The Alarm Management Process is responsible for receiving and handling alarms that come from different control processes.
+
 </PRE>
 
-=== Questions===
-<PRE>
-Quis custodiet ipsos custodes?
-- Wat als amp niet draait op IBS?
-- Wat als control station monitor niet draait op IBS?
-</PRE>

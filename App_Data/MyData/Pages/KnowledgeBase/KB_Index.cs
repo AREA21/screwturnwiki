@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2015/07/02 16:48:53
+procm|2015/12/03 17:01:54
 ##PAGE##
 {TOC}
 
@@ -164,10 +164,13 @@ eg:
 * '''CLASSPATH'''= %JAVA_HOME%\jre\lib  (Optional! path to JAR files)
 ** [http://www3.ntu.edu.sg/home/ehchua/programming/howto/environment_variables.html|'''Environment Variables for Java Applications''']
 
-=== How do I sync the Solution Explorer with the current File in Visual Studio?===
+=== Visual Studio IDE===
+* [http://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs|List of Visual Studio Project Type GUIDs]
+
+==== How do I sync the Solution Explorer with the current File in Visual Studio?====
 * Tools - Options - Projects and Solutions - General - Track Active Item In Solution Explorer
 
-=== What is the difference in Visual Studio between Build, Rebuild?===
+==== What is the difference in Visual Studio between Build, Rebuild?====
 * Build means compile and link only the source files that have changed since the last build, while Rebuild means compile and link all source files regardless of whether they changed or not. Build is the normal thing to do and is faster. 
 Sometimes the versions of project target components can get out of sync and rebuild is necessary to make the build successful. In practice, you never need to Clean.
 
@@ -178,13 +181,12 @@ Build or rebuild Solution is effectively the same as Build or Rebuild.
 * Compile just compiles the source file currently being edited. Useful to quickly check for errors when the rest of your source files are in an incomplete state that would prevent a successful build of the 
 entire project. Ctrl-F7 is the shortcut key for Compile.
 
-=== Where are the Visual Studio Images / icons Library?===
+==== Where are the Visual Studio Images / icons Library?====
 * The Visual Studio 2010 Image Library contains application images that appear in Microsoft Windows, the Office system, Microsoft Visual Studio, and other Microsoft software. 
 You can use this set of over 1,000 images to create applications that look visually consistent with Microsoft software. 
 ** C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\VS2010ImageLibrary\1033\'''VS2010ImageLibrary.zip'''
 
-
-=== Visual Studio Plugins/Extensions===
+==== Visual Studio Plugins/Extensions====
 * [http://www.oz-code.com/convince-my-boss|Road to Magical Debugging]
 * [http://www.asp.net/downloads|ASP.NET Official Extentions & Tools]
 * [http://visualstudiogallery.msdn.microsoft.com/dbcb8670-889e-4a54-a226-a48a15e4cace|Productivity Powertools]
