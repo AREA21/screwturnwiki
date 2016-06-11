@@ -48,3 +48,4 @@ N.Hoogendoorn|Rd_Disc|G.HGMx|1
 N.Hoogendoorn|Pst_Disc|G.HGMx|1
 N.Hoogendoorn|Down_Attn|G.HGMx|1
 N.Hoogendoorn|*|G.HGMx|0
+N.Ciber|*|G.Anonymous|0

@@ -1,5 +1,5 @@
 Insights *Getting Things Done
-procm|2015/03/16 17:49:24
+procm|2016/06/10 11:45:04
 ##PAGE##
 {TOC}
 
@@ -98,7 +98,7 @@ and you can use extended features of the phone like the camera or gyroscope. But
 * HowTo(s)
 ** [http://weblogs.asp.net/scottgu/archive/2011/01/18/running-an-asp-net-mvc-3-app-on-a-web-server-that-doesn-t-have-asp-net-mvc-3-installed.aspx|Deploying ASP.NET MVC 3 application where ASP.NET MVC 3 is not installed]
 
-==== Cloud (PaaS,IaaS,LaaS)====
+==== Cloud (IaaS,PaaS,SaaS)====
 * '''Windows Azure'''
 ** [http://manage.windowsazure.com]
 * '''Amazon'''

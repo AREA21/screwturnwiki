@@ -1,19 +1,8 @@
 Windows Azure (MANNA)
-procm|2014/06/13 13:55:40
+procm|2016/06/07 17:51:37
 ##PAGE##
 {TOC}
 
-=== Competencies===
-<PRE>
-* Certificates
-** PKI '''X.509''' - Public Key Infrastructure 
-** PKCS 12 or P12, [http://en.wikipedia.org/wiki/PKCS_12]
-*** It is commonly used to bundle a '''private key''' with its '''X.509''' certificate or to bundle all the members of a chain of trust.
-** [http://en.wikipedia.org/wiki/Server_Name_Indication|SNI certificates, cheaper alternative to wildcard(*) certificates]
-
-* REST(full) API
-* OAUTH
-</PRE>
 
 === Tools===
 <PRE>

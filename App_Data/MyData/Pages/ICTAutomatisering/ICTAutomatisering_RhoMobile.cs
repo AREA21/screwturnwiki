@@ -1,5 +1,5 @@
 Motorola RhoMobile
-procm|2014/09/15 14:09:45|(((mobile,mobile apps)))(((Motorola RhoMobile)))
+procm|2016/06/07 22:22:08|(((mobile,mobile apps)))(((Motorola RhoMobile)))
 ##PAGE##
 {TOC}
 
@@ -194,8 +194,6 @@ RhoElements provides a set of Application Programming Interfaces (APIs) that all
 
 * Redis- NoSQL Sync Server
 ** Scalable Key-Value Store
-
-* [https://www.sslshopper.com/article-most-common-openssl-commands.html|'''SSL''' (certificate) common commands]
 
 * '''Testing & (remote) Debugging'''
 ** [http://docs.rhomobile.com/en/4.0.0/guide/remote-debug|Remote Debugging Your RhoMobile JavaScript using Weinre]

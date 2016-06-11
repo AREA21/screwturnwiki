@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2015/12/03 17:01:54
+procm|2016/06/10 11:53:37
 ##PAGE##
 {TOC}
 
@@ -14,6 +14,23 @@ procm|2015/12/03 17:01:54
 * [Email_Clients-Servers|Email Clients & Servers]
 * [http://www.appassure.com/recorded-demos|Dell AppAssure Backup, Replication & Recovery Product Demo Videos]
 </PRE>{TOP}
+
+=== Cloud services===
+<PRE>
+[http://blog.webspecia.com/cloud/iaas-paas-saas-explained-examples-comparison|Iaas Paas Saas explained!]
+
+((('''IaaS'''('''I'''nfrastructure '''a'''s '''a''' '''S'''ervice) vs '''PaaS'''('''P'''latform '''a'''s '''a''' '''S'''ervice)
+
+In an '''IaaS''' model, the vendor only provides the underlying infrastructure, including network, storage, compute resources and virtualization technology. 
+In this model, your developers still have a whole lot of operational work. They may get an operating system, but they still have to manually configure, 
+manage and update numerous components.
+
+In a '''PaaS''' model, the vendor not only provides the underlying infrastructure resources but also the application development platform. This platform 
+includes the automation to deploy, test and iterate applications. Operating systems, databases, middleware and up-to-date tools and services are all 
+provided by the PaaS vendor, so time-consuming operational tasks such as configuring, optimizing and continuously updating your environment are handled 
+on your behalf.)))
+</PRE>
+{TOP}
 
 == Databases==
 <PRE>
@@ -37,7 +54,7 @@ procm|2015/12/03 17:01:54
 * [KB_Development_Guidelines|Web Development Guidelines ]
 * [Ogone-Payment-Service-Provider|Implementing Ogone Payment Service Provider]
 * [http://apparch.codeplex.com/|Application Architecture (CodePlex content)]
-* [http://msdn.microsoft.com/en-us/library/ms537361(VS.85).aspx| Introduction to Code Signing (MSDN)]
+* [http://msdn.microsoft.com/en-us/library/ms537361(VS.85).aspx|Introduction to Code Signing (MSDN)]
 * [KB_QualityAndService|Quality & Service(test/installation/deploymentplan)]
 
 === Building & Deploy===

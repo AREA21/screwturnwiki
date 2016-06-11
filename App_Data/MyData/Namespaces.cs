@@ -1,4 +1,5 @@
 Brainnet|Brainnet.Brainnet_Index
+Ciber|Ciber.Ciber_Index
 Hoogendoorn|Hoogendoorn.Hoogendoorn_Index
 ICTAutomatisering|ICTAutomatisering.ICTAutomatisering_Index
 Insights|Insights.Insights_Index

@@ -11,6 +11,7 @@
 * [++NexusVerus.NexusVerus_Index| NexusVerus]
 * [++ICTAutomatisering.ICTAutomatisering_Index| ICT Automatisering]
 * [++Hoogendoorn.Hoogendoorn_Index| Hoogendoorn]
+* [++Ciber.Ciber_Index| Ciber]
 * [++Insights.Insights_Index| Insights]
 * [++KnowledgeBase.KB_Index| '''KnowledgeBase''']
 

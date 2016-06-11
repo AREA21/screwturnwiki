@@ -1,5 +1,5 @@
 Email Clients & Servers
-procm|2012/12/03 17:08:19
+procm|2016/06/10 11:36:39
 ##PAGE##
 {TOC}
 === Exchange===
@@ -24,6 +24,15 @@ The MX record for the domain you entered should be displayed. If the MX record i
 </PRE>
 
 === Outlook 2003-2010===
+==== Unblock attachments====
+<PRE>
+message: "Outlook blocked access to the following potentially unsafe attachments"
+* Modify Windows registry (regedit):
+** Navigate to '''HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Security''' (Outlook version 13) 
+** edit/create a new '''String Value''' named '''Level1Remove'''
+** fill this entry with the file extentions allowed eg.: '''.crt;.zip''' 
+</PRE>
+
 ==== Clear Email Auto Complete cache!====
 <PRE>
 * Background: Outlook 2003 and Outlook 2007 has a feature called Email Address Auto Complete. As you type in an email address 
