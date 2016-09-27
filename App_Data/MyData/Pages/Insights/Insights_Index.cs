@@ -1,5 +1,5 @@
 Insights *Getting Things Done
-procm|2016/06/10 11:45:04
+procm|2016/09/23 14:26:07
 ##PAGE##
 {TOC}
 
@@ -260,7 +260,7 @@ SCRUM as the Agile pratice
 ** '''standard path:''' VS2010ImageLibrary.zip  [C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\VS2010ImageLibrary\1033\VS2010ImageLibrary.zip\]
 
 * Code Documentation
-** [http://www.simple-talk.com/dotnet/.net-tools/taming-sandcastle-a-.net-programmers-guide-to-documenting-your-code/?utm_source=simpletalk&utm_medium=email-main&utm_content=Sandcastle-20100920&utm_campaign=.NET|SandCastle]
+** [http://www.simple-talk.com/dotnet/.net-tools/taming-sandcastle-a-.net-programmers-guide-to-documenting-your-code|SandCastle]
 
 * Document Management
 ** --[^http://www.alentus.com/hosting/sharepoint-office.asp|SharePoint Integration with Office]--
@@ -272,7 +272,7 @@ SCRUM as the Agile pratice
 === Microsoft===
 * [http://www.microsoft.com/learning/en/us/mcsd-certification.aspx|Microsoft Certification Overview for Developers]
 * [http://www.twice.nl/download/Developer-Chart-Your-Career-Poster-%28Twice-IT-Training%29.pdf|Developer Poster Overview (pdf)]
-* [^{UP:ScrewTurn.Wiki.FilesStorageProvider}/MVSD/Personal Development/MicrosoftCertification.overview.01.Celio.doc|Certification Overview (word)]
+* [^{UP:ScrewTurn.Wiki.FilesStorageProvider}/MVSD/Personal Development/MicrosoftCertification.overview.01.Celio.doc|Certification Overview (2011, in word format)]
 * [^http://www.microsoft.com/learning/mcp/certifications.mspx|Certifications by Technology]
 * Courses
 ** [http://www.certmagic.com/Microsoft-certification-practice-exams.html]
@@ -288,16 +288,17 @@ SCRUM as the Agile pratice
 * HowTo's
 )))
 
+'''Legenda''':
+* '''MOC''', Microsoft Official Curriculum
+* '''MCAD''', Microsoft Certified Application Developer
+* --'''MCPD''', Microsoft Certified Professinal Developer --(replaced by MCSD)
+* 2016 (new)
+** '''MCP''', Microsoft Certified Professional
+** '''MCSD''', Microsoft Certified Solution Developer
+
 === Others===
 * [http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library|ITIL]
 * [http://en.wikipedia.org/wiki/Six_Sigma|Six Sigma]
-
-*'''Legenda''':
-** '''MOC''', Microsoft Official Curriculum
-** '''MCAD''', Microsoft Certified Application Developer
-** '''MCPD''', Microsoft Certified Professinal Developer
-** '''MCSD''', Microsoft Certified Solution Developer
-
 {TOP}
 </PRE>
 
@@ -312,7 +313,7 @@ SCRUM as the Agile pratice
 
 === Electronics===
 * --HDTV 3D capable--
-* HD Home Theater System
+* --HD Home Theater System--
 * --BLu-ray player capable of 3D & streaming Online content (YouTube, Netflix)--
 * --Xbox ONE (Kinect) or PS--4   
 

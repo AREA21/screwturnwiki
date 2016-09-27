@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2016/06/10 11:53:37
+procm|2016/09/27 11:18:27
 ##PAGE##
 {TOC}
 
@@ -9,9 +9,14 @@ procm|2016/06/10 11:53:37
 <PRE>
 * [Windows_OS|Windows OS'es]
 ** [Workspace-Management|Workspace Management]
+
+* [Windows-Containers_and_Docker| '''Windows Containers & Docker''']
+
 * [Virtualization|Virtualization & High Availability]
 ** [PerformanceTuningAndBestPratices|Performance, Tuning & BestPratices]
+
 * [Email_Clients-Servers|Email Clients & Servers]
+
 * [http://www.appassure.com/recorded-demos|Dell AppAssure Backup, Replication & Recovery Product Demo Videos]
 </PRE>{TOP}
 
@@ -57,7 +62,59 @@ on your behalf.)))
 * [http://msdn.microsoft.com/en-us/library/ms537361(VS.85).aspx|Introduction to Code Signing (MSDN)]
 * [KB_QualityAndService|Quality & Service(test/installation/deploymentplan)]
 
+=== Authentication/ Authorization===
+<PRE>
+* [https://scotch.io/tutorials/the-ins-and-outs-of-token-based-authentication|Token based authentication is prominent everywhere on the web nowadays!]
+
+==== SSL Certificates====
+* [https://msdn.microsoft.com/en-us/library/system.exception.aspx|Exception Class]
+* [https://docs.asp.net/en/latest/fundamentals/error-handling.html|Error Handling fundamentals]
+
+* [https://blogs.msdn.microsoft.com/kaushal/2013/08/02/ssl-handshake-and-https-bindings-on-iis|'''SSL Handshake and HTTPS Bindings +++''']
+
+* [https://www.digicert.com/ssl.htm|What is SSL (Secure Sockets Layer) & What are SSL Certificates?]
+
+* [https://www.globalsign.com/en/ssl-information-center/types-of-ssl-certificate| SSL Certificates Types]
+## '''D'''omain '''V'''alidation
+## '''O'''rganization '''V'''alidation
+## '''E'''xtended '''V'''alidation
+## Multi Domain & Wildcard, [http://en.wikipedia.org/wiki/Server_Name_Indication|'''SNI''' (cheaper) alternative to wildcard(*) certificates]
+
+* [https://www.sslshopper.com/article-most-common-openssl-commands.html|Common OpenSSL commands)]
+* [http://serverfault.com/questions/9708/what-is-a-pem-file-and-how-does-it-differ-from-other-openssl-generated-key-file|SSL Extensions]
+** PKI '''X.509''' - Public Key Infrastructure 
+** PKCS 12 or P12, [http://en.wikipedia.org/wiki/PKCS_12]
+*** It is commonly used to bundle a '''private key''' with its '''X.509''' certificate or to bundle all the members of a chain of trust.
+
+((('''SSL''' (Secure Sockets Layer) is the standard security technology for establishing an encrypted link between a web server and a browser. 
+This link ensures that all data passed between the web server and browsers remain private and integral. SSL is an industry standard and is 
+used by millions of websites in the protection of their online transactions with their customers.
+
+To be able to create an SSL connection a web server requires an SSL Certificate. When you choose to activate SSL on your web server you will 
+be prompted to complete a number of questions about the identity of your website and your company. Your web server then creates two cryptographic 
+keys - a Private Key and a Public Key.
+
+The Public Key does not need to be secret and is placed into a Certificate Signing Request (CSR) - a data file also containing your details. 
+You should then submit the CSR. During the SSL Certificate application process, the Certification Authority will validate your details and issue 
+an SSL Certificate containing your details and allowing you to use SSL. Your web server will match your issued SSL Certificate to your Private Key. 
+Your web server will then be able to establish an encrypted link between the website and your customer's web browser.
+
+The complexities of the SSL protocol remain invisible to your customers. Instead their browsers provide them with a key indicator to let them know 
+they are currently protected by an SSL encrypted session - the lock icon in the lower right-hand corner, clicking on the lock icon displays your SSL 
+Certificate and the details about it. All SSL Certificates are issued to either companies or legally accountable individuals.
+
+Typically an SSL Certificate will contain your domain name, your company name, your address, your city, your state and your country. 
+It will also contain the expiration date of the Certificate and details of the Certification Authority responsible for the issuance of the Certificate. 
+When a browser connects to a secure site it will retrieve the site's SSL Certificate and check that it has not expired, it has been issued by a 
+Certification Authority the browser trusts, and that it is being used by the website for which it has been issued. If it fails on any one of these 
+checks the browser will display a warning to the end user letting them know that the site is not secured by SSL.
+
+Be sure to visit [http://www.SSLTools.com] for some great services and tools to assist in your implementation of ssl on your site or if you want to examine the 
+ssl certificates of other websites.)))
+</PRE>{TOP}
+
 === Building & Deploy===
+<PRE>
 * [Building-And-Publishing-Projects|Building & Publishing Projects]
 ** [Build-NAnt|Build NAnt]
 ** [MSBuild|MSBuild]
@@ -85,12 +142,16 @@ on your behalf.)))
  3. Refresh this page to see your code build
 </nowiki>
 )))
+</PRE>{TOP}
 
 === Version Control===
+<PRE>
 * [SVN-Branches|SVN Branches]
 * [SVN-Sventon|SVN Sventon]
+</PRE>{TOP}
 
 === IIS (Internet Information Services)===
+<PRE>
 * [http://www.iis.net/learn|IIS Learn]
 ** [http://www.iis.net/configreference|IIS Configuration Reference]
 ** [http://www.iis.net/learn/get-started/planning-your-iis-architecture/introduction-to-applicationhostconfig|Introduction to ApplicationHost.config]
@@ -116,8 +177,10 @@ on your behalf.)))
 * With '''passthrough authentication''', IIS will attempt to use the actual identity of the user when accessing protected resources.
 ** If the user is not authenticated, IIS will use the '''application pool''' identity instead. If pool identity is set to '''NetworkService''' or '''LocalSystem''', the actual Windows account used is the computer account.
 * The actual check will be performed at execution time, and if it fails, it'll show up in the log.
+</PRE>{TOP}
 
 === JS/Text Libraries===
+<PRE>
 * JavaScript 
 ** [http://jquery.com|JQuery]
 ** [http://developer.yahoo.com/yui|YUI Library]
@@ -126,8 +189,10 @@ on your behalf.)))
 ** [Text-Resize-javascript|Text Resize]
 ** [^http://www.dhtmlgoodies.com|DHTML Goodies]
 ** [Cufon-Fast-text-replacement-with-canvas-and-VML|Cufon - Fast text replacement with canvas and VML]
+</PRE>{TOP}
 
-</PRE> {TOP}
+</PRE>
+{TOP}
 
 === '''Troubleshooting'''===
 <PRE>
@@ -143,7 +208,8 @@ on your behalf.)))
 
 == '''References, Resources'''==
 <PRE>
-* [http://www.gegeek.com/documents/649546B630371346316B2DAAD5D323C7F7B73A14.html|The ultimate cheat sheet of (technical) cheat sheets]
+* [https://nl.pinterest.com/pin/46443439882222412|The ultimate cheat sheet of (technical) cheat sheets]
+** [http://www.gegeek.com/documents/649546B630371346316B2DAAD5D323C7F7B73A14.html|--The ultimate cheat sheet of (technical) cheat sheets--]
 </PRE>
 
 == '''FAQ'''==
@@ -216,6 +282,7 @@ You can use this set of over 1,000 images to create applications that look visua
 :'''Resource''': [http://www.cs.tufts.edu/r/graphics/resources/vs_getting_started/vs_getting_started.htm|Getting Started with Visual Studio]
 
 === [http://developer.mozilla.org/en-US/docs/Mozilla/Command_Line_Options|Mozilla MDN, Command Line Options]===
+* e.g: "C:\Program Files (x86)\Mozilla Firefox\firefox.exe" '''-safe-mode''' '''-private-window'''
 
 === [Mobile|Mobile Hardware/apps (tips & tricks)]===
 )))

@@ -8,7 +8,9 @@ Brainnet.Optimization-OPerations-Services|Brainnet\Optimization-OPerations-Servi
 Brainnet.Research|Brainnet\Research.cs|2012/05/08 16:46:24
 Brainnet.Software-installation-configuration|Brainnet\Software-installation-configuration.cs|2011/12/19 16:54:33
 Brainnet.Software_Quality|Brainnet\Software_Quality.cs|2012/10/01 13:04:15
+Ciber.Ciber_DynamicsCRM|Ciber\Ciber_DynamicsCRM.cs|2016/05/24 16:09:51
 Ciber.Ciber_Index|Ciber\Ciber_Index.cs|2016/05/24 16:02:26
+Ciber.Ciber_ReportingServices|Ciber\Ciber_ReportingServices.cs|2016/07/01 14:36:12
 Hoogendoorn.Hoogendoorn_CoursesAndWorkshops|Hoogendoorn\Hoogendoorn_CoursesAndWorkshops.cs|2015/03/24 13:50:30
 Hoogendoorn.Hoogendoorn_GreenboxSuggestionsImprovements|Hoogendoorn\Hoogendoorn_GreenboxSuggestionsImprovements.cs|2015/10/13 17:23:32
 Hoogendoorn.Hoogendoorn_Index|Hoogendoorn\Hoogendoorn_Index.cs|2015/03/08 20:10:07
@@ -36,6 +38,7 @@ KnowledgeBase.ASP_DotNET-MVC|KnowledgeBase\ASP_DotNET-MVC.cs|2011/02/25 15:50:57
 KnowledgeBase.Build-NAnt|KnowledgeBase\Build-NAnt.cs|2010/03/02 12:28:07
 KnowledgeBase.Builden-en-Online-zetten-van-een-bestaande-EasyWebEditNet-website|KnowledgeBase\Builden-en-Online-zetten-van-een-bestaande-EasyWebEditNet-website.cs|2010/02/17 12:38:14
 KnowledgeBase.Building-And-Publishing-Projects|KnowledgeBase\Building-And-Publishing-Projects.cs|2010/03/02 12:06:28
+KnowledgeBase.Windows-Containers_and_Docker|KnowledgeBase\Windows-Containers_and_Docker.cs|2016/07/29 14:50:33
 KnowledgeBase.Connect-an-EasyWebEditNet-website-with-EasyMail|KnowledgeBase\Connect-an-EasyWebEditNet-website-with-EasyMail.cs|2010/03/03 10:02:49
 KnowledgeBase.Cufon-Fast-text-replacement-with-canvas-and-VML|KnowledgeBase\Cufon-Fast-text-replacement-with-canvas-and-VML.cs|2010/03/11 12:24:25
 KnowledgeBase.Database|KnowledgeBase\Database.cs|2010/02/17 17:14:29
@@ -126,3 +129,6 @@ MVSD.Vestia-Projectontwikkeling|MVSD\Vestia-Projectontwikkeling.cs|2010/02/18 11
 MVSD.Wateringse-Binnentuinen|MVSD\Wateringse-Binnentuinen.cs|2010/02/23 09:45:41
 MVSD.Zomerfestival-Brielle|MVSD\Zomerfestival-Brielle.cs|2010/02/23 12:34:45
 NexusVerus.NexusVerus_Index|NexusVerus\NexusVerus_Index.cs|2013/05/07 09:19:30
+Ciber.Ciber_DynamicsCRM_TechnicalResources|Ciber\Ciber_DynamicsCRM_TechnicalResources.cs|2016/09/21 15:12:36
+Ciber.Ciber_DynamicsCRM_Howto|Ciber\Ciber_DynamicsCRM_Howto.cs|2016/09/21 15:20:48
+Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber\Ciber_DynamicsCRM_TemplatesAndTools.cs|2016/09/21 15:32:39

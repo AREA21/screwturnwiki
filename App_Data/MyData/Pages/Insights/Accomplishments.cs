@@ -1,11 +1,19 @@
 Accomplishments
-procm|2015/07/12 18:28:08
+procm|2016/08/22 12:10:32
 ##PAGE##
 {TOC}
 
 === Ongoing (eInsights, enhanced Insights)===
+<PRE>
 '''Project/Hackathon ideas:'''
 
+* '''Personal xRM enhancer(tool''')- Relations, Personal Branding Acumen/Maven
+** Social Media Bundle {LinkedIn, Facebook, Email, Personal Phone}
+
+* '''Microsoft UWP- Universal Windows Platform'''
+** Raspberry Pi 2 running Windows 10 core, .NET core, Remote Debugging
+((( [http://www.mono-project.com|--Mono Project- Run .NET MVC app in a LowerPower Device (NAS/Raspberry Pi)--]
+...open source implementation of Microsoft's .Net Framework based on the ECMA standards for C# and the Common Language Runtime.)))
 * Leap Controller (demo)
 ** Demo PlasticSCM + Unity3D navigation through code using LeapMotion Controller 
 
@@ -17,18 +25,17 @@ procm|2015/07/12 18:28:08
 
 * [http://gpsunderground.com/forum/car-navi-system/car-gps-systems/volkswagen-seat-skoda|Hack/myCar Navigation]
 
-* [http://www.mono-project.com|Mono Project- Run .NET MVC app in a LowerPower Device (NAS/Raspberry Pi)]
-** ...open source implementation of Microsoft's .Net Framework based on the ECMA standards for C# and the Common Language Runtime.
-
 '''Hardware:'''
 * NAS Zyxel NSA352 v2
 * Smartphone Oneplus One Android (Cyanogen mod)
 * Cubieboard v3 aka Cubietruck
-* Raspberry Pi Mobel B+ & Camera (module)
+* Raspberry Pi: 
+** Mobel B+ & 
+** Model 2
+** Camera module 
 * Leap controller
 * SmartTV Samsung UE40D6750
-
-
+</PRE>
 
 === ScrewturnWiki migration to the Cloud===
 <PRE>
