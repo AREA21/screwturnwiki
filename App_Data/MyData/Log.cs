@@ -215,3 +215,9 @@ G|2016/10/27 13:03:18|Set ACL Entry: N.Ciber:Rd_Disc:G.Ciber-&gt;SET-Grant|SYSTE
 G|2016/10/27 13:03:18|Set ACL Entry: N.Ciber:Pst_Disc:G.Ciber-&gt;SET-Grant|SYSTEM
 G|2016/10/27 13:03:18|Set ACL Entry: N.Ciber:Down_Attn:G.Ciber-&gt;SET-Grant|SYSTEM
 G|2016/10/27 13:03:18|Set ACL Entry: N.Ciber:*:G.Ciber-&gt;SET-Deny|SYSTEM
+G|2016/10/27 13:17:43|User procm logged in|SYSTEM
+G|2016/10/27 13:18:25|User update requested for ciber|procm
+G|2016/10/27 13:18:25|User ciber updated|SYSTEM
+G|2016/10/27 13:18:25|Group membership set for User ciber|SYSTEM
+G|2016/10/27 13:18:54|User procm logged out|SYSTEM
+G|2016/10/27 13:19:04|User ciber logged in|SYSTEM
