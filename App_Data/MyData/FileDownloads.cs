@@ -1,8 +1,8 @@
 /MVSD/ICTinfra/MVSD.Netwerk.02.Celio.vsd|10
 /MVSD/Personal Development/MicrosoftCertification.overview.01.Celio.doc|35
 /MVSD/ICTinfra/MVSD.Netwerk.02.Celio.png|149
-/MVSD/KPN-NEC/Remote Debug/Java Remote Debug- Eclipse(client).jpg|372
-/MVSD/KPN-NEC/Management/Weblogic JRockit Management Console.jpg|349
+/MVSD/KPN-NEC/Remote Debug/Java Remote Debug- Eclipse(client).jpg|373
+/MVSD/KPN-NEC/Management/Weblogic JRockit Management Console.jpg|350
 /MVSD/KPN-NEC/Web Services/webservices overview.jpg|110
 /MVSD/ICTinfra/MVSD.NetworkScan.01.Celio.jpg|142
 /Brainnet/Brainnet VPN.jpg|347

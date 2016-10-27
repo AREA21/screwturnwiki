@@ -1,5 +1,5 @@
 Microsoft Dynamics CRM
-procm|2016/09/21 15:55:31|(((Dynamics,CRM)))((()))
+procm|2016/10/04 10:58:43|(((Dynamics,CRM)))((()))
 ##PAGE##
 {TOC}
 === [Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to]===
@@ -13,13 +13,18 @@ procm|2016/09/21 15:55:31|(((Dynamics,CRM)))((()))
 
 === CRM versions===
 <PRE>
-* CRM 4
-* CRM 2011
-* CRM 2013 => v.6.1.1.1610
-* CRM 2015 => v.7.1.2.1033
-* CRM 2016 => v.8.1.0.0452
+* CRM 1.0 *Tsunami
+* CRM 1.2 *Danube Phase I
+* CRM 3 *Danube Phase II
+* CRM 4 *Kilimanjaro/Titan
+* CRM 2011 *Polaris
+* CRM 2013 => v.6.0.0 *Orion (Major Release)
+* CRM 2013 => v.6.1.0 *Leo (Minor Release)
+* CRM 2015 => v.7.1 *Vega
+** CRM 2015 => v.7.1.2.1033 (CRM Online 2015 Update1) *Carina
+* CRM 2016 => v.8.1.0.0452 *Ara
 
-§§(procm,2016/09/21 15:41:32)§§
+[https://blogs.msdn.microsoft.com/crm/2015/04/14/new-naming-conventions-for-microsoft-dynamics-crm-updates|New naming conventions] 
 </PRE>
 
 === CRM2015 changes===

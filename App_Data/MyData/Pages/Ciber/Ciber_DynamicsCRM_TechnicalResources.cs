@@ -1,5 +1,5 @@
 Dynamics CRM: Technical Resources
-procm|2016/09/22 15:15:54|(((Resources)))((()))
+procm|2016/10/10 17:14:59|(((Resources)))((()))
 ##PAGE##
 {TOC}
 == Resources==
@@ -47,22 +47,29 @@ procm|2016/09/22 15:15:54|(((Resources)))((()))
 ==== Certifications====
 * [https://www.microsoft.com/nl-nl/learning/dynamics-certification.aspx#item-2|Certs. overview]
 
-* [https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx|CRM 2016 Online Deployment (MB2-710)]
+* [https://www.microsoft.com/nl-nl/learning/exam-mb2-704.aspx|Microsoft Dynamics CRM Application, '''Exam MB2-704''']
+** [https://mbspartner.microsoft.com/CRM/ExamPreparationGuides/93|Preparation Guide]
+** [https://mbspartner.microsoft.com/CRM/CourseOverview/1077|Prep. course '''80667AE''': Introduction to Microsoft Dynamics CRM Online]
+** [https://mbspartner.microsoft.com/CRM/CourseOverview/1078|Prep. course '''80668AE''': Customer Service in Microsoft Dynamics CRM Online]
+** [https://mbspartner.microsoft.com/CRM/CourseOverview/1079|Prep. course '''80669AE''': Sales and Marketing in Microsoft Dynamics CRM Online]
+
+* [https://www.microsoft.com/en-us/learning/exam-mb2-710.aspx|--CRM 2016 Online Deployment, '''Exam MB2-710'''-- done!]
 ** [https://mbspartner.microsoft.com/CRM/WorkshopOffers/45|Workshop '''CRM664''': Dynamics CRM Accelerate for CRM Online Deployment Exam Preparation]
 ** [https://mbspartner.microsoft.com/CRM/CourseOverview/1171|Course '''80736AE''': Microsoft Dynamics CRM 2016 Online Deployment]
-** Resources:
-*** [https://channel9.msdn.com/Events/Ignite/2015/BRK2102|How to Decide When to Use SharePoint and Yammer and Office 365 Groups and Outlook and Skype]
 
 * [https://www.microsoft.com/en-us/learning/exam-MB2-712.aspx|CRM 2016 Customization & Configuration (MB-712)]
 * [https://www.microsoft.com/en-us/learning/exam-MB2-711.aspx|CRM 2016 Installation (MB2-711)]
 * [https://www.microsoft.com/en-us/learning/exam-mb2-706.aspx|CRM 2015 Online Deployment (MB2-706)] 
 
 * [https://www.microsoft.com/en-us/learning/exam-mb5-705.aspx|'''Microsoft Dynamics SureStep'''- Managing Microsoft Dynamics Implementations]
+
+* Resources:
+** [https://channel9.msdn.com/Events/Ignite/2015/BRK2102|How to Decide When to Use SharePoint and Yammer and Office 365 Groups and Outlook and Skype]
 </PRE>
 
 === [http://feedly.com|Feedly (RSS feeds)]===
 <PRE>
-* [www.xrmcoaches.com|Mitch Milam xRM Coaches] 
+* [http://www.xrmcoaches.com|Mitch Milam xRM Coaches] 
 * [https://crmbusiness.wordpress.com/|Hosk's Dynamic CRM Blog]
 * [http://jlattimer.blogspot.nl|Jason Lattimer CRM MVP]
 * [https://thatcrmblog.wordpress.com/|Leon's CRM Musings]

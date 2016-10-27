@@ -1,15 +1,3 @@
-KnowledgeBase.Mobile|Mobile: hardware, apps (tips & tricks)||2016/03/07 16:10:43|procm|U|
-KnowledgeBase.Windows_OS|Windows OS'es||2016/04/10 17:40:50|procm|U|
-Ciber.MainPage|Main Page||2016/05/24 15:48:22|SYSTEM|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/05/24 16:02:26|procm|U|
-Ciber.MainPage|Main Page||2016/05/24 16:06:36|procm|D|
-Ciber.Ciber_DynamicsCRM|Dynamics CRM||2016/05/24 16:09:51|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/05/24 16:10:57|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/05/24 16:15:14|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/05/25 10:56:43|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/05/27 10:34:32|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/05/31 10:03:36|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/05/31 11:04:18|procm|U|
 Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/05/31 12:09:18|procm|U|
 Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/06/05 11:48:26|procm|U|
 Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/06/05 12:51:00|procm|U|
@@ -96,3 +84,8 @@ Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||20
 Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2016/09/22 15:15:54|procm|U|
 Insights.Insights_Index|Insights *Getting Things Done||2016/09/23 14:26:07|procm|U|
 KnowledgeBase.KB_Index|KnowledgeBase Index||2016/09/27 11:17:36|procm|U|
+Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/10/04 10:43:50|procm|U|
+Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2016/10/05 12:43:29|procm|U|
+Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2016/10/10 17:14:59|procm|U|
+Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/10/26 11:26:27|procm|U|
+Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/10/27 11:25:44|procm|U|
