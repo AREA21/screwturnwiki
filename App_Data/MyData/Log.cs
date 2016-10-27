@@ -208,3 +208,10 @@ G|2016/10/27 12:33:06|User procm logged in|SYSTEM
 G|2016/10/27 12:35:42|User creation requested for ciber|procm
 G|2016/10/27 12:35:42|User ciber created|SYSTEM
 G|2016/10/27 12:35:42|Group membership set for User ciber|SYSTEM
+G|2016/10/27 13:02:25|Set ACL Entry: N.Ciber:*:G.Ciber-&gt;SET-Deny|SYSTEM
+G|2016/10/27 13:03:18|Deleted ACL Entry: N.Ciber:*:G.Ciber-&gt;DELETE|SYSTEM
+G|2016/10/27 13:03:18|Set ACL Entry: N.Ciber:Rd_Pg:G.Ciber-&gt;SET-Grant|SYSTEM
+G|2016/10/27 13:03:18|Set ACL Entry: N.Ciber:Rd_Disc:G.Ciber-&gt;SET-Grant|SYSTEM
+G|2016/10/27 13:03:18|Set ACL Entry: N.Ciber:Pst_Disc:G.Ciber-&gt;SET-Grant|SYSTEM
+G|2016/10/27 13:03:18|Set ACL Entry: N.Ciber:Down_Attn:G.Ciber-&gt;SET-Grant|SYSTEM
+G|2016/10/27 13:03:18|Set ACL Entry: N.Ciber:*:G.Ciber-&gt;SET-Deny|SYSTEM

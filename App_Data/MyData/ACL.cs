@@ -49,3 +49,8 @@ N.Hoogendoorn|Pst_Disc|G.HGMx|1
 N.Hoogendoorn|Down_Attn|G.HGMx|1
 N.Hoogendoorn|*|G.HGMx|0
 N.Ciber|*|G.Anonymous|0
+N.Ciber|Rd_Pg|G.Ciber|1
+N.Ciber|Rd_Disc|G.Ciber|1
+N.Ciber|Pst_Disc|G.Ciber|1
+N.Ciber|Down_Attn|G.Ciber|1
+N.Ciber|*|G.Ciber|0
