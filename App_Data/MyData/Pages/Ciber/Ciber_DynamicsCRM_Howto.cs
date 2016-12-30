@@ -1,5 +1,5 @@
 Dynamics CRM: How-to
-procm|2016/10/27 11:33:41
+procm|2016/12/12 11:48:28
 ##PAGE##
 {TOC}
 
@@ -34,6 +34,11 @@ procm|2016/10/27 11:33:41
 * [https://msdn.microsoft.com/en-us/library/gg309620.aspx|Register and Deploy Plug-Ins]
 )))
 
+==== Custom actions====
+* [http://www.powerobjects.com/2014/07/23/4-important-concepts-helpful-understand-actions-dynamics-crm|Four Important Concepts Helpful in Understanding Actions in Dynamics CRM]
+* [http://blogs.microsoft.co.il/rdt/2016/01/13/executing-custom-action-via-javascript|Web API: Executing Custom Action via JavaScript]
+* [http://missdynamicscrm.blogspot.nl/2014/05/crm-2013-register-custom-action-as.html|Register custom action]
+
 ==== Debug code====
 * Plugin profiler (Plugin Registration tool)
 * Remote Debugging (on the CRM server)
@@ -45,15 +50,25 @@ procm|2016/10/27 11:33:41
 ** Customization(tab) -> Plug-in and custom workflow activity tracing -> Enable logging to plug-in log choose {Off|'''All'''|'''Exception'''}
 </PRE>
 
+
+=== Webservices===
+<PRE>
+* [http://www.karthikscorner.com/sharepoint/svcutil-exe-vs-wsdl-exe-proxy-generation-tools|Proxy generation tools: '''svcutil.exe''' vs '''wsdl.exe''']
+</PRE>
+
 === CRM JavaScript===
 <PRE>
 ==== [https://msdn.microsoft.com/nl-nl/en-en/library/hh771584(v=crm.7).aspx|Use JavaScript within Microsoft Dynamics CRM]==== 
 ==== [https://dynamicscrmgirl.wordpress.com/2014/01/04/crm-2013-javascript-retrieve-record-using-odatarest-endpoint-without-jquery|Retrieve record using OData/REST endpoint using JavaScript without jQuery]==== 
-==== Read the GUID of an Entity record====
+==== Read the GUID's====
+'''Entity record'''
 * using the browser console execute
-** <nowiki>frames[0].Xrm.Page.data.entity.getId()</nowiki>
-*Or create a favorite with the following code inside it:
+** <nowiki>frames[0].Xrm.Page.data.entity.getId();</nowiki>
+* or create a favorite with the following code inside it:
 **  <nowiki>javascript:(function() {window.prompt('Record ID:',frames[0].Xrm.Page.data.entity.getId())})();</nowiki> 
+
+'''Logged User ID'''
+* <nowiki>frames[0].Xrm.Page.context.getUSerId;</nowiki>
 </PRE>
 
 

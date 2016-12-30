@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2016/09/27 11:18:27
+procm|2016/11/21 12:06:29
 ##PAGE##
 {TOC}
 
@@ -52,6 +52,7 @@ on your behalf.)))
 
 == Development==
 <PRE>
+* [JavaScript|'''J'''ava'''S'''cript/JS]
 * [ASP_DotNET-MVC|ASP.NET MVC]
 * [http://www.boost.org/doc/libs/1_54_0/libs/regex/doc/html/index.html|Reference: Boost, Perl based Regular Expression]
 * [http://msdn.microsoft.com/en-us/library/8kb3ddd4(v=vs.110).aspx|Custom Date and Time Format Strings]
@@ -179,20 +180,6 @@ ssl certificates of other websites.)))
 * The actual check will be performed at execution time, and if it fails, it'll show up in the log.
 </PRE>{TOP}
 
-=== JS/Text Libraries===
-<PRE>
-* JavaScript 
-** [http://jquery.com|JQuery]
-** [http://developer.yahoo.com/yui|YUI Library]
-** [http://www.huddletogether.com/projects/lightbox2/|Lightbox]
-* other(s)
-** [Text-Resize-javascript|Text Resize]
-** [^http://www.dhtmlgoodies.com|DHTML Goodies]
-** [Cufon-Fast-text-replacement-with-canvas-and-VML|Cufon - Fast text replacement with canvas and VML]
-</PRE>{TOP}
-
-</PRE>
-{TOP}
 
 === '''Troubleshooting'''===
 <PRE>

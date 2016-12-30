@@ -40,7 +40,6 @@ KnowledgeBase.Builden-en-Online-zetten-van-een-bestaande-EasyWebEditNet-website|
 KnowledgeBase.Building-And-Publishing-Projects|KnowledgeBase\Building-And-Publishing-Projects.cs|2010/03/02 12:06:28
 KnowledgeBase.Windows-Containers_and_Docker|KnowledgeBase\Windows-Containers_and_Docker.cs|2016/07/29 14:50:33
 KnowledgeBase.Connect-an-EasyWebEditNet-website-with-EasyMail|KnowledgeBase\Connect-an-EasyWebEditNet-website-with-EasyMail.cs|2010/03/03 10:02:49
-KnowledgeBase.Cufon-Fast-text-replacement-with-canvas-and-VML|KnowledgeBase\Cufon-Fast-text-replacement-with-canvas-and-VML.cs|2010/03/11 12:24:25
 KnowledgeBase.Database|KnowledgeBase\Database.cs|2010/02/17 17:14:29
 KnowledgeBase.Deployment-van-een-nieuwe-website-incl-SQL-database-op-test3-mvsd-nl|KnowledgeBase\Deployment-van-een-nieuwe-website-incl-SQL-database-op-test3-mvsd-nl.cs|2010/02/11 16:21:14
 KnowledgeBase.DotNET-Chart-Controls|KnowledgeBase\DotNET-Chart-Controls.cs|2011/02/25 15:39:09
@@ -65,7 +64,6 @@ KnowledgeBase.ServersAndServices_Migration|KnowledgeBase\ServersAndServices_Migr
 KnowledgeBase.Setup-NHibernate-based-applications-EasyShop-EasyMail|KnowledgeBase\Setup-NHibernate-based-applications-EasyShop-EasyMail.cs|2010/03/01 13:45:25
 KnowledgeBase.SVN-Branches|KnowledgeBase\SVN-Branches.cs|2010/03/02 10:31:24
 KnowledgeBase.SVN-Sventon|KnowledgeBase\SVN-Sventon.cs|2010/02/17 16:04:40
-KnowledgeBase.Text-Resize-javascript|KnowledgeBase\Text-Resize-javascript.cs|2010/03/24 15:34:31
 KnowledgeBase.Umbraco-CMS|KnowledgeBase\Umbraco-CMS.cs|2011/02/26 17:19:03
 KnowledgeBase.Virtualization|KnowledgeBase\Virtualization.cs|2012/10/01 11:27:25
 KnowledgeBase.Windows-SharePoint-Services-WSS|KnowledgeBase\Windows-SharePoint-Services-WSS.cs|2010/02/17 17:26:41
@@ -132,3 +130,5 @@ NexusVerus.NexusVerus_Index|NexusVerus\NexusVerus_Index.cs|2013/05/07 09:19:30
 Ciber.Ciber_DynamicsCRM_TechnicalResources|Ciber\Ciber_DynamicsCRM_TechnicalResources.cs|2016/09/21 15:12:36
 Ciber.Ciber_DynamicsCRM_Howto|Ciber\Ciber_DynamicsCRM_Howto.cs|2016/09/21 15:20:48
 Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber\Ciber_DynamicsCRM_TemplatesAndTools.cs|2016/09/21 15:32:39
+Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Ciber\Ciber_DynamicsCRM_ConventionsAndStandards.cs|2016/09/21 15:39:03
+KnowledgeBase.JavaScript|KnowledgeBase\JavaScript.cs|2016/11/21 12:07:56

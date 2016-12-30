@@ -1,15 +1,3 @@
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/05/31 12:09:18|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/06/05 11:48:26|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/06/05 12:51:00|procm|U|
-ICTAutomatisering.ICTAutomatisering_Windows-Azure|Windows Azure (MANNA)||2016/06/07 17:51:37|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/06/07 17:52:09|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/06/07 17:53:52|procm|U|
-NexusVerus.NexusVerus_Index|NexusVerus Index||2016/06/07 18:00:51|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/06/07 18:02:18|procm|U|
-ICTAutomatisering.ICTAutomatisering_RhoMobile|Motorola RhoMobile||2016/06/07 22:22:08|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/06/07 22:25:02|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/06/09 13:46:54|procm|U|
-KnowledgeBase.Email_Clients-Servers|Email Clients & Servers||2016/06/10 11:35:24|procm|U|
 Insights.Insights_Index|Insights *Getting Things Done||2016/06/10 11:45:04|procm|U|
 Ciber.Ciber_Index|Ciber Nederland||2016/06/10 11:48:13|procm|U|
 KnowledgeBase.KB_Index|KnowledgeBase Index||2016/06/10 11:51:24|procm|U|
@@ -89,3 +77,18 @@ Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||20
 Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2016/10/10 17:14:59|procm|U|
 Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/10/26 11:26:27|procm|U|
 Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/10/27 11:25:44|procm|U|
+Hoogendoorn.Hoogendoorn_KnowledgeBase|KnowledgeBase||2016/11/21 11:59:08|procm|U|
+KnowledgeBase.KB_Index|KnowledgeBase Index||2016/11/21 12:04:23|procm|U|
+KnowledgeBase.KB_JavaScript|JavaScript (JS)||2016/11/21 12:07:56|procm|U|
+KnowledgeBase.JavaScript|JavaScript (JS)||2016/11/21 12:10:44|procm|N|
+KnowledgeBase.Text-Resize-javascript|Text Resize (javascript)||2016/11/21 12:18:54|procm|D|
+KnowledgeBase.JavaScript|JavaScript (JS)||2016/11/21 12:21:21|procm|U|
+KnowledgeBase.Cufon-Fast-text-replacement-with-canvas-and-VML|Cufon - Fast text replacement with canvas and VML||2016/11/21 12:31:02|procm|D|
+KnowledgeBase.JavaScript|JavaScript (JS)||2016/11/21 12:32:30|procm|U|
+KnowledgeBase.JavaScript|JavaScript (JS)||2016/11/21 14:27:22|procm|U|
+Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/12/06 10:55:52|procm|U|
+Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/12/06 11:56:38|procm|U|
+Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/12/12 11:25:41|procm|U|
+Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/12/12 12:46:26|procm|U|
+Ciber.Ciber_Index|Ciber Nederland||2016/12/30 13:20:25|procm|U|
+Ciber.Ciber_PowerBI|PowerBI Charts||2016/12/30 13:26:48|procm|U|

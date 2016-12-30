@@ -3,6 +3,7 @@ Hoogendoorn.Hoogendoorn_ConfigurationManagement|
 Ciber.Windows-Containers_and_Docker|
 Ciber.Ciber_Windows-Containers_and_Docker|
 KnowledgeBase.Ciber_Windows-Containers_and_Docker|
+KnowledgeBase.KB_JavaScript|
 Index|
 MainPage|
 MessageFormatterHelp|MessageFormatterTest
@@ -19,15 +20,15 @@ Brainnet.Software-installation-configuration|Brainnet.
 Brainnet.Software_Quality|
 Ciber.Ciber_DynamicsCRM|Ciber.Ciber_DynamicsCRM_Howto|Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber.Ciber_DynamicsCRM_TechnicalResources|Ciber.Ciber_DynamicsCRM_ConventionsAndStandards
 Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|
+Ciber.Ciber_DynamicsCRM_Howto|
 Ciber.Ciber_DynamicsCRM_TechnicalResources|
 Ciber.Ciber_DynamicsCRM_TemplatesAndTools|
-Ciber.Ciber_Index|Ciber.Ciber_DynamicsCRM|Ciber.Ciber_DynamicsCRM_Howto|Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber.Ciber_DynamicsCRM_TechnicalResources|Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Ciber.Ciber_ReportingServices
 Ciber.Ciber_ReportingServices|
 Hoogendoorn.Hoogendoorn_CoursesAndWorkshops|
 Hoogendoorn.Hoogendoorn_GreenboxSuggestionsImprovements|Hoogendoorn."setting1"|Hoogendoorn."prod"|Hoogendoorn."MyKey"
 Hoogendoorn.Hoogendoorn_Index|Hoogendoorn.Hoogendoorn_Infrastructuur|Hoogendoorn.Hoogendoorn_SoftwareDeploymentAndRelease|Hoogendoorn.Hoogendoorn_KnowledgeBase|Hoogendoorn.Hoogendoorn_Terminology|Hoogendoorn.Hoogendoorn_CoursesAndWorkshops|Hoogendoorn.Hoogendoorn_PersonalDevelopmentPlan|Hoogendoorn.Hoogendoorn_GreenboxSuggestionsImprovements
 Hoogendoorn.Hoogendoorn_Infrastructuur|
-Hoogendoorn.Hoogendoorn_KnowledgeBase|Hoogendoorn.|Hoogendoorn.Hoogendoorn_ShareWorkstationProjectFolderWithVPCs
+Hoogendoorn.Hoogendoorn_KnowledgeBase|Hoogendoorn.Hoogendoorn_ShareWorkstationProjectFolderWithVPCs
 Hoogendoorn.Hoogendoorn_PersonalDevelopmentPlan|
 Hoogendoorn.Hoogendoorn_ShareWorkstationProjectFolderWithVPCs|Hoogendoorn.
 Hoogendoorn.Hoogendoorn_SoftwareDeploymentAndRelease|
@@ -50,7 +51,6 @@ KnowledgeBase.Build-NAnt|KnowledgeBase.Building-And-Publishing-Projects|Knowledg
 KnowledgeBase.Builden-en-Online-zetten-van-een-bestaande-EasyWebEditNet-website|
 KnowledgeBase.Building-And-Publishing-Projects|KnowledgeBase.Build-NAnt|KnowledgeBase.MSBuild
 KnowledgeBase.Connect-an-EasyWebEditNet-website-with-EasyMail|
-KnowledgeBase.Cufon-Fast-text-replacement-with-canvas-and-VML|
 KnowledgeBase.Database|
 KnowledgeBase.Deployment-van-een-nieuwe-website-incl-SQL-database-op-test3-mvsd-nl|
 KnowledgeBase.DotNET-Chart-Controls|
@@ -62,8 +62,9 @@ KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website|KnowledgeBase.
 KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory|KnowledgeBase.
 KnowledgeBase.IIS6-Add-AWStats|
 KnowledgeBase.IIS6-Support-for-Ms-Office2007|
+KnowledgeBase.JavaScript|KnowledgeBase.
 KnowledgeBase.KB_Development_Guidelines|
-KnowledgeBase.KB_Index|KnowledgeBase.Windows_OS|KnowledgeBase.Workspace-Management|KnowledgeBase.Windows-Containers_and_Docker|KnowledgeBase.Virtualization|KnowledgeBase.PerformanceTuningAndBestPratices|KnowledgeBase.Email_Clients-Servers|KnowledgeBase.Database|KnowledgeBase.MS-SQL-Troubleshooting|KnowledgeBase.ASP_DotNET-MVC|KnowledgeBase.DotNET-Chart-Controls|KnowledgeBase.KB_Development_Guidelines|KnowledgeBase.Ogone-Payment-Service-Provider|KnowledgeBase.KB_QualityAndService|KnowledgeBase.Building-And-Publishing-Projects|KnowledgeBase.Build-NAnt|KnowledgeBase.MSBuild|KnowledgeBase.SVN-Branches|KnowledgeBase.SVN-Sventon|KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website|KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory|KnowledgeBase.IIS-6-Deploying-an-url-forward|KnowledgeBase.IIS6-Add-AWStats|KnowledgeBase.IIS6-Support-for-Ms-Office2007|KnowledgeBase.Text-Resize-javascript|KnowledgeBase.Cufon-Fast-text-replacement-with-canvas-and-VML|KnowledgeBase.Mobile
+KnowledgeBase.KB_Index|KnowledgeBase.Windows_OS|KnowledgeBase.Workspace-Management|KnowledgeBase.Windows-Containers_and_Docker|KnowledgeBase.Virtualization|KnowledgeBase.PerformanceTuningAndBestPratices|KnowledgeBase.Email_Clients-Servers|KnowledgeBase.Database|KnowledgeBase.MS-SQL-Troubleshooting|KnowledgeBase.JavaScript|KnowledgeBase.ASP_DotNET-MVC|KnowledgeBase.DotNET-Chart-Controls|KnowledgeBase.KB_Development_Guidelines|KnowledgeBase.Ogone-Payment-Service-Provider|KnowledgeBase.KB_QualityAndService|KnowledgeBase.Building-And-Publishing-Projects|KnowledgeBase.Build-NAnt|KnowledgeBase.MSBuild|KnowledgeBase.SVN-Branches|KnowledgeBase.SVN-Sventon|KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website|KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory|KnowledgeBase.IIS-6-Deploying-an-url-forward|KnowledgeBase.IIS6-Add-AWStats|KnowledgeBase.IIS6-Support-for-Ms-Office2007|KnowledgeBase.Mobile
 KnowledgeBase.KB_QualityAndService|
 KnowledgeBase.MMC_Admin_Tools|
 KnowledgeBase.Mobile|
@@ -75,7 +76,6 @@ KnowledgeBase.ServersAndServices_Migration|
 KnowledgeBase.Setup-NHibernate-based-applications-EasyShop-EasyMail|
 KnowledgeBase.SVN-Branches|
 KnowledgeBase.SVN-Sventon|
-KnowledgeBase.Text-Resize-javascript|
 KnowledgeBase.Umbraco-CMS|
 KnowledgeBase.Virtualization|KnowledgeBase.
 KnowledgeBase.Windows-Containers_and_Docker|
@@ -137,4 +137,5 @@ MVSD.Vestia-Projectontwikkeling|
 MVSD.Wateringse-Binnentuinen|
 MVSD.Zomerfestival-Brielle|
 NexusVerus.NexusVerus_Index|
-Ciber.Ciber_DynamicsCRM_Howto|
+Ciber.Ciber_Index|Ciber.Ciber_DynamicsCRM|Ciber.Ciber_DynamicsCRM_Howto|Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber.Ciber_DynamicsCRM_TechnicalResources|Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Ciber.Ciber_ReportingServices|Ciber.Ciber_PowerBI
+Ciber.Ciber_PowerBI|

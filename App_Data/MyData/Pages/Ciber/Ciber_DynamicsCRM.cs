@@ -1,5 +1,5 @@
 Microsoft Dynamics CRM
-procm|2016/10/04 10:58:43|(((Dynamics,CRM)))((()))
+procm|2016/12/12 12:54:54|(((Dynamics,CRM)))((()))
 ##PAGE##
 {TOC}
 === [Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to]===
@@ -81,6 +81,19 @@ But, FetchXML is handy when you need attributes from multiple entities in a sing
 * FetchXML
 ** Query multiple Entity types at the same time as long as there is a relationship between the types.
 ** Support Aggregate & Grouping
+
+==== WebAPI/ODATA====
+* [http://mehmetgunen.com/retrieve-data-using-odata-queries-with-javascript-in-crm-2013|Retrieve data using ODATA queries with Javascript]
+* [https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/Synchronous_and_Asynchronous_Requests|XMLHttpRequest(JS) Synchronous & Asynchronous requests]
 </PRE>
 
+=== Software Quality===
+<PRE>
+==== Checklist for (CRM)JavaScript code====
+* unused variables present? cleanup the code!
+* do you see redundant code? re-factor or pinpoint it! 
+* is the code in the right place? should the function/code go to the Main or entity specific library/WebResource? 
+* Can we avoid some libraries without to much hassle? eg. jQuery using the browser XMLHttpRequest object or JSON to parse the WebApi/OData results? 
 
+* Tip/syntactic sugar : write JS code which acts as classes!
+</PRE>
