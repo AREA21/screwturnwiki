@@ -1,5 +1,5 @@
 Motorola RhoMobile
-procm|2016/06/07 22:22:08|(((mobile,mobile apps)))(((Motorola RhoMobile)))
+procm|2017/01/11 13:02:53|(((mobile,mobile apps)))(((Motorola RhoMobile)))
 ##PAGE##
 {TOC}
 
@@ -126,7 +126,8 @@ RhoElements provides a set of Application Programming Interfaces (APIs) that all
 
 ==== RhoConnect (old RhoSync)====
 <PRE>
-'''summary:''' Manages connections to your enterprise data sources. Using RhoConnect, a single application can connect to multiple data sources easily. Its principal function is to serve up data to mobile devices.
+'''summary:''' Manages connections to your enterprise data sources. Using RhoConnect, a single application can connect to multiple data sources easily. 
+Its principal function is to serve up data to mobile devices.
 
 # '''Start Redis server'''
 #* cd {app-directory}

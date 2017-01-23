@@ -1,5 +1,5 @@
 Microsoft Dynamics CRM
-procm|2016/12/12 12:54:54|(((Dynamics,CRM)))((()))
+procm|2017/01/10 11:20:10|(((Dynamics,CRM)))((()))
 ##PAGE##
 {TOC}
 === [Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to]===
@@ -24,7 +24,8 @@ procm|2016/12/12 12:54:54|(((Dynamics,CRM)))((()))
 ** CRM 2015 => v.7.1.2.1033 (CRM Online 2015 Update1) *Carina
 * CRM 2016 => v.8.1.0.0452 *Ara
 
-[https://blogs.msdn.microsoft.com/crm/2015/04/14/new-naming-conventions-for-microsoft-dynamics-crm-updates|New naming conventions] 
+* [http://www.fkbase.info/crm-releases|CRM Releases]
+* [https://blogs.msdn.microsoft.com/crm/2015/04/14/new-naming-conventions-for-microsoft-dynamics-crm-updates|New naming conventions] 
 </PRE>
 
 === CRM2015 changes===

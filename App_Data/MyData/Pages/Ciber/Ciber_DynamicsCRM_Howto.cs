@@ -1,5 +1,5 @@
 Dynamics CRM: How-to
-procm|2016/12/12 11:48:28
+procm|2017/01/10 13:59:47
 ##PAGE##
 {TOC}
 
@@ -58,9 +58,8 @@ procm|2016/12/12 11:48:28
 
 === CRM JavaScript===
 <PRE>
-==== [https://msdn.microsoft.com/nl-nl/en-en/library/hh771584(v=crm.7).aspx|Use JavaScript within Microsoft Dynamics CRM]==== 
-==== [https://dynamicscrmgirl.wordpress.com/2014/01/04/crm-2013-javascript-retrieve-record-using-odatarest-endpoint-without-jquery|Retrieve record using OData/REST endpoint using JavaScript without jQuery]==== 
 ==== Read the GUID's====
+<PRE>
 '''Entity record'''
 * using the browser console execute
 ** <nowiki>frames[0].Xrm.Page.data.entity.getId();</nowiki>
@@ -69,6 +68,64 @@ procm|2016/12/12 11:48:28
 
 '''Logged User ID'''
 * <nowiki>frames[0].Xrm.Page.context.getUSerId;</nowiki>
+</PRE>
+
+==== [https://msdn.microsoft.com/nl-nl/en-en/library/hh771584(v=crm.7).aspx|Use JavaScript within Microsoft Dynamics CRM]==== 
+==== [https://dynamicscrmgirl.wordpress.com/2014/01/04/crm-2013-javascript-retrieve-record-using-odatarest-endpoint-without-jquery|Retrieve record using OData/REST endpoint using JavaScript without jQuery]====
+
+==== CRM WebAPI/ODATA:====
+<PRE>
+{@code-javascript:
+// SingleRetrieve: <nowiki>
+
+var req = new XMLHttpRequest();
+req.open("GET", Xrm.Page.context.getClientUrl() + "/api/data/v8.0/ten_configuraties()?$select=ten_postcodecheck", false);
+req.setRequestHeader("OData-MaxVersion", "4.0");
+req.setRequestHeader("OData-Version", "4.0");
+req.setRequestHeader("Accept", "application/json");
+req.setRequestHeader("Content-Type", "application/json; charset=utf-8");
+req.setRequestHeader("Prefer", "odata.include-annotations=\"OData.Community.Display.V1.FormattedValue\"");
+req.onreadystatechange = function () {
+    if (this.readyState === 4) {
+        req.onreadystatechange = null;
+        if (this.status === 200) {
+            var result = JSON.parse(this.response);
+            var ten_postcodecheck = result["ten_postcodecheck"];
+            var ten_postcodecheck_formatted = result["ten_postcodecheck@OData.Community.Display.V1.FormattedValue"];
+        }
+        else {
+            alert(this.statusText);
+        }
+    }
+};
+req.send();
+//EOF: </nowiki>
+@}
+
+{@code-javascript:
+// MultipleRetrieve: <nowiki>
+
+req.open("GET", Xrm.Page.context.getClientUrl() + "/api/data/v8.0/ten_configuraties?$select=ten_postcodecheck", false);
+req.onreadystatechange = function () {
+    if (this.readyState === 4) {
+        req.onreadystatechange = null;
+        if (this.status === 200) {
+            var results = JSON.parse(this.response);
+            for (var i = 0; i < results.value.length; i++) {
+                 var ten_postcodecheck = results.value[i]["ten_postcodecheck"];
+                 var ten_postcodecheck_formatted = results.value[i]["ten_postcodecheck@OData.Community.Display.V1.FormattedValue"];
+            }
+        }
+        else {
+            alert(this.statusText);
+        }
+    }
+};
+req.send();
+//EOF: </nowiki>
+@}
+</PRE>{TOP}
+
 </PRE>
 
 
@@ -118,4 +175,9 @@ LEFT OUTER JOIN Tasks as ab
 ON (lead.leadId  =  ab.RegardingObjectId)
 WHERE ab.RegardingObjectId is null
 @}
+</PRE>
+
+=== Monitor & Troubleshooting===
+<PRE>
+* [https://technet.microsoft.com/en-us/library/hh699694.aspx|Monitor and troubleshoot Microsoft Dynamics 365]
 </PRE>

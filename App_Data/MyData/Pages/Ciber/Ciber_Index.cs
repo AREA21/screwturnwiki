@@ -1,5 +1,5 @@
 Ciber Nederland
-procm|2016/12/30 13:21:56
+procm|2017/01/10 16:46:18
 ##PAGE##
 {TOC}
 
@@ -13,6 +13,10 @@ procm|2016/12/30 13:21:56
 
 ==== [Ciber_DynamicsCRM_ConventionsAndStandards|- Dynamics CRM: Conventions & Standards]====
 
+==== Customers:====
+===== [Ciber.TenneT-TSO|- TenneT TSO]=====
+
+
 === [Ciber.Ciber_ReportingServices|Reporting Services (SSRS)]===
 
 === Ideas===
@@ -20,14 +24,23 @@ procm|2016/12/30 13:21:56
 * Manual Invoicing Automation (PDF/OCR)
 ** Newviews *Tim Paymans
 
-=== Ciber Managed Solutions===
+==== Ciber Managed Solutions====
 * Codebase Plugins:
 ** Country ISO List / Regio-Province
 ** Autonumbering (Nico van der Heiden)
-** PostalCode-NL, street name lookup
+
+* Integrations
+** [Ciber_PowerBI|Microsoft PowerBI (demo)] 
+** PostalCode-NL (Street-name lookup)
+*** [http://geodata.nationaalgeoregister.nl|'''PDOK'''- '''P'''ublieke '''D'''ienstverlening '''O'''p de '''K'''aart]
+**** eg.: [http://geodata.nationaalgeoregister.nl/geocoder/Geocoder?zoekterm=3027HJ+83B]
 ** GEO Bing MAps/Google
 ** IM Messaging/Communication integration
-** [Ciber_PowerBI|PowerBI Charts] 
+*** Yammer (available)
+*** Skype?? Twitter??
+** DevOps/Continuous Integration
+*** [https://waelhamze.com/2014/08/25/journey-to-implementing-continuous-delivery-for-dynamics-crm|Journey to Implementing Continuous Delivery for Dynamics CRM]
+**** [https://xrmciframework.codeplex.com|xRM CI Framework]
 </PRE>
 
 === Competencies===

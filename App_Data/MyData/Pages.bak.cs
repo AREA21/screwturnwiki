@@ -132,3 +132,4 @@ Ciber.Ciber_DynamicsCRM_Howto|Ciber\Ciber_DynamicsCRM_Howto.cs|2016/09/21 15:20:
 Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber\Ciber_DynamicsCRM_TemplatesAndTools.cs|2016/09/21 15:32:39
 Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Ciber\Ciber_DynamicsCRM_ConventionsAndStandards.cs|2016/09/21 15:39:03
 KnowledgeBase.JavaScript|KnowledgeBase\JavaScript.cs|2016/11/21 12:07:56
+Ciber.Ciber_PowerBI|Ciber\Ciber_PowerBI.cs|2016/12/30 13:26:48

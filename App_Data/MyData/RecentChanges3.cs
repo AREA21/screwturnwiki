@@ -1,15 +1,3 @@
-Insights.Insights_Index|Insights *Getting Things Done||2016/06/10 11:45:04|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/06/10 11:48:13|procm|U|
-KnowledgeBase.KB_Index|KnowledgeBase Index||2016/06/10 11:51:24|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/06/10 11:58:20|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/06/10 15:17:06|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/06/14 10:33:51|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/06/22 11:00:51|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/06/22 14:05:34|procm|U|
-Ciber.Ciber_ReportingServices|Reporting Services (SSRS)||2016/07/01 14:36:12|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/07/20 09:25:41|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/07/20 10:05:40|procm|U|
-Ciber.Ciber_ReportingServices|Reporting Services (SSRS)||2016/07/20 10:48:55|procm|U|
 Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/07/20 10:56:39|procm|U|
 Ciber.Ciber_ReportingServices|Reporting Services (SSRS)||2016/07/20 10:59:18|procm|U|
 Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/07/20 11:57:56|procm|U|
@@ -92,3 +80,16 @@ Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/12/12 11:25:41|procm|U|
 Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/12/12 12:46:26|procm|U|
 Ciber.Ciber_Index|Ciber Nederland||2016/12/30 13:20:25|procm|U|
 Ciber.Ciber_PowerBI|PowerBI Charts||2016/12/30 13:26:48|procm|U|
+Ciber.Ciber_PowerBI|PowerBI Charts||2017/01/04 11:36:44|procm|U|
+Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2017/01/10 11:20:10|procm|U|
+Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2017/01/10 13:02:50|procm|U|
+Ciber.TenneT-TSO|TenneT TSO||2017/01/10 13:22:23|procm|U|
+Ciber.Ciber_Index|Ciber Nederland||2017/01/10 13:25:50|procm|U|
+Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2017/01/10 13:36:45|procm|U|
+Ciber.TenneT-TSO|TenneT TSO||2017/01/10 14:37:39|procm|U|
+Ciber.Ciber_Index|Ciber Nederland||2017/01/10 14:56:34|procm|U|
+Ciber.Ciber_Index|Ciber Nederland||2017/01/10 16:00:10|procm|U|
+ICTAutomatisering.ICTAutomatisering_RhoMobile|Motorola RhoMobile||2017/01/11 13:02:53|procm|U|
+Ciber.TenneT-TSO|TenneT TSO||2017/01/12 13:26:48|procm|U|
+Ciber.Ciber_PowerBI|PowerBI Charts||2017/01/13 13:50:29|procm|U|
+Ciber.Ciber_PowerBI|Power BI Charts||2017/01/13 13:53:56|procm|U|
