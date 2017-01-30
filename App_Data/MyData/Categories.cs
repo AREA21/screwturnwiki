@@ -1,6 +1,6 @@
 Brainnet
 Ciber
-Ciber.Dynamics CRM|Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Ciber.Ciber_DynamicsCRM_TechnicalResources|Ciber.Ciber_DynamicsCRM|Ciber.Ciber_DynamicsCRM_Howto
+Ciber.Dynamics CRM|Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Ciber.Ciber_DynamicsCRM|Ciber.Ciber_DynamicsCRM_Howto|Ciber.Ciber_DynamicsCRM_TechnicalResources
 Ciber.PowerBI|Ciber.Ciber_PowerBI
 Hoogendoorn
 ICT Automatisering

@@ -1,5 +1,5 @@
 Dynamics CRM: Technical Resources
-procm|2016/10/10 17:14:59|(((Resources)))((()))
+procm|2017/01/23 15:15:10|(((Resources)))((()))
 ##PAGE##
 {TOC}
 == Resources==
@@ -47,7 +47,7 @@ procm|2016/10/10 17:14:59|(((Resources)))((()))
 ==== Certifications====
 * [https://www.microsoft.com/nl-nl/learning/dynamics-certification.aspx#item-2|Certs. overview]
 
-* [https://www.microsoft.com/nl-nl/learning/exam-mb2-704.aspx|Microsoft Dynamics CRM Application, '''Exam MB2-704''']
+* [https://www.microsoft.com/nl-nl/learning/exam-mb2-704.aspx|--CRM Application, '''Exam MB2-704'''-- done(20 jan. 2017)!]
 ** [https://mbspartner.microsoft.com/CRM/ExamPreparationGuides/93|Preparation Guide]
 ** [https://mbspartner.microsoft.com/CRM/CourseOverview/1077|Prep. course '''80667AE''': Introduction to Microsoft Dynamics CRM Online]
 ** [https://mbspartner.microsoft.com/CRM/CourseOverview/1078|Prep. course '''80668AE''': Customer Service in Microsoft Dynamics CRM Online]

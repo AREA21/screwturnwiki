@@ -1,15 +1,3 @@
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/07/20 10:56:39|procm|U|
-Ciber.Ciber_ReportingServices|Reporting Services (SSRS)||2016/07/20 10:59:18|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/07/20 11:57:56|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/07/20 13:28:33|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/07/26 09:51:17|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/07/28 09:46:12|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/07/29 14:49:20|procm|U|
-Ciber.Windows-Containers_and_Docker|Windows Containers & Docker||2016/07/29 14:50:33|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/07/29 15:32:57|procm|U|
-Ciber.Ciber_Windows-Containers_and_Docker|Windows Containers & Docker||2016/07/29 15:34:45|procm|N|
-Ciber.Ciber_Index|Ciber Nederland||2016/07/29 15:35:22|procm|U|
-Ciber.Ciber_Windows-Containers_and_Docker|Windows Containers & Docker||2016/07/29 16:08:10|procm|U|
 Ciber.Ciber_Windows-Containers_and_Docker|Windows Containers & Docker||2016/08/02 13:18:22|procm|U|
 Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/08/09 11:40:14|procm|U|
 Ciber.Ciber_ReportingServices|Reporting Services (SSRS)||2016/08/09 16:20:53|procm|U|
@@ -93,3 +81,11 @@ ICTAutomatisering.ICTAutomatisering_RhoMobile|Motorola RhoMobile||2017/01/11 13:
 Ciber.TenneT-TSO|TenneT TSO||2017/01/12 13:26:48|procm|U|
 Ciber.Ciber_PowerBI|PowerBI Charts||2017/01/13 13:50:29|procm|U|
 Ciber.Ciber_PowerBI|Power BI Charts||2017/01/13 13:53:56|procm|U|
+Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2017/01/23 12:21:27|procm|U|
+Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2017/01/23 15:15:10|procm|U|
+Ciber.TenneT-TSO|TenneT TSO||2017/01/24 15:52:00|procm|U|
+Ciber.TenneT-TSO|TenneT TSO||2017/01/24 18:10:49|procm|U|
+Ciber.TenneT-TSO|TenneT TSO||2017/01/27 16:21:21|procm|U|
+Ciber.TenneT-TSO|TenneT TSO||2017/01/30 12:53:47|procm|U|
+Ciber.TenneT-TSO|TenneT TSO||2017/01/30 14:46:20|procm|U|
+Ciber.TenneT-TSO|TenneT TSO||2017/01/30 16:53:42|procm|U|
