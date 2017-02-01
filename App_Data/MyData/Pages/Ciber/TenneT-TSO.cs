@@ -1,5 +1,5 @@
 TenneT TSO
-procm|2017/01/30 16:53:42
+procm|2017/02/01 15:34:10
 ##PAGE##
 {TOC}
 
@@ -9,23 +9,32 @@ procm|2017/01/30 16:53:42
 ** TU (Test User) account
 ** LA (Local Admin) account
 
-* '''AA account''', access to servers
+* --'''AA account''', access to servers-- *works!
+** Local admin rights to run: *ongoing!
+*** CRM deployment manager
+*** Email router
+*** IIS manager
+*** ...etc??
+
 * '''Deploy Groups''' association with(main, AA, TU, LA) accounts
+** [http://beheerweb.alfa.local|'''Beheerweb- Deploy Groups Management site''']
 
-* '''CMDB''' ?? what, where, who is responsible for info update?
-* '''Password Manager''' access
-** must have write access
-** Validate that the passwords match with "MSCRM2016 admin documentation..docx" produced by Theo
+* --'''Password Manager''' access--
+** --must have write access--
+** --Validate that the passwords match with "MSCRM2016 admin documentation..docx" produced by Theo--
 
-* '''Nework Shares''' (i:/W: etc) 
+* --'''Nework Shares''' (i:, w:)--
+
+* --Access: '''SQL servers/instances''' (SQL Studio SQL Management)--
+
+* --Access: '''Reporting Services Reports'''--
+** '''VS solution, RDL files''': ALT-CRM003 '''E:''' drive
 
 * '''Doubts'''?? 
 ** Analyse latest Topdesk issues!
+** '''CMDB''' ?? what, where, who is responsible for info update?
 ** Read Theo document en gathered info/documentation )))
 
-* Access SQL servers via SQL Studio Management
-
- 
 === Extra work:===
 <PRE>
 * '''DocumentsCorePack'''(DCP) roll-out
@@ -75,45 +84,45 @@ UAIREGFILE=[RegFileLocation]\uai-template.reg"</nowiki>)))
 ** Mapping AD/CRM users, roles?
 ** Restarten van servers/services
 
-* Calamiteiten:
-** Mark Bekke?? 1e lijns Sergeant
-** DBA- Remco xxx?  
-** MyTenneT, Mark Bekke
-** Privacy/Security/Wet Becherming Persoonlijk Gegevens (WBp): Ronald Kersten
-** Email Router (CRM) 
-
-* CRM Licenties
+* --CRM Licenties--
 ** Microsoft Audit, check alle actief CRM users
 
-* IT Landscape/overview
+* --IT Landscape/overview--
 ** See DTO document in Sharepoint!
 
-* Documentatie, waar is dat te vinden? 
-* Topdesk
-* Sharepoint
+* --Documentatie, waar is dat te vinden?-- 
+** Topdesk
+** Sharepoint
+** wiki
 ** (i:) DTO - Technishe Detail Ontwerp, Dick Noort heeft al aangevraagd!
 ** (i:) Applicatie document 
 ** CMDB in Topdesk, deze we bij moeten houden! 
 
-* IT Team, rollen, verantwoordelijkheden
-
-* Monitoring?
+* '''Monitoring?''' *Dick Noort will ask infra!
 ** Analyseren van Logs, Eventviewer??
 ** Opslag loopt vol
 ** Netwerk 
 ** CPU Rekenkracht
 ** Services (Site, WebServices)
 
-* Backup, hoe is dit ingeregeld?
+* '''Backup procedures?'''
 ** Change in Topdesk!
-** Vindt validatie van de backups plaats.
-*** geen afspraak erover!
+** Hoe vindt validatie van de backups plaats?
+*** geen afspraak daarover!
 
-* Disaster Recovery Procedures?
+* '''Disaster Recovery Procedures?'''
 ** CRM Front-End & Backup-end
 ** SQL Reporting Services 
 ** MyTennet (Sharepoint) ?? 
 ** DocumentConnect ??
+
+* '''Calamiteiten''': (see ContactPersonen hieronder)!
+** 1e lijns Sergeant: Mark Bekke?? 
+** DBA: Remco xxx?
+** Email: ???
+*** CRM Email Router: ??   
+** MyTenneT: Mark Bekke
+** Privacy/Security/Wet Becherming Persoonlijk Gegevens (WBp): Ronald Kersten
 </PRE>
 
 === Contactpersonen:===
