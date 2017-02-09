@@ -90,3 +90,5 @@ Ciber.TenneT-TSO|TenneT TSO||2017/01/30 12:53:47|procm|U|
 Ciber.TenneT-TSO|TenneT TSO||2017/01/30 14:46:20|procm|U|
 Ciber.TenneT-TSO|TenneT TSO||2017/01/30 16:53:42|procm|U|
 Ciber.TenneT-TSO|TenneT TSO||2017/02/01 15:02:17|procm|U|
+Ciber.Ciber_PowerBI|Power BI Charts||2017/02/08 14:54:17|procm|U|
+Ciber.Ciber_PowerBI|Power BI Charts (demo)||2017/02/08 14:57:36|procm|U|
