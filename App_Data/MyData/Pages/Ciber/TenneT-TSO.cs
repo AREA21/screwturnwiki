@@ -1,5 +1,5 @@
 TenneT TSO
-procm|2017/02/01 15:34:10
+procm|2017/02/14 11:24:28
 ##PAGE##
 {TOC}
 
@@ -54,8 +54,11 @@ UAIREGFILE=[RegFileLocation]\uai-template.reg"</nowiki>)))
 === Functioneel beheer===
 <PRE>
 * [http://beheerweb.alfa.local|'''Beheerweb- Deploy Groups Management''']
-* [http://seargeantvandeweek.alfa.local|Seargeant of the week]
-* [http://sp-cases.alfa.local/sites/BIM/Cases/BIM-00084 - RM - MSCRM - Migration to version 2015/MSCRM - Findings registration - Migration to MSCRM 2015.xlsx|'''Nazorg IssuesList''']
+* [http://seargeantvandeweek.alfa.local|'''Seargeant of the week''']
+* [http://sp-cases.alfa.local/sites/BIM/Cases/BIM-00084 - RM - MSCRM - Migration to version 2015/MSCRM - Findings registration - Migration to MSCRM 2015.xlsx|'''--Nazorg IssuesList--''']
+
+* [http://sp-teamsites.alfa.local/sites/CRMbeheer/default.aspx|'''Sharepoint: CRM Beheer Algemeen''']
+* [http://wiki.alfa.local|'''Wiki (Atlassian Confluence)''' ]
 
 * '''Network shares''':
 ** '''I:''' (\\ka-dc02.alfa.local\data$)
@@ -127,10 +130,6 @@ UAIREGFILE=[RegFileLocation]\uai-template.reg"</nowiki>)))
 
 === Contactpersonen:===
 <PRE>
-* [http://sergeantvandeweek.alfa.local|'''Sergeant van de week''']
-* [http://wiki.alfa.local|'''Wiki (Atlassian Confluence)''' ]
-* [http://sp-teamsites.alfa.local/sites/CRMbeheer/default.aspx|'''CRM Beheer Algemeen''']
-
 * '''Infra structuur''' (servers – netwerk etc.)
 ** Evert Morren
 ** Paul Leenheers (lastig te benaderen, houd zich afzijdig)
