@@ -1,5 +1,5 @@
 Ciber Nederland
-procm|2017/01/10 16:46:18
+procm|2017/02/28 17:48:38
 ##PAGE##
 {TOC}
 
@@ -21,6 +21,15 @@ procm|2017/01/10 16:46:18
 
 === Ideas===
 <PRE>
+(((Research & Development: 
+'''365 TalentPortal Dynamics CRM & Dynamics 365 webinar''' (2017_0221 tuesday, 95 participants)
+* PowerBi
+* Power Apps
+** Logic Apps
+* Flow- linking all the different thuins together 
+* Common Data Services
+* PSA - MS project client)))
+
 * Manual Invoicing Automation (PDF/OCR)
 ** Newviews *Tim Paymans
 

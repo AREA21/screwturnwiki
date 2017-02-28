@@ -23,7 +23,6 @@ Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|
 Ciber.Ciber_DynamicsCRM_Howto|
 Ciber.Ciber_DynamicsCRM_TechnicalResources|
 Ciber.Ciber_DynamicsCRM_TemplatesAndTools|
-Ciber.Ciber_Index|Ciber.Ciber_DynamicsCRM|Ciber.Ciber_DynamicsCRM_Howto|Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber.Ciber_DynamicsCRM_TechnicalResources|Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Ciber.TenneT-TSO|Ciber.Ciber_ReportingServices|Ciber.Ciber_PowerBI
 Ciber.Ciber_PowerBI|
 Ciber.Ciber_ReportingServices|
 Hoogendoorn.Hoogendoorn_CoursesAndWorkshops|
@@ -140,3 +139,4 @@ MVSD.Wateringse-Binnentuinen|
 MVSD.Zomerfestival-Brielle|
 NexusVerus.NexusVerus_Index|
 Ciber.TenneT-TSO|
+Ciber.Ciber_Index|Ciber.Ciber_DynamicsCRM|Ciber.Ciber_DynamicsCRM_Howto|Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber.Ciber_DynamicsCRM_TechnicalResources|Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Ciber.TenneT-TSO|Ciber.Ciber_ReportingServices|Ciber.Ciber_PowerBI

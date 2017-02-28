@@ -69,3 +69,9 @@ G|2017/02/28 16:59:39|User procm logged in|SYSTEM
 G|2017/02/28 17:00:18|Page update requested for Ciber.TenneT-TSO|procm
 G|2017/02/28 17:00:18|Page Content updated for Ciber.TenneT-TSO|SYSTEM
 G|2017/02/28 17:00:19|Page Ciber.TenneT-TSO rebound|SYSTEM
+G|2017/02/28 17:48:03|Page update requested for Ciber.Ciber_Index|procm
+G|2017/02/28 17:48:03|Page Content updated for Ciber.Ciber_Index|SYSTEM
+G|2017/02/28 17:48:03|Page Ciber.Ciber_Index rebound|SYSTEM
+G|2017/02/28 17:48:38|Page update requested for Ciber.Ciber_Index|procm
+G|2017/02/28 17:48:39|Page Content updated for Ciber.Ciber_Index|SYSTEM
+G|2017/02/28 17:48:39|Page Ciber.Ciber_Index rebound|SYSTEM
