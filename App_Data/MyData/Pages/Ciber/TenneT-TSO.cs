@@ -1,15 +1,15 @@
 TenneT TSO
-procm|2017/02/14 11:24:28
+procm|2017/02/28 11:19:13
 ##PAGE##
 {TOC}
 
 === Needs===
 (((
 * '''Test Laptop''' in Ciber possession 
-** TU (Test User) account
+** --TU (Test User) account-- (SEPNT1\TU102620)
 ** LA (Local Admin) account
 
-* --'''AA account''', access to servers-- *works!
+* --'''AA account''', access to servers-- (SEPNT1\AA102620) *works!
 ** Local admin rights to run: *ongoing!
 *** CRM deployment manager
 *** Email router
@@ -53,8 +53,16 @@ UAIREGFILE=[RegFileLocation]\uai-template.reg"</nowiki>)))
 
 === Functioneel beheer===
 <PRE>
-* [http://beheerweb.alfa.local|'''Beheerweb- Deploy Groups Management''']
+* [http://sp-teamsites.alfa.local/sites/CRMbeheer|'''Sharepoint documentation for CRM beheer''']
+
+* [http://beheerweb.alfa.local|'''Beheerweb- Deploygroup Management''']
+
 * [http://seargeantvandeweek.alfa.local|'''Seargeant of the week''']
+
+* [http://admt.alfa.local|'''AD Roles Checker''']
+
+* [http://intranet.alfa.local/Dutch/Services/IT/Paginas/MeldingMaken.aspx|'''Powerdesk Melding Maken''' ]
+
 * [http://sp-cases.alfa.local/sites/BIM/Cases/BIM-00084 - RM - MSCRM - Migration to version 2015/MSCRM - Findings registration - Migration to MSCRM 2015.xlsx|'''--Nazorg IssuesList--''']
 
 * [http://sp-teamsites.alfa.local/sites/CRMbeheer/default.aspx|'''Sharepoint: CRM Beheer Algemeen''']
