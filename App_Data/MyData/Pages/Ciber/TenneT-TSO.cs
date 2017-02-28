@@ -1,5 +1,5 @@
 TenneT TSO
-procm|2017/02/28 11:19:13
+procm|2017/02/28 17:00:18
 ##PAGE##
 {TOC}
 
@@ -54,6 +54,7 @@ UAIREGFILE=[RegFileLocation]\uai-template.reg"</nowiki>)))
 === Functioneel beheer===
 <PRE>
 * [http://sp-teamsites.alfa.local/sites/CRMbeheer|'''Sharepoint documentation for CRM beheer''']
+** [http://sp-teamsites.alfa.local/sites/CRMbeheer/Handleidingen/Applicatie Beheer/CRM 2016 Handleidingen/MSCRM admin documentation.docx|MSCRM admin documentation (Theo Besselink)]
 
 * [http://beheerweb.alfa.local|'''Beheerweb- Deploygroup Management''']
 
