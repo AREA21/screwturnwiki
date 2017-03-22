@@ -1,15 +1,3 @@
-Ciber.Ciber_Windows-Containers_and_Docker|Windows Containers & Docker||2016/08/02 13:18:22|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/08/09 11:40:14|procm|U|
-Ciber.Ciber_ReportingServices|Reporting Services (SSRS)||2016/08/09 16:20:53|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/08/09 16:33:36|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/08/10 09:56:11|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/08/15 13:34:40|procm|U|
-Insights.Insights_Index|Insights *Getting Things Done||2016/08/22 11:27:18|procm|U|
-Insights.Accomplishments|Accomplishments||2016/08/22 12:01:02|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/08/22 15:27:25|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/08/28 14:00:06|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/09/01 09:47:13|procm|U|
-KnowledgeBase.KB_Index|KnowledgeBase Index||2016/09/01 09:49:40|procm|U|
 Ciber.Ciber_Index|Ciber Nederland||2016/09/01 10:13:20|procm|U|
 KnowledgeBase.Windows-Containers_and_Docker|Windows Containers & Docker||2016/09/01 10:16:40|procm|N|
 KnowledgeBase.KB_Index|KnowledgeBase Index||2016/09/01 10:17:02|procm|U|
@@ -98,3 +86,4 @@ Ciber.TenneT-TSO|TenneT TSO||2017/02/21 14:04:52|procm|U|
 Ciber.TenneT-TSO|TenneT TSO||2017/02/28 11:04:43|procm|U|
 Ciber.TenneT-TSO|TenneT TSO||2017/02/28 17:00:18|procm|U|
 Ciber.Ciber_Index|Ciber Nederland||2017/02/28 17:48:03|procm|U|
+Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2017/03/22 14:01:03|procm|U|
