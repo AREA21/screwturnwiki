@@ -1,5 +1,5 @@
 Dynamics CRM: How-to
-procm|2017/03/22 14:12:18
+procm|2017/03/22 14:20:31
 ##PAGE##
 {TOC}
 
@@ -8,10 +8,10 @@ procm|2017/03/22 14:12:18
 * '''Monitor and troubleshoot Microsoft Dynamics 365''': [https://technet.microsoft.com/en-us/library/hh699694.aspx]
 
 * '''Logging'''
-** [https://community.dynamics.com/crm/b/salimadamondynamicscrm/archive/2013/08/14/error-logging-options-in-crm]
-** [http://www.stunnware.com] or [http://www.donaubauer.com]
-** [http://www.cobalt.net/what-server-logs-are-useful-for-troubleshooting-dynamics-crm]
-** [http://www.langalaxy.de/2009/09/crm-log-file-locations]
+** [https://community.dynamics.com/crm/b/salimadamondynamicscrm/archive/2013/08/14/error-logging-options-in-crm|Error logging options in CRM]
+*** [http://www.stunnware.com] or [http://www.donaubauer.com]
+** [http://www.cobalt.net/what-server-logs-are-useful-for-troubleshooting-dynamics-crm|What server logs are useful for troubleshooting Dynamics CRM]
+** [http://www.langalaxy.de/2009/09/crm-log-file-locations|CRM Log file locations]
 </PRE>
 
 === Plugins===
