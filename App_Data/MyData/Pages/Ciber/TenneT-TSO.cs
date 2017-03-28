@@ -1,5 +1,5 @@
 TenneT TSO
-procm|2017/02/28 17:00:18
+procm|2017/03/28 14:49:23
 ##PAGE##
 {TOC}
 
@@ -34,6 +34,13 @@ procm|2017/02/28 17:00:18
 ** Analyse latest Topdesk issues!
 ** '''CMDB''' ?? what, where, who is responsible for info update?
 ** Read Theo document en gathered info/documentation )))
+
+=== Knowledge Base===
+<PRE>
+==== User is correct in CRM but cannot login?====
+* Disconnect that user connecting the account to eg.: '''sepnt1\accemscrm8''' (1..8)? 
+* ...then connect back de CRM account to original ('''A'''ctive '''D'''irectory) user
+</PRE>
 
 === Extra work:===
 <PRE>
@@ -136,6 +143,7 @@ UAIREGFILE=[RegFileLocation]\uai-template.reg"</nowiki>)))
 ** MyTenneT: Mark Bekke
 ** Privacy/Security/Wet Becherming Persoonlijk Gegevens (WBp): Ronald Kersten
 </PRE>
+
 
 === Contactpersonen:===
 <PRE>
