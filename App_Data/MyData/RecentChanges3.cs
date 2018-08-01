@@ -88,3 +88,4 @@ KnowledgeBase.Dynamics_365-CRM_TemplatesAndTools|Dynamics CRM: Templates & Tools
 KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2018/07/04 10:11:16|procm|U|
 KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2018/07/04 12:30:51|procm|U|
 KPN-NEC.KPN-NEC_Java_development|KPN-NEC Used Java technologies||2018/07/26 12:18:05|procm|U|
+NexusVerus.NexusVerus_Index|NexusVerus Index||2018/08/01 18:38:32|procm|U|

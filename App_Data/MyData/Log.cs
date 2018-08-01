@@ -37,3 +37,52 @@ G|2018/08/01 17:37:58|User icta updated|SYSTEM
 G|2018/08/01 17:37:58|Group membership set for User icta|SYSTEM
 G|2018/08/01 17:41:26|User procm logged out|SYSTEM
 G|2018/08/01 17:41:36|User icta logged in|SYSTEM
+G|2018/08/01 17:53:25|User icta logged in|SYSTEM
+G|2018/08/01 17:53:42|User icta logged out|SYSTEM
+G|2018/08/01 17:53:48|User procm logged in|SYSTEM
+G|2018/08/01 18:00:10|Metadata file change requested for HtmlHead, ns: |procm
+G|2018/08/01 18:33:33|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2018/08/01 18:33:33|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2018/08/01 18:33:33|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2018/08/01 18:33:33|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2018/08/01 18:33:33|ScrewTurn Wiki is ready|SYSTEM
+G|2018/08/01 18:36:45|User procm logged in|SYSTEM
+G|2018/08/01 18:38:32|Page update requested for NexusVerus.NexusVerus_Index|procm
+G|2018/08/01 18:38:33|Page Content updated for NexusVerus.NexusVerus_Index|SYSTEM
+G|2018/08/01 18:38:33|Page NexusVerus.NexusVerus_Index rebound|SYSTEM
+G|2018/08/01 18:39:09|Page update requested for NexusVerus.NexusVerus_Index|procm
+G|2018/08/01 18:39:09|Page Content updated for NexusVerus.NexusVerus_Index|SYSTEM
+G|2018/08/01 18:39:09|Page NexusVerus.NexusVerus_Index rebound|SYSTEM
+G|2018/08/01 18:42:53|Metadata file change requested for HtmlHead, ns: |procm
+G|2018/08/01 18:47:15|Provider DLL upload requested Prabir.ScrewTurn.Wiki.SyntaxHighlighter.dll|procm
+G|2018/08/01 18:47:15|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:13|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:13|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:13|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:13|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:13|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:13|ScrewTurn Wiki is ready|SYSTEM
+G|2018/08/01 18:52:33|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:33|Provider Local Users Provider loaded (Enabled)|SYSTEM
+E|2018/08/01 18:52:34|Unable to load provider SQL Server Users Storage Provider (configuration rejected), disabling it|SYSTEM
+G|2018/08/01 18:52:34|Provider SQL Server Users Storage Provider loaded (Disabled)|SYSTEM
+G|2018/08/01 18:52:34|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:34|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+E|2018/08/01 18:52:34|Unable to load provider SQL Server Files Storage Provider (configuration rejected), disabling it|SYSTEM
+G|2018/08/01 18:52:34|Provider SQL Server Files Storage Provider loaded (Disabled)|SYSTEM
+E|2018/08/01 18:52:49|Unable to load provider SQL Server Pages Storage Provider (configuration rejected), disabling it|SYSTEM
+G|2018/08/01 18:52:49|Provider SQL Server Pages Storage Provider loaded (Disabled)|SYSTEM
+G|2018/08/01 18:52:49|Provider Download Counter Plugin loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:49|Provider Footnotes Plugin loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:49|MessageFormatter - Init success|MessageFormatter
+G|2018/08/01 18:52:49|Provider MessageFormatter loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:49|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:49|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:49|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:49|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:49|Provider TableFormatter loaded (Enabled)|SYSTEM
+G|2018/08/01 18:52:49|ScrewTurn Wiki is ready|SYSTEM
+G|2018/08/01 18:53:28|User procm logged in|SYSTEM
+G|2018/08/01 18:54:25|Providers auto-update requested|procm
+G|2018/08/01 18:54:25|Starting automatic providers update|SYSTEM
+G|2018/08/01 18:54:25|Automatic providers update completed: updated 0 DLLs|SYSTEM

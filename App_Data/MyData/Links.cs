@@ -96,7 +96,6 @@ MVSD.Vestia-Estrade-Projecten|MVSD.Vestia-Projectontwikkeling
 MVSD.Vestia-Projectontwikkeling|
 MVSD.Wateringse-Binnentuinen|
 MVSD.Zomerfestival-Brielle|
-NexusVerus.NexusVerus_Index|
 KnowledgeBase.IIS-6-Deploying-an-url-forward|KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website
 KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website|
 KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory|
@@ -157,3 +156,4 @@ KnowledgeBase.Email_Clients-Servers|
 KnowledgeBase.Exchange_Virtualization|
 Index|
 MainPage|
+NexusVerus.NexusVerus_Index|

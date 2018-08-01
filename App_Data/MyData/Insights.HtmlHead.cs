@@ -39,4 +39,4 @@ shLegacy.js
         SyntaxHighlighter.config.clipboardSwf
 = '/Public/Plugins/Prabir_SyntaxHighlighter/scripts/clipboard.swf';  
         SyntaxHighlighter.all();
-</script>
+</script> 
