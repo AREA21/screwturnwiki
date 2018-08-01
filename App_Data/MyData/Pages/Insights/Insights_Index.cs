@@ -1,5 +1,5 @@
 Insights *Getting Things Done
-procm|2016/09/23 14:26:07
+procm|2017/11/15 13:28:04
 ##PAGE##
 {TOC}
 
@@ -28,144 +28,9 @@ procm|2016/09/23 14:26:07
 ** SEO (Search Engine Optimization)
 ** URL rewriting)))
 
-== Research & Development==
+=== [++Insights.Accomplishments|My Accomplishments]===
 
-=== WebMaster===
-* [http://www.google.com/webmasters|Google WebMaster Tools Training]
-** [https://www.google.com/webmasters/tools/removals|Google WebMaster Removal tool]
-
-* Goggle Analytics -> Google Task Manager
-
-=== [http://linkeddata.org|Linked Data]===
-*  '''U'''niform '''R'''esource '''I'''dentifier 
-* '''R'''esource '''D'''escription '''F'''ramework
-** SPARQL - query language
-
-* Application(s):
-** [http://wiki.dbpedia.org|DBpedia Org]
-** Google
-*** Rich snippets
-** Facebook
-*** Like button 
-
-
-=== Mobile apps===
-<PRE>
-((('''summary''': There are a lot of technologies out there to help you go mobile. There are frameworks, IDEs, debuggers, emulators, ... the works! 
-But before you pick your tools, you need to chose the type of mobile application you plan to build. There are 3 types of mobile application to choose from:)))
-
-* '''Native Applications''': These are mobile applications that you install on your device via an appstore. Usually these apps provide a very rich user experience, because they are
-built specifically for a particular device’s hardware. On the downside, for each device you plan to support, you’ll need to build a specific version of your app.
-
-* '''Mobile Web Applications''': These are mobile applications that run on a web server, and are accessed via the device’s web browser using an internet connection. Note that these are not regular
- web sites, but rather purpose built mobile applications that, when done right, provide the same look and feel of native apps but require internet connection to execute.
-
-* '''Hybrid Applications''': The goal of this type of application is to get the advantages of both native and mobile web applications. This is achieved by building a very thin native shell around 
-a mobile web application, extending the mobile web application with capabilities that only native applications can access. By using this technology you can put your application on the appstore, 
-and you can use extended features of the phone like the camera or gyroscope. But, you’ll still need to build a specific version of this thin native shell for each supported device.
-
-==== How-to build Hybrid apps====
-* [++ICTAutomatisering.ICTAutomatisering_RhoMobile|Motorola RhoMobile]
-* [http://www.Outsystems.com]
-** [http://www.outsystems.com/forums/discussion/9911/How-To%3a+build+a+hybrid+app+using+PhoneGap+Builder]
-** [http://www.outsystems.com/forums/discussion/9906/how-to-build-a-hybrid-android-app]
-** [http://www.outsystems.com/forums/discussion/9910/how-to-build-a-hybrid-ios-app]
-
-==== Frameworks comparison====
-[http://www.amlcode.com/2010/07/16/comparison-appinventor-rhomobile-phonegap-appcelerator-webview-and-aml|App Inventor vs DroidDraw vs Rhomobile vs PhoneGap vs Appcelerator vs Webview vs Aml]
-[http://floatlearning.com/2011/07/which-cross-platform-framework-is-right-for-me|Which Cross-platform framework is right for me?]
-</PRE>
-
-=== SMS Gateways===
-<PRE>
-* [http://redoxygen.net] Service URL: [https://www.redoxygen.net/oms/service.asmx]
-* [http://www.tm4b.com]
-* [http://www.mxtelecom.com/uk/smsg]
-* [http://www.clickatell.com]
-* [http://www.esendex.co.uk]
-* [http://www.tm4b.com]
-
-* HowTo(s)
-** [http://www.developershome.com/sms/howToChooseSMSGateway.asp|How to Choose an SMS Service Provider]
-</PRE>
-
-=== Hosting===
-<PRE>
-* [http://www.web10.nl]
-* [http://www.godaddy.com]
-* [http://www.arvixe.com]
-* [https://secure.asphostportal.com/default.aspx|AspHostPortal, Cheap Microsoft Hosting- ASP.NET, MVC, Silverlight, Sharepoint...]
-* HowTo(s)
-** [http://weblogs.asp.net/scottgu/archive/2011/01/18/running-an-asp-net-mvc-3-app-on-a-web-server-that-doesn-t-have-asp-net-mvc-3-installed.aspx|Deploying ASP.NET MVC 3 application where ASP.NET MVC 3 is not installed]
-
-==== Cloud (IaaS,PaaS,SaaS)====
-* '''Windows Azure'''
-** [http://manage.windowsazure.com]
-* '''Amazon'''
-** [http://aws.amazon.com/products/|Amazon Products]
-** [http://aws.amazon.com/sdkfornet/|Amazon S3 SDK 4.NET]
-** [http://aws.amazon.com/s3/|Amazon '''S'''imple '''S'''torage '''S'''ervices (Amazon S3)]
-** [http://aws.amazon.com/ec2/|Amazon Elastic Compute Cloud (Amazon EC2)]
-* '''AppHarbor''' Cloud platform 4 .NET
-** [http://channel9.msdn.com/Series/mvcConf/mvcConf-2-Troels-Thomsen-Deploy-ASPNET-MVC-with-No-Effort|Deploy ASP.NET MVC with No Effort]
-</PRE>
-
-=== Deployment===
-<PRE>
-* [http://en.wikipedia.org/wiki/ClickOnce|'''ClickOnce''']
-* [http://www.simple-talk.com/dotnet/.net-tools/extending-msbuild/|Customize '''MsBuild''']
-* [http://www.openwrap.org/|'''OpenWrap''' is the premier package manager for .NET]
-</PRE>
-
-=== Technology===
-<PRE>
-* '''Microsft Visual Studio'''
-** [http://msdn.microsoft.com/en-us/library/ee317485.aspx|Visualize Code by Generating Sequence Diagrams *VS Ultimate]
-** [http://sidewaffle.com|SideWaffle, Templates for Visual Studio 2012/2013]
-** [http://www.asp.net/visual-studio/overview/2013|Visual Studio 2013 Overview, Scott Hanselman]
-** [http://vswebessentials.com/features| Webessentials features]
-
-* '''Lucene Search/Analyser'''
-** [http://incubator.apache.org/lucene.net/|Lucene.Net]
-** [http://linqtolucene.codeplex.com/|Linq to Lucene]
-** [http://blogs.dovetailsoftware.com/blogs/kmiller/archive/2010/07/02/using-the-tika-java-library-in-your-net-application-with-ikvm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253a+KevinMiller+%2528Kevin+Miller%2529|Using Tika Java library in your Dot.Net application with iKVM]
-
-* '''Microsoft Office OpenXML SDK'''
-** [http://openxmldeveloper.org|Open XML developer]
-** [http://www.microsoft.com/downloads/en/details.aspx?FamilyId=C6E744E5-36E9-45F5-8D8C-331DF206E0D0&displaylang=en|Open XML SDK, Microsoft Office]
-
-* '''Code First Development'''
-** [http://blogs.msdn.com/b/adonet/archive/2010/12/14/ef-feature-ctp5-released.aspx|Code First deployment, ADO.NET extension coming in EF 4.1(now CTP5)]
-** [http://weblogs.asp.net/scottgu/archive/2010/07/16/code-first-development-with-entity-framework-4.aspx|Code First deployment, with '''E'''ntity '''F'''ramework-4]
-
-==== Web-technology====
-<PRE>
-* '''WebDAV''' (Web-based Distributed Authoring and Versioning)
-** [http://www.microsoft.com/netherlands/ondernemers/techniek_techniek/webdav.aspx|WebDAV protocol]
-** [http://www.windowsnetworking.com/articles_tutorials/WebDAV-IIS.html|Using WebDAV with IIS]
-
-* [http://www.modernizr.com/|Modernizr js library, active detection of browser support for HTML5 & CSS3 features]
-* [http://www.4guysfromrolla.com/articles/030310-1.aspx|Improving CSS With .LESS]
-* [http://clientdependency.codeplex.com/|Client Dependency Framework, replaces scriptmanager/proxy manager of ASP.NET] 
-** Script combining, 
-** Resolving different paths for external JavaScript & CSS files, 
-** Minify and Gzip Compression
-* [http://en.wikipedia.org/wiki/Content_delivery_network|'''C'''ontent '''D'''elivery '''N'''etwork]
-** jQuery from Microsoft's CDN
-** others
-</PRE>
-
-</PRE>
-=== OpenSource & COTS===
-<PRE>
-* [++KnowledgeBase.Umbraco-CMS|'''Umbraco CMS''']
-* '''Mail Server'''
-** [http://www.hmailserver.com/documentation/v5.1/?page=overview|hMailServer]
-
-(((COTS- Commercial-Of-The-Shelf))) 
-</PRE>
-
-=== Open Standards (brainstorm!!)===
+==== Open Standards (brainstorm!!)====
 (((
 Agile, ComonSense, Best pratices 
 Laten inspireren door markt leiders/evangelist-en via social-media{Blogs, Wesites, Twitter, Facebook, Linkedin}
@@ -207,6 +72,148 @@ SCRUM as the Agile pratice
 ** Applicatiion framework
 *** .NET i.c.m "proven" technologieën en standaards 
 * Separation of concerns, Loose Decoupling)))
+
+== Certifications==
+<PRE>
+=== Microsoft===
+* [http://www.microsoft.com/learning/en/us/mcsd-certification.aspx|Microsoft Certification Overview for Developers]
+* [http://www.twice.nl/download/Developer-Chart-Your-Career-Poster-%28Twice-IT-Training%29.pdf|Developer Poster Overview (pdf)]
+* [^{UP:ScrewTurn.Wiki.FilesStorageProvider}/MVSD/Personal Development/MicrosoftCertification.overview.01.Celio.doc|Certification Overview (2011, in word format)]
+* [^http://www.microsoft.com/learning/mcp/certifications.mspx|Certifications by Technology]
+* Courses
+** [http://www.certmagic.com/Microsoft-certification-practice-exams.html]
+** [http://www.infosupport.com/Training/CursusInfo/ASPMVC/Developing-Web-Applications-with-ASP.NET-MVC|Developing Web Applications with ASP.NET MVC (Info Support)]
+
+==== [Certification-MCPD_Dev4|MCPD .NET framework 4]====
+((('''Overview'''
+* C# Csharp
+* dotNET 4.0 changes
+* JQuery
+* Patterns
+* Selection of Learned techniques
+* HowTo's
+)))
+
+'''Legenda''':
+* '''MOC''', Microsoft Official Curriculum
+* '''MCAD''', Microsoft Certified Application Developer
+* --'''MCPD''', Microsoft Certified Professinal Developer --(replaced by MCSD)
+* 2016 (new)
+** '''MCP''', Microsoft Certified Professional
+** '''MCSD''', Microsoft Certified Solution Developer
+
+=== Others===
+* [http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library|ITIL]
+* [http://en.wikipedia.org/wiki/Six_Sigma|Six Sigma]
+{TOP}
+</PRE>
+
+== Research & Development==
+<PRE>
+* [++KnowledgeBase.KB_Mobile-Apps|'''Mobile apps''']
+
+* '''WebMaster'''
+** [http://www.google.com/webmasters|Google WebMaster Tools Training]
+*** [https://www.google.com/webmasters/tools/removals|Google WebMaster Removal tool]
+** Goggle Analytics -> Google Task Manager
+
+* [http://linkeddata.org|'''Linked Data''']
+**  '''U'''niform '''R'''esource '''I'''dentifier 
+** '''R'''esource '''D'''escription '''F'''ramework
+*** SPARQL - query language
+
+* Application(s):
+** [http://wiki.dbpedia.org|DBpedia Org]
+** Google
+*** Rich snippets
+** Facebook
+*** Like button 
+
+* '''Microsft Visual Studio'''
+** [http://msdn.microsoft.com/en-us/library/ee317485.aspx|Visualize Code by Generating Sequence Diagrams *VS Ultimate]
+** [http://sidewaffle.com|SideWaffle, Templates for Visual Studio 2012/2013]
+** [http://www.asp.net/visual-studio/overview/2013|Visual Studio 2013 Overview, Scott Hanselman]
+** [http://vswebessentials.com/features| Webessentials features]
+
+* '''Deployment technologies'''
+** [http://en.wikipedia.org/wiki/ClickOnce|'''ClickOnce''']
+** [http://www.simple-talk.com/dotnet/.net-tools/extending-msbuild/|Customize '''MsBuild''']
+** [http://www.openwrap.org/|'''OpenWrap''' is the premier package manager for .NET]
+
+* '''Lucene Search/Analyser'''
+** [http://incubator.apache.org/lucene.net/|Lucene.Net]
+** [http://linqtolucene.codeplex.com/|Linq to Lucene]
+** [http://blogs.dovetailsoftware.com/blogs/kmiller/archive/2010/07/02/using-the-tika-java-library-in-your-net-application-with-ikvm?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%253a+KevinMiller+%2528Kevin+Miller%2529|Using Tika Java library in your Dot.Net application with iKVM]
+
+* '''Microsoft Office OpenXML SDK'''
+** [http://openxmldeveloper.org|Open XML developer]
+** [http://www.microsoft.com/downloads/en/details.aspx?FamilyId=C6E744E5-36E9-45F5-8D8C-331DF206E0D0&displaylang=en|Open XML SDK, Microsoft Office]
+
+* '''Code First Development'''
+** [http://blogs.msdn.com/b/adonet/archive/2010/12/14/ef-feature-ctp5-released.aspx|Code First deployment, ADO.NET extension coming in EF 4.1(now CTP5)]
+** [http://weblogs.asp.net/scottgu/archive/2010/07/16/code-first-development-with-entity-framework-4.aspx|Code First deployment, with '''E'''ntity '''F'''ramework-4]
+
+=== Web-technology===
+<PRE>
+* '''WebDAV''' (Web-based Distributed Authoring and Versioning)
+** [http://www.microsoft.com/netherlands/ondernemers/techniek_techniek/webdav.aspx|WebDAV protocol]
+** [http://www.windowsnetworking.com/articles_tutorials/WebDAV-IIS.html|Using WebDAV with IIS]
+
+* [http://www.modernizr.com/|Modernizr js library, active detection of browser support for HTML5 & CSS3 features]
+* [http://www.4guysfromrolla.com/articles/030310-1.aspx|Improving CSS With .LESS]
+* [http://clientdependency.codeplex.com/|Client Dependency Framework, replaces scriptmanager/proxy manager of ASP.NET] 
+** Script combining, 
+** Resolving different paths for external JavaScript & CSS files, 
+** Minify and Gzip Compression
+* [http://en.wikipedia.org/wiki/Content_delivery_network|'''C'''ontent '''D'''elivery '''N'''etwork]
+** jQuery from Microsoft's CDN
+** others
+</PRE>
+
+=== OpenSource & COTS===
+<PRE>
+* [www.sitecore.net|'''SiteCore CMS''']
+* [++KnowledgeBase.Umbraco-CMS|'''Umbraco CMS''']
+* '''Mail Server'''
+** [http://www.hmailserver.com/documentation/v5.1/?page=overview|hMailServer]
+
+(((COTS- Commercial-Of-The-Shelf))) 
+</PRE>
+</PRE>
+
+=== Infra/IT Pro/DevOPS===
+<PRE>
+==== Hosting====
+* [http://www.web10.nl]
+* [http://www.godaddy.com]
+* [http://www.arvixe.com]
+* [https://secure.asphostportal.com/default.aspx|AspHostPortal, Cheap Microsoft Hosting- ASP.NET, MVC, Silverlight, Sharepoint...]
+* HowTo(s)
+** [http://weblogs.asp.net/scottgu/archive/2011/01/18/running-an-asp-net-mvc-3-app-on-a-web-server-that-doesn-t-have-asp-net-mvc-3-installed.aspx|Deploying ASP.NET MVC 3 application where ASP.NET MVC 3 is not installed]
+
+==== Cloud (IaaS,PaaS,SaaS)====
+* '''Windows Azure'''
+** [http://manage.windowsazure.com]
+* '''Amazon'''
+** [http://aws.amazon.com/products/|Amazon Products]
+** [http://aws.amazon.com/sdkfornet/|Amazon S3 SDK 4.NET]
+** [http://aws.amazon.com/s3/|Amazon '''S'''imple '''S'''torage '''S'''ervices (Amazon S3)]
+** [http://aws.amazon.com/ec2/|Amazon Elastic Compute Cloud (Amazon EC2)]
+* '''AppHarbor''' Cloud platform 4 .NET
+** [http://channel9.msdn.com/Series/mvcConf/mvcConf-2-Troels-Thomsen-Deploy-ASPNET-MVC-with-No-Effort|Deploy ASP.NET MVC with No Effort]
+
+==== SMS Gateways====
+* [http://redoxygen.net] Service URL: [https://www.redoxygen.net/oms/service.asmx]
+* [http://www.tm4b.com]
+* [http://www.mxtelecom.com/uk/smsg]
+* [http://www.clickatell.com]
+* [http://www.esendex.co.uk]
+* [http://www.tm4b.com]
+
+* HowTo(s)
+** [http://www.developershome.com/sms/howToChooseSMSGateway.asp|How to Choose an SMS Service Provider]
+</PRE>
+
 
 === Patterns & Best Pratices===
 <PRE>
@@ -259,50 +266,14 @@ SCRUM as the Agile pratice
 * Windows, Office & Visual Studio images library
 ** '''standard path:''' VS2010ImageLibrary.zip  [C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\VS2010ImageLibrary\1033\VS2010ImageLibrary.zip\]
 
-* Code Documentation
-** [http://www.simple-talk.com/dotnet/.net-tools/taming-sandcastle-a-.net-programmers-guide-to-documenting-your-code|SandCastle]
+* Documentation Generation
+** [http://www.simple-talk.com/dotnet/.net-tools/taming-sandcastle-a-.net-programmers-guide-to-documenting-your-code|SandCastle, code doc.]
+** [https://dotnet.github.io/docfx|DocFX]
 
 * Document Management
 ** --[^http://www.alentus.com/hosting/sharepoint-office.asp|SharePoint Integration with Office]--
-
 </PRE>
 
-== Certifications==
-<PRE>
-=== Microsoft===
-* [http://www.microsoft.com/learning/en/us/mcsd-certification.aspx|Microsoft Certification Overview for Developers]
-* [http://www.twice.nl/download/Developer-Chart-Your-Career-Poster-%28Twice-IT-Training%29.pdf|Developer Poster Overview (pdf)]
-* [^{UP:ScrewTurn.Wiki.FilesStorageProvider}/MVSD/Personal Development/MicrosoftCertification.overview.01.Celio.doc|Certification Overview (2011, in word format)]
-* [^http://www.microsoft.com/learning/mcp/certifications.mspx|Certifications by Technology]
-* Courses
-** [http://www.certmagic.com/Microsoft-certification-practice-exams.html]
-** [http://www.infosupport.com/Training/CursusInfo/ASPMVC/Developing-Web-Applications-with-ASP.NET-MVC|Developing Web Applications with ASP.NET MVC (Info Support)]
-
-==== [Certification-MCPD_Dev4|MCPD .NET framework 4]====
-((('''Overview'''
-* C# Csharp
-* dotNET 4.0 changes
-* JQuery
-* Patterns
-* Selection of Learned techniques
-* HowTo's
-)))
-
-'''Legenda''':
-* '''MOC''', Microsoft Official Curriculum
-* '''MCAD''', Microsoft Certified Application Developer
-* --'''MCPD''', Microsoft Certified Professinal Developer --(replaced by MCSD)
-* 2016 (new)
-** '''MCP''', Microsoft Certified Professional
-** '''MCSD''', Microsoft Certified Solution Developer
-
-=== Others===
-* [http://en.wikipedia.org/wiki/Information_Technology_Infrastructure_Library|ITIL]
-* [http://en.wikipedia.org/wiki/Six_Sigma|Six Sigma]
-{TOP}
-</PRE>
-
-== [Accomplishments]==
 
 == Wishlist==
 <pre>

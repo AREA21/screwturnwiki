@@ -1,5 +1,5 @@
 Email Clients & Servers
-procm|2016/06/10 11:36:39
+procm|2018/01/27 23:02:54
 ##PAGE##
 {TOC}
 === Exchange===
@@ -21,6 +21,21 @@ if you have more than 1 domain | go to Advanced tab | type)))
 * Type '''<domain name>''', where domain name is the name of your domain, and then press '''ENTER'''
 
 The MX record for the domain you entered should be displayed. If the MX record is not displayed, DNS is not configured properly.
+</PRE>
+
+=== Use Telnet to test SMTP communication on Exchange servers===
+<PRE>
+* TELNET {subdomain}.{domain1}.{tld} 25
+* EHLO {domain2}
+* MAIL FROM:{user}@{domain2}
+* RCPT TO:{user}@{domain1} NOTIFY=success,failure
+* DATA press ENTER
+* TYPE Subject: "The wanted subject text", press ENTER
+* Press ENTER again, (a blank line is needed between the Subject: field and message body.)
+* Type "The wanted message", and press ENTER
+* Type a period(.) and press ENTER
+* Type QUIT and then press ENTER
+* To close the TELNET session, type QUIT and ENTER  
 </PRE>
 
 === Outlook 2003-2010===

@@ -1,32 +1,32 @@
 Ciber Nederland
-procm|2017/02/28 17:48:38
+procm|2018/05/07 15:55:54
 ##PAGE##
 {TOC}
 
-=== [Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM]===
+=== [++KnowledgeBase.Dynamics_365-CRM|Microsoft Dynamics CRM (see KnowledgeBase!)]===
 
-==== [Ciber_DynamicsCRM_Howto|- Dynamics CRM: How-to]====
+==== [++KnowledgeBase.Dynamics_365-CRM_Howto|- Dynamics CRM: How-to]====
 
-==== [Ciber_DynamicsCRM_TemplatesAndTools|- Dynamics CRM: Templates & Tools]====
+==== [++KnowledgeBase.Dynamics_365-CRM_TemplatesAndTools|- Dynamics CRM: Templates & Tools]====
 
-==== [Ciber_DynamicsCRM_TechnicalResources|- Dynamics CRM: Technical Resources]====
+==== [++KnowledgeBase.Dynamics_365-CRM_TechnicalResources|- Dynamics CRM: Technical Resources]====
 
-==== [Ciber_DynamicsCRM_ConventionsAndStandards|- Dynamics CRM: Conventions & Standards]====
+==== [++KnowledgeBase.Dynamics_365-CRM_ConventionsAndStandards|- Dynamics CRM: Conventions & Standards]====
 
 ==== Customers:====
 ===== [Ciber.TenneT-TSO|- TenneT TSO]=====
 
 
-=== [Ciber.Ciber_ReportingServices|Reporting Services (SSRS)]===
+=== [++KnowledgeBase.Microsoft_ReportingServices|Reporting Services (SSRS)]===
 
 === Ideas===
 <PRE>
 (((Research & Development: 
 '''365 TalentPortal Dynamics CRM & Dynamics 365 webinar''' (2017_0221 tuesday, 95 participants)
-* PowerBi
+* PowerBI
 * Power Apps
 ** Logic Apps
-* Flow- linking all the different thuins together 
+* Flow- linking all the different things together 
 * Common Data Services
 * PSA - MS project client)))
 
@@ -39,10 +39,11 @@ procm|2017/02/28 17:48:38
 ** Autonumbering (Nico van der Heiden)
 
 * Integrations
-** [Ciber_PowerBI|Microsoft PowerBI (demo)] 
+** [++KnowledgeBase.Microsoft_PowerBI|Microsoft Power BI Charts (demo)]
 ** PostalCode-NL (Street-name lookup)
-*** [http://geodata.nationaalgeoregister.nl|'''PDOK'''- '''P'''ublieke '''D'''ienstverlening '''O'''p de '''K'''aart]
-**** eg.: [http://geodata.nationaalgeoregister.nl/geocoder/Geocoder?zoekterm=3027HJ+83B]
+*** [https://github.com/PDOK/locatieserver/wiki/API-Locatieserver|'''PDOK'''- '''P'''ublieke '''D'''ienstverlening '''O'''p de '''K'''aart(now named Locatieserver!)]
+**** (out-of-service): --[http://geodata.nationaalgeoregister.nl/geocoder/Geocoder?zoekterm=1012NX+1]-- 
+**** new: [https://geodata.nationaalgeoregister.nl/locatieserver/v3/free?fl=bron,type,straatnaam,huis_nlt,postcode,woonplaatsnaam,provincienaam&q=postcode:1012Nx&rows=1]
 ** GEO Bing MAps/Google
 ** IM Messaging/Communication integration
 *** Yammer (available)
@@ -55,7 +56,7 @@ procm|2017/02/28 17:48:38
 === Competencies===
 <PRE>
 (((summary: skills to gather &/or improve!)))
-* Deep drive C# 6
+* Deep drive C# 7
 ** Parallel programming 
 * Lambda & Advanced LINQ('''L'''anguage '''IN'''tegrated '''Q'''uery)
 * Unit Testing & Debugging advanced
@@ -64,7 +65,7 @@ procm|2017/02/28 17:48:38
 ** Angular 2
 ** REACT
 * Webservice, APIs & integration
-** REST(full) API
+** REST(full) API, WebAPI/OData
 ** SAML, OAUTH, OWIN 
 * Mobile Development 
 ** Universal Apps 

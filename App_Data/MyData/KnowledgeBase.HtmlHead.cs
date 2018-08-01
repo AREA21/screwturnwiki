@@ -35,6 +35,8 @@ shLegacy.js
 </script>
 <script type="text/javascript" src="/Public/Plugins/Prabir_SyntaxHighlighter/scripts/shBrushJScript.js">
 </script>
+<script type="text/javascript" src="/Public/Plugins/Prabir_SyntaxHighlighter/scripts/shBrushSql.js">
+</script>
 <script type="text/javascript">
         SyntaxHighlighter.config.clipboardSwf
 = '/Public/Plugins/Prabir_SyntaxHighlighter/scripts/clipboard.swf';  

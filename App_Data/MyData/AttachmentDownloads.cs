@@ -26,14 +26,14 @@ KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website.iis6_aspnet_12.gif|4
 KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website.iis6_aspnet_11.gif|48
 KPN-NEC.KPN-NEC_HOWTO.Autumn Leaves.jpg|0
 KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website.iis6_aspnet_14.gif|39
-KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_01.gif|17
-KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_04.gif|17
-KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_06.gif|17
-KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_11.gif|17
-KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_02.gif|17
-KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_03.gif|17
-KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_05.gif|17
-KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_07.gif|17
+KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_01.gif|18
+KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_04.gif|18
+KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_06.gif|18
+KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_11.gif|18
+KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_02.gif|18
+KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_03.gif|18
+KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_05.gif|18
+KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.iis6_aspnet_07.gif|18
 KnowledgeBase.Ogone-Payment-Service-Provider.Ogone Beschrijving.pdf|8
 KnowledgeBase.IIS-6-Deploying-an-url-forward.iis6_redirect_01.gif|22
 KnowledgeBase.IIS-6-Deploying-an-url-forward.iis6_redirect_06.gif|0

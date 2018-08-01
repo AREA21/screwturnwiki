@@ -1,5 +1,5 @@
 KPN-NEC Used Java technologies
-procm|2014/07/17 17:10:42
+procm|2018/07/26 12:18:05
 ##PAGE##
 '''NEC'''('''N'''ieuw '''E'''lectronisch '''C'''ontact)
 ----
@@ -50,7 +50,7 @@ procm|2014/07/17 17:10:42
 '''Jargon:'''
 ----
 <pre>
- '''OGNL'''..... Object-Graph Navigation Language)]
+ '''OGNL'''..... Object-Graph Navigation Language)
  '''CMP'''...... Container-managed Persistence (EJB, Bea Weblogic)
  '''JSP'''...... Java Server Pages
  '''EJB'''...... Enterprise Java Beans

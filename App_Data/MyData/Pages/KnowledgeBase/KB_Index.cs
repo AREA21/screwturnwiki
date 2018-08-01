@@ -1,5 +1,5 @@
 KnowledgeBase Index
-procm|2016/11/21 12:06:29
+procm|2017/11/15 16:07:08
 ##PAGE##
 {TOC}
 
@@ -50,6 +50,17 @@ on your behalf.)))
 * [http://www.databasejournal.com/features/article.php/3593466/MS-SQL-Series.htm|Database Journal, featured articles]
 </PRE>{TOP}
 
+== [++KnowledgeBase.Dynamics_365-CRM|Microsoft Dynamics 365/CRM]== 
+<PRE>
+=== [++KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to]===
+
+=== [++KnowledgeBase.Dynamics_365-CRM_TemplatesAndTools|Dynamics CRM: Templates & Tools]===
+
+=== [++KnowledgeBase.Dynamics_365-CRM_TechnicalResources|Dynamics CRM: Technical Resources]===
+
+=== [++KnowledgeBase.Dynamics_365-CRM_ConventionsAndStandards|Dynamics CRM: Conventions & Standards]===
+</PRE>
+
 == Development==
 <PRE>
 * [JavaScript|'''J'''ava'''S'''cript/JS]
@@ -65,6 +76,8 @@ on your behalf.)))
 
 === Authentication/ Authorization===
 <PRE>
+* [https://letsencrypt.org/getting-started|'''Let’s Encrypt''' is a free, automated, and open Certificate Authority.]
+
 * [https://scotch.io/tutorials/the-ins-and-outs-of-token-based-authentication|Token based authentication is prominent everywhere on the web nowadays!]
 
 ==== SSL Certificates====

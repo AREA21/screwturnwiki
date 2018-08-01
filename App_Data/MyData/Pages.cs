@@ -8,9 +8,12 @@ Brainnet.Optimization-OPerations-Services|Brainnet\Optimization-OPerations-Servi
 Brainnet.Research|Brainnet\Research.cs|2012/05/08 16:46:24
 Brainnet.Software-installation-configuration|Brainnet\Software-installation-configuration.cs|2011/12/19 16:54:33
 Brainnet.Software_Quality|Brainnet\Software_Quality.cs|2012/10/01 13:04:15
-Ciber.Ciber_DynamicsCRM|Ciber\Ciber_DynamicsCRM.cs|2016/05/24 16:09:51
+KnowledgeBase.Dynamics_365-CRM_ConventionsAndStandards|KnowledgeBase\Dynamics_365-CRM_ConventionsAndStandards.cs|2016/09/21 15:39:03
+KnowledgeBase.Dynamics_365-CRM_Howto|KnowledgeBase\Dynamics_365-CRM_Howto.cs|2016/09/21 15:20:48
+KnowledgeBase.Dynamics_365-CRM_TechnicalResources|KnowledgeBase\Dynamics_365-CRM_TechnicalResources.cs|2016/09/21 15:12:36
+KnowledgeBase.Dynamics_365-CRM_TemplatesAndTools|KnowledgeBase\Dynamics_365-CRM_TemplatesAndTools.cs|2016/09/21 15:32:39
 Ciber.Ciber_Index|Ciber\Ciber_Index.cs|2016/05/24 16:02:26
-Ciber.Ciber_ReportingServices|Ciber\Ciber_ReportingServices.cs|2016/07/01 14:36:12
+Ciber.TenneT-TSO|Ciber\TenneT-TSO.cs|2017/01/10 13:22:23
 Hoogendoorn.Hoogendoorn_CoursesAndWorkshops|Hoogendoorn\Hoogendoorn_CoursesAndWorkshops.cs|2015/03/24 13:50:30
 Hoogendoorn.Hoogendoorn_GreenboxSuggestionsImprovements|Hoogendoorn\Hoogendoorn_GreenboxSuggestionsImprovements.cs|2015/10/13 17:23:32
 Hoogendoorn.Hoogendoorn_Index|Hoogendoorn\Hoogendoorn_Index.cs|2015/03/08 20:10:07
@@ -38,11 +41,11 @@ KnowledgeBase.ASP_DotNET-MVC|KnowledgeBase\ASP_DotNET-MVC.cs|2011/02/25 15:50:57
 KnowledgeBase.Build-NAnt|KnowledgeBase\Build-NAnt.cs|2010/03/02 12:28:07
 KnowledgeBase.Builden-en-Online-zetten-van-een-bestaande-EasyWebEditNet-website|KnowledgeBase\Builden-en-Online-zetten-van-een-bestaande-EasyWebEditNet-website.cs|2010/02/17 12:38:14
 KnowledgeBase.Building-And-Publishing-Projects|KnowledgeBase\Building-And-Publishing-Projects.cs|2010/03/02 12:06:28
-KnowledgeBase.Windows-Containers_and_Docker|KnowledgeBase\Windows-Containers_and_Docker.cs|2016/07/29 14:50:33
 KnowledgeBase.Connect-an-EasyWebEditNet-website-with-EasyMail|KnowledgeBase\Connect-an-EasyWebEditNet-website-with-EasyMail.cs|2010/03/03 10:02:49
 KnowledgeBase.Database|KnowledgeBase\Database.cs|2010/02/17 17:14:29
 KnowledgeBase.Deployment-van-een-nieuwe-website-incl-SQL-database-op-test3-mvsd-nl|KnowledgeBase\Deployment-van-een-nieuwe-website-incl-SQL-database-op-test3-mvsd-nl.cs|2010/02/11 16:21:14
 KnowledgeBase.DotNET-Chart-Controls|KnowledgeBase\DotNET-Chart-Controls.cs|2011/02/25 15:39:09
+KnowledgeBase.Dynamics_365-CRM|KnowledgeBase\Dynamics_365-CRM.cs|2016/05/24 16:09:51
 KnowledgeBase.EasyWebEditNet website opzetten vanuit de Codebase|KnowledgeBase\EasyWebEditNet website opzetten vanuit de Codebase.cs|2010/02/17 15:41:26
 KnowledgeBase.Email_Clients-Servers|KnowledgeBase\Email_Clients-Servers.cs|2012/10/16 11:26:44
 KnowledgeBase.Exchange_Virtualization|KnowledgeBase\Exchange_Virtualization.cs|2012/10/16 13:35:29
@@ -51,9 +54,13 @@ KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website|KnowledgeBase\IIS-6-
 KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory|KnowledgeBase\IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory.cs|2010/02/18 09:40:27
 KnowledgeBase.IIS6-Add-AWStats|KnowledgeBase\IIS6-Add-AWStats.cs|2010/02/17 16:02:23
 KnowledgeBase.IIS6-Support-for-Ms-Office2007|KnowledgeBase\IIS6-Support-for-Ms-Office2007.cs|2010/02/17 16:57:31
+KnowledgeBase.JavaScript|KnowledgeBase\JavaScript.cs|2016/11/21 12:07:56
 KnowledgeBase.KB_Development_Guidelines|KnowledgeBase\KB_Development_Guidelines.cs|2009/03/12 17:25:02
 KnowledgeBase.KB_Index|KnowledgeBase\KB_Index.cs|2009/03/20 11:00:26
+KnowledgeBase.KB_Mobile-Apps|KnowledgeBase\KB_Mobile-Apps.cs|2017/11/15 11:50:44
 KnowledgeBase.KB_QualityAndService|KnowledgeBase\KB_QualityAndService.cs|2009/03/18 11:17:45
+KnowledgeBase.Microsoft_PowerBI|KnowledgeBase\Microsoft_PowerBI.cs|2016/12/30 13:26:48
+KnowledgeBase.Microsoft_ReportingServices|KnowledgeBase\Microsoft_ReportingServices.cs|2016/07/01 14:36:12
 KnowledgeBase.MMC_Admin_Tools|KnowledgeBase\MMC_Admin_Tools.cs|2012/08/03 09:22:59
 KnowledgeBase.Mobile|KnowledgeBase\Mobile.cs|2014/02/17 15:46:09
 KnowledgeBase.MS-SQL-Troubleshooting|KnowledgeBase\MS-SQL-Troubleshooting.cs|2010/02/17 16:00:31
@@ -66,6 +73,7 @@ KnowledgeBase.SVN-Branches|KnowledgeBase\SVN-Branches.cs|2010/03/02 10:31:24
 KnowledgeBase.SVN-Sventon|KnowledgeBase\SVN-Sventon.cs|2010/02/17 16:04:40
 KnowledgeBase.Umbraco-CMS|KnowledgeBase\Umbraco-CMS.cs|2011/02/26 17:19:03
 KnowledgeBase.Virtualization|KnowledgeBase\Virtualization.cs|2012/10/01 11:27:25
+KnowledgeBase.Windows-Containers_and_Docker|KnowledgeBase\Windows-Containers_and_Docker.cs|2016/07/29 14:50:33
 KnowledgeBase.Windows-SharePoint-Services-WSS|KnowledgeBase\Windows-SharePoint-Services-WSS.cs|2010/02/17 17:26:41
 KnowledgeBase.Windows_OS|KnowledgeBase\Windows_OS.cs|2012/10/16 11:35:36
 KnowledgeBase.Workspace-Management|KnowledgeBase\Workspace-Management.cs|2013/10/31 15:25:02
@@ -127,10 +135,3 @@ MVSD.Vestia-Projectontwikkeling|MVSD\Vestia-Projectontwikkeling.cs|2010/02/18 11
 MVSD.Wateringse-Binnentuinen|MVSD\Wateringse-Binnentuinen.cs|2010/02/23 09:45:41
 MVSD.Zomerfestival-Brielle|MVSD\Zomerfestival-Brielle.cs|2010/02/23 12:34:45
 NexusVerus.NexusVerus_Index|NexusVerus\NexusVerus_Index.cs|2013/05/07 09:19:30
-Ciber.Ciber_DynamicsCRM_TechnicalResources|Ciber\Ciber_DynamicsCRM_TechnicalResources.cs|2016/09/21 15:12:36
-Ciber.Ciber_DynamicsCRM_Howto|Ciber\Ciber_DynamicsCRM_Howto.cs|2016/09/21 15:20:48
-Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Ciber\Ciber_DynamicsCRM_TemplatesAndTools.cs|2016/09/21 15:32:39
-Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Ciber\Ciber_DynamicsCRM_ConventionsAndStandards.cs|2016/09/21 15:39:03
-KnowledgeBase.JavaScript|KnowledgeBase\JavaScript.cs|2016/11/21 12:07:56
-Ciber.Ciber_PowerBI|Ciber\Ciber_PowerBI.cs|2016/12/30 13:26:48
-Ciber.TenneT-TSO|Ciber\TenneT-TSO.cs|2017/01/10 13:22:23

@@ -1,39 +1,3 @@
-Ciber.Ciber_Index|Ciber Nederland||2016/09/01 10:13:20|procm|U|
-KnowledgeBase.Windows-Containers_and_Docker|Windows Containers & Docker||2016/09/01 10:16:40|procm|N|
-KnowledgeBase.KB_Index|KnowledgeBase Index||2016/09/01 10:17:02|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/06 12:08:07|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/06 13:40:28|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/06 16:02:00|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/07 11:02:52|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/08 16:14:17|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/21 13:27:28|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/09/21 14:41:06|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/21 15:06:12|procm|U|
-Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2016/09/21 15:12:36|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/09/21 15:16:25|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/21 15:17:38|procm|U|
-Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/09/21 15:20:48|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/21 15:22:19|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/09/21 15:22:45|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/21 15:23:30|procm|U|
-Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/09/21 15:25:43|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/21 15:29:21|procm|U|
-Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/09/21 15:29:42|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/21 15:30:49|procm|U|
-Ciber.Ciber_DynamicsCRM_TemplatesAndTools|Dynamics CRM: Templates & Tools||2016/09/21 15:32:39|procm|U|
-Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2016/09/21 15:33:12|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/09/21 15:34:07|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/21 15:36:34|procm|U|
-Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Dynamics CRM: Conventions & Standards||2016/09/21 15:39:03|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/09/21 15:39:53|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/21 15:40:27|procm|U|
-Ciber.Ciber_DynamicsCRM_ConventionsAndStandards|Dynamics CRM: Conventions & Standards||2016/09/21 15:52:36|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/09/21 15:54:13|procm|U|
-Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/09/21 15:55:31|procm|U|
-Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2016/09/21 15:56:20|procm|U|
-Ciber.Ciber_Index|Ciber Nederland||2016/09/21 16:00:28|procm|U|
-Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2016/09/21 16:17:42|procm|U|
-Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2016/09/22 15:15:54|procm|U|
 Insights.Insights_Index|Insights *Getting Things Done||2016/09/23 14:26:07|procm|U|
 KnowledgeBase.KB_Index|KnowledgeBase Index||2016/09/27 11:17:36|procm|U|
 Ciber.Ciber_DynamicsCRM|Microsoft Dynamics CRM||2016/10/04 10:43:50|procm|U|
@@ -88,3 +52,39 @@ Ciber.TenneT-TSO|TenneT TSO||2017/02/28 17:00:18|procm|U|
 Ciber.Ciber_Index|Ciber Nederland||2017/02/28 17:48:03|procm|U|
 Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2017/03/22 14:01:03|procm|U|
 Ciber.TenneT-TSO|TenneT TSO||2017/03/28 14:46:47|procm|U|
+Ciber.TenneT-TSO|TenneT TSO||2017/04/11 11:46:45|procm|U|
+KnowledgeBase.KB_Index|KnowledgeBase Index||2017/04/12 12:07:33|procm|U|
+KnowledgeBase.KB_Index|KnowledgeBase Index||2017/08/09 11:18:52|procm|U|
+Ciber.Ciber_Index|Ciber Nederland||2017/10/12 13:47:40|procm|U|
+Ciber.Ciber_DynamicsCRM_TechnicalResources|Dynamics CRM: Technical Resources||2017/10/17 17:23:35|procm|U|
+Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2017/10/30 13:42:48|procm|U|
+Ciber.Ciber_DynamicsCRM_Howto|Dynamics CRM: How-to||2017/11/07 13:40:47|procm|U|
+Insights.Insights_Index|Insights *Getting Things Done||2017/11/15 11:39:19|procm|U|
+KnowledgeBase.KB_Mobile-Apps|Mobile apps||2017/11/15 11:50:44|procm|U|
+Insights.Insights_Index|Insights *Getting Things Done||2017/11/15 12:08:12|procm|U|
+Insights.Insights_Index|Insights *Getting Things Done||2017/11/15 13:08:18|procm|U|
+Ciber.Dynamics 365-CRM|Microsoft Dynamics CRM||2017/11/15 13:37:10|procm|N|
+Ciber.Microsoft_ReportingServices|Reporting Services (SSRS)||2017/11/15 13:37:58|procm|N|
+Ciber.Microsoft_PowerBI|Power BI Charts (demo)||2017/11/15 13:38:31|procm|N|
+Ciber.Dynamics 365-CRM_TechnicalResources|Dynamics CRM: Technical Resources||2017/11/15 13:39:10|procm|N|
+Ciber.Dynamics_365-CRM_TemplatesAndTools|Dynamics CRM: Templates & Tools||2017/11/15 13:39:57|procm|N|
+Ciber.Dynamics_365-CRM_TechnicalResources|Dynamics CRM: Technical Resources||2017/11/15 13:40:15|procm|N|
+Ciber.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2017/11/15 13:40:36|procm|N|
+Ciber.Dynamics_365-CRM_ConventionsAndStandards|Dynamics CRM: Conventions & Standards||2017/11/15 13:40:55|procm|N|
+Ciber.Ciber_Index|Ciber Nederland||2017/11/15 13:43:17|procm|U|
+KnowledgeBase.KB_Index|KnowledgeBase Index||2017/11/15 15:41:22|procm|U|
+KnowledgeBase.Dynamics_365-CRM|Microsoft Dynamics CRM||2017/11/15 16:01:17|procm|N|
+Ciber.Ciber_Index|Ciber Nederland||2017/11/15 16:01:53|procm|U|
+KnowledgeBase.Dynamics_365-CRM|Microsoft Dynamics CRM||2017/11/15 16:05:00|procm|U|
+KnowledgeBase.KB_Index|KnowledgeBase Index||2017/11/15 16:07:08|procm|U|
+KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2017/12/12 17:23:26|procm|U|
+KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2017/12/15 14:07:14|procm|U|
+Ciber.Ciber_Index|Ciber Nederland||2018/01/19 18:06:29|procm|U|
+KnowledgeBase.Email_Clients-Servers|Email Clients & Servers||2018/01/27 23:02:54|procm|U|
+KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2018/02/21 11:54:36|procm|U|
+KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2018/02/21 13:24:29|procm|U|
+Ciber.Ciber_Index|Ciber Nederland||2018/05/07 15:51:24|procm|U|
+KnowledgeBase.Dynamics_365-CRM_TemplatesAndTools|Dynamics CRM: Templates & Tools||2018/05/11 14:32:15|procm|U|
+KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2018/07/04 10:11:16|procm|U|
+KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2018/07/04 12:30:51|procm|U|
+KPN-NEC.KPN-NEC_Java_development|KPN-NEC Used Java technologies||2018/07/26 12:18:05|procm|U|

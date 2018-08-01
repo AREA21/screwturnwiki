@@ -1,5 +1,5 @@
 TenneT TSO
-procm|2017/03/28 14:49:23
+procm|2017/04/11 11:46:45
 ##PAGE##
 {TOC}
 
@@ -65,7 +65,7 @@ UAIREGFILE=[RegFileLocation]\uai-template.reg"</nowiki>)))
 
 * [http://beheerweb.alfa.local|'''Beheerweb- Deploygroup Management''']
 
-* [http://seargeantvandeweek.alfa.local|'''Seargeant of the week''']
+* [http://sergeantvandeweek.alfa.local|'''Sergeant of the week''']
 
 * [http://admt.alfa.local|'''AD Roles Checker''']
 
