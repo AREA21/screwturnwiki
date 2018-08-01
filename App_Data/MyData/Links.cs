@@ -103,8 +103,6 @@ KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-direc
 KnowledgeBase.IIS6-Add-AWStats|
 KnowledgeBase.IIS6-Support-for-Ms-Office2007|
 KPN-NEC.KPN-NEC_Java_development|
-Index|
-MainPage|
 MessageFormatterHelp|MessageFormatterTest
 MessageFormatterTest|
 Brainnet.Brainnet_BoaBaas-Portal|KnowledgeBase.DotNET-Chart-Controls
@@ -157,3 +155,5 @@ KnowledgeBase.Dynamics_365-CRM_TemplatesAndTools|
 KnowledgeBase.EasyWebEditNet website opzetten vanuit de Codebase|
 KnowledgeBase.Email_Clients-Servers|
 KnowledgeBase.Exchange_Virtualization|
+Index|
+MainPage|
