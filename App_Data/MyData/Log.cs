@@ -148,3 +148,20 @@ G|2019/03/26 17:50:04|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
 G|2019/03/26 17:50:04|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
 G|2019/03/26 17:50:04|Provider TableFormatter loaded (Enabled)|SYSTEM
 G|2019/03/26 17:50:04|ScrewTurn Wiki is ready|SYSTEM
+G|2019/03/26 21:40:01|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:01|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:01|Provider SQL Server Users Storage Provider loaded (Disabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider SQL Server Files Storage Provider loaded (Disabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider SQL Server Pages Storage Provider loaded (Disabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider Download Counter Plugin loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider Footnotes Plugin loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:02|MessageFormatter - Init success|MessageFormatter
+G|2019/03/26 21:40:02|Provider MessageFormatter loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:02|Provider TableFormatter loaded (Enabled)|SYSTEM
+G|2019/03/26 21:40:02|ScrewTurn Wiki is ready|SYSTEM
