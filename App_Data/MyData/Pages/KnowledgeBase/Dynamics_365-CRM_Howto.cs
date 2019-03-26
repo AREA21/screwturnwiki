@@ -1,5 +1,5 @@
 Dynamics CRM: How-to
-procm|2019/03/26 16:18:20
+procm|2019/03/26 16:23:06
 ##PAGE##
 {TOC}
 
@@ -15,9 +15,9 @@ procm|2019/03/26 16:18:20
 
 === How to handle JSON messages===
 <PRE>
-[http://json2csharp.com|Generate C# classes from json]
-[https://www.jsonschema.net|Generates JSON schema from JSON]
-[https://www.newtonsoft.com/json/help/html/Introduction.htm|Json.NET Documentation]
+* [http://json2csharp.com|Generate C# classes from json]
+* [https://www.jsonschema.net|Generates JSON schema from JSON]
+* [https://www.newtonsoft.com/json/help/html/Introduction.htm|Json.NET Documentation]
 </PRE>
 
 === What's new: Dynamics 365 v9.0===
