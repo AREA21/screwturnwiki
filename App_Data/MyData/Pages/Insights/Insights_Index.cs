@@ -1,5 +1,5 @@
 Insights *Getting Things Done
-procm|2017/11/15 13:28:04
+procm|2018/08/04 14:54:47
 ##PAGE##
 {TOC}
 
@@ -292,9 +292,9 @@ SCRUM as the Agile pratice
 * --Server memory 8GB(2x4) Dell PowerEdge 2950-- §§(celio,2011/10/05 17:38:31)§§
 * --Notebook i7 Quad Core--
 * --SSD disk--
-* Tablet for comfortable Reading/Browsing '''Windows8 ??'''
-* --NAS/SAN for Central Storage/repository--
-* --Network 1GB /10GB--
+* --Tablet for comfortable Reading/Browsing-- - Samsung Tab S3 9.7inch GSM
+* --NAS/SAN for Central Storage/repository-- Zyxel NSA325 v2
+* --Network 1GB-- upgrade to 10GB??
 
 === Books===
 * [http://www.amazon.com/gp/registry/wishlist/2C1Y2XGQW63GS]

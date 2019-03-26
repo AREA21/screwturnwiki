@@ -89,3 +89,7 @@ KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2018/07/04 10:11:16|p
 KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2018/07/04 12:30:51|procm|U|
 KPN-NEC.KPN-NEC_Java_development|KPN-NEC Used Java technologies||2018/07/26 12:18:05|procm|U|
 NexusVerus.NexusVerus_Index|NexusVerus Index||2018/08/01 18:38:32|procm|U|
+Insights.Insights_Index|Insights *Getting Things Done||2018/08/04 14:54:47|procm|U|
+KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2019/03/25 13:40:47|procm|U|
+KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2019/03/26 10:55:11|procm|U|
+KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2019/03/26 12:10:24|procm|U|

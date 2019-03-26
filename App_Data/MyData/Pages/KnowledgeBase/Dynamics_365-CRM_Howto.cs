@@ -1,7 +1,24 @@
 Dynamics CRM: How-to
-procm|2018/07/04 12:30:51
+procm|2019/03/26 12:10:24
 ##PAGE##
 {TOC}
+
+=== How to check .NET versions installed?===
+<PRE>
+ dir /b /ad /o-n %systemroot%\Microsoft.NET\Framework\v?.*
+</PRE>
+
+=== How to Ping a port using C#?===
+<PRE>
+ System.Net.Sockets.TcpClient tcpClient = new System.Net.Sockets.TcpClient(endpoint, 5672);
+</PRE>
+
+=== How to handle JSON messages===
+<PRE>
+[http://json2csharp.com|Generate C# classes from json]
+[https://www.jsonschema.net|Generates JSON schema from JSON]
+[https://www.newtonsoft.com/json/help/html/Introduction.htm|Json.NET Documentation]
+</PRE>
 
 === What's new: Dynamics 365 v9.0===
 <PRE>
@@ -39,6 +56,12 @@ procm|2018/07/04 12:30:51
 ** [http://crmbook.powerobjects.com/basics/data-management-in-microsoft-dynamics-crm/keeping-data-clean-in-microsoft-dynamics-crm|Keeping Data Clean in Microsoft Dynamics 365]
 </PRE>
 
+=== Demystifying Dynamics WebAPI===
+<PRE>
+* [https://docs.microsoft.com/en-us/previous-versions/dynamicscrm-2016/developers-guide/mt607829(v=crm.8)|WebAPI Action Reference]
+* [https://community.dynamics.com/crm/b/debajitcrm/archive/2016/11/02/new-feature-get-the-created-object-after-creating-a-record-using-web-api-in-dynamics-365|+++Get the created object after creating a record using Web API in Dynamics 365]
+</PRE>
+
 === Improve performance===
 <PRE>
 
@@ -74,6 +97,12 @@ Parallel.ForEach(collection, item =>
 
 === Plugins===
 <PRE>
+==== Overview====
+* [https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/process-architecture|Process Architecture]
+* [https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/process-categories|Process Categories]
+* [https://docs.microsoft.com/en-us/dynamics365/customer-engagement/developer/workflow/use-iorganization-web-service-custom-workflow-activity|Use the IOrganization web service in a custom workflow activity]
+* [https://docs.microsoft.com/en-us/previous-versions/dynamicscrm-2016/developers-guide/mt607829(v=crm.8)|Web API Action Reference]
+
 ==== Create==== 
 * Download & Install Dynamics CRM SDK20xx
 
