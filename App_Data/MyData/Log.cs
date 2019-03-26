@@ -106,3 +106,23 @@ G|2019/03/26 12:10:13|User procm logged in|SYSTEM
 G|2019/03/26 12:10:24|Page update requested for KnowledgeBase.Dynamics_365-CRM_Howto|procm
 G|2019/03/26 12:10:25|Page Content updated for KnowledgeBase.Dynamics_365-CRM_Howto|SYSTEM
 G|2019/03/26 12:10:26|Page KnowledgeBase.Dynamics_365-CRM_Howto rebound|SYSTEM
+G|2019/03/26 16:17:40|Provider Local Files Provider loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:40|Provider Local Users Provider loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:40|Provider SQL Server Users Storage Provider loaded (Disabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider Local Pages Provider loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider Local Cache Provider loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider SQL Server Files Storage Provider loaded (Disabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider SQL Server Pages Storage Provider loaded (Disabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider Download Counter Plugin loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider Footnotes Plugin loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider MessageFormatter loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider Rating Manager Plugin loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider NumericHeaderFormatter loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:41|Provider TableFormatter loaded (Enabled)|SYSTEM
+G|2019/03/26 16:17:41|ScrewTurn Wiki is ready|SYSTEM
+G|2019/03/26 16:17:52|User procm logged in|SYSTEM
+G|2019/03/26 16:18:20|Page update requested for KnowledgeBase.Dynamics_365-CRM_Howto|procm
+G|2019/03/26 16:18:21|Page Content updated for KnowledgeBase.Dynamics_365-CRM_Howto|SYSTEM
+G|2019/03/26 16:18:21|Page KnowledgeBase.Dynamics_365-CRM_Howto rebound|SYSTEM

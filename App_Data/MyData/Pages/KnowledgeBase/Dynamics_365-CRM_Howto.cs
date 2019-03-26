@@ -1,11 +1,11 @@
 Dynamics CRM: How-to
-procm|2019/03/26 12:10:24
+procm|2019/03/26 16:18:20
 ##PAGE##
 {TOC}
 
 === How to check .NET versions installed?===
 <PRE>
- dir /b /ad /o-n %systemroot%\Microsoft.NET\Framework\v?.*
+ dir /b /ad /o-n %systemroot%\Microsoft.NET\Framework\v?.* 
 </PRE>
 
 === How to Ping a port using C#?===
