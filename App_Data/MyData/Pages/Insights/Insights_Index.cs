@@ -1,5 +1,5 @@
 Insights *Getting Things Done
-procm|2018/08/04 14:54:47
+procm|2019/12/08 19:53:52
 ##PAGE##
 {TOC}
 
@@ -235,7 +235,7 @@ SCRUM as the Agile pratice
 === Testing===
 <PRE>
 * [http://artofunittesting.com/|The art of unit testing]
-* [http://research.microsoft.com/en-us/projects/pex/|Pex & Moles]
+* [http://research.microsoft.com/en-us/projects/pex/|--Pex & Moles--] [https://visualstudio.microsoft.com/vs/features/testing-tools|'''Intellitest''' & '''Fakes''']
 
 * [http://www.simple-talk.com/dotnet/.net-tools/web-testing-with-selenium-sushi-a-practical-guide-and-toolset/|Web Testing with Selenium]
 * [http://www.simple-talk.com/dotnet/.net-tools/testing-times-ahead-extending-nunit/|Testing times ahead extending Nunit]

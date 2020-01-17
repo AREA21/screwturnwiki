@@ -1,5 +1,5 @@
 Accomplishments
-procm|2016/08/22 12:10:32
+procm|2019/12/20 22:23:36
 ##PAGE##
 {TOC}
 
@@ -22,8 +22,6 @@ procm|2016/08/22 12:10:32
 ** [http://seamonkey420.tech-recipes.com/k750i/myhid.html|'''Jimmy Selix''', K750/W800i HID Profiles i made for PowerDVD, SageTV, and more...]
 ** [http://www.mobiles24.com/downloads/d/dqEZRzYSuk|Nokia Wireless Presenter]
 ** [http://forum.xda-developers.com/showthread.php?t=2325619|Install Java apps(.jar files) on Android]
-
-* [http://gpsunderground.com/forum/car-navi-system/car-gps-systems/volkswagen-seat-skoda|Hack/myCar Navigation]
 
 '''Hardware:'''
 * NAS Zyxel NSA352 v2
@@ -96,7 +94,7 @@ procm|2016/08/22 12:10:32
 * Install Windows 2003 server (32bits)
 ** Install Microsoft Loopback Network Adapter, this should be our primary NIC, to avoid problems with Oracle env.
 *** Setup (fixed) IP address: '''192.168.1.7'''
-*** Add entries in '''SYSTEMROOT}\System32\drivers\etc\hosts''' file  
+*** Add entries in '''{SYSTEMROOT}\System32\drivers\etc\hosts''' file  
 eg.:
 (((#Loopback NIC 
 192.168.1.7	nec-testserver nec-testserver.area21.local)))

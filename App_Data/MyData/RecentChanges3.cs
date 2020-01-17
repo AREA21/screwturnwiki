@@ -94,3 +94,6 @@ KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2019/03/25 13:40:47|p
 KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2019/03/26 10:55:11|procm|U|
 KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2019/03/26 12:10:24|procm|U|
 KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2019/03/26 16:18:20|procm|U|
+KnowledgeBase.Dynamics_365-CRM_Howto|Dynamics CRM: How-to||2019/03/28 14:14:37|procm|U|
+Insights.Insights_Index|Insights *Getting Things Done||2019/12/08 19:48:45|procm|U|
+Insights.Accomplishments|Accomplishments||2019/12/20 22:17:44|procm|U|

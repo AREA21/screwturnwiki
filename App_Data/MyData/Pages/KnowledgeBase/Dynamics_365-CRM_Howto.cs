@@ -1,16 +1,20 @@
 Dynamics CRM: How-to
-procm|2019/03/26 16:42:53
+procm|2019/03/28 14:14:37
 ##PAGE##
 {TOC}
 
 === How to check .NET versions installed?===
 <PRE>
- dir /b /ad /o-n %systemroot%\Microsoft.NET\Framework\v?.* 
+{@code-plain:
+  dir /b /ad /o-n %systemroot%\Microsoft.NET\Framework\v?.*
+@}
 </PRE>
 
 === How to Ping a port using C#?===
 <PRE>
- System.Net.Sockets.TcpClient tcpClient = new System.Net.Sockets.TcpClient(endpoint, 5672);
+{@code-csharp:
+  System.Net.Sockets.TcpClient tcpClient = new System.Net.Sockets.TcpClient(endpoint, 5672);
+@}
 </PRE>
 
 === How to handle JSON messages===
