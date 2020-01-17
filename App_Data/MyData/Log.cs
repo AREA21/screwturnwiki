@@ -48,3 +48,7 @@ G|2020/01/17 20:50:55|Provider MessageFormatter loaded (Enabled)|SYSTEM
 G|2020/01/17 20:50:55|Provider Multilanguage Content Plugin loaded (Enabled)|SYSTEM
 G|2020/01/17 20:50:55|Provider Syntax Highlighter v2.0 support loaded (Enabled)|SYSTEM
 G|2020/01/17 20:55:44|User procm logged in|SYSTEM
+G|2020/01/17 21:17:10|User procm logged in|SYSTEM
+G|2020/01/17 21:18:11|Page update requested for NexusVerus.NexusVerus_Index|procm
+G|2020/01/17 21:18:12|Page Content updated for NexusVerus.NexusVerus_Index|SYSTEM
+G|2020/01/17 21:18:12|Page NexusVerus.NexusVerus_Index rebound|SYSTEM

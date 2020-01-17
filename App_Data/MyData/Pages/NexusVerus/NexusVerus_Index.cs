@@ -1,5 +1,5 @@
 NexusVerus Index
-procm|2018/08/01 18:39:09
+procm|2020/01/17 21:18:11
 ##PAGE##
 '''NexusVerus '''
 : summary:...
@@ -219,7 +219,7 @@ UBL- Universal Business Language
 {TOP}
 
 
-=== Fianciele software pakketen===
+=== Financiële software pakketen===
 * Decade
 * BCT
 * Exact
