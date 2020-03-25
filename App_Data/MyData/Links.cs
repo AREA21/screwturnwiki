@@ -20,14 +20,6 @@ Ciber.Dynamics_365-CRM_Howto|
 Ciber.Dynamics_365-CRM_TechnicalResources|
 Ciber.Dynamics_365-CRM_TemplatesAndTools|
 KnowledgeBase.Dynamics 365-CRM|
-KnowledgeBase.IIS6-Support-for-Ms-Office2007|
-KnowledgeBase.JavaScript|
-KnowledgeBase.KB_Development_Guidelines|
-KnowledgeBase.KB_Index|KnowledgeBase.Windows_OS|KnowledgeBase.Workspace-Management|KnowledgeBase.Windows-Containers_and_Docker|KnowledgeBase.Virtualization|KnowledgeBase.PerformanceTuningAndBestPratices|KnowledgeBase.Email_Clients-Servers|KnowledgeBase.Database|KnowledgeBase.MS-SQL-Troubleshooting|KnowledgeBase.Dynamics_365-CRM|KnowledgeBase.Dynamics_365-CRM_Howto|KnowledgeBase.Dynamics_365-CRM_TemplatesAndTools|KnowledgeBase.Dynamics_365-CRM_TechnicalResources|KnowledgeBase.Dynamics_365-CRM_ConventionsAndStandards|KnowledgeBase.JavaScript|KnowledgeBase.ASP_DotNET-MVC|KnowledgeBase.DotNET-Chart-Controls|KnowledgeBase.KB_Development_Guidelines|KnowledgeBase.Ogone-Payment-Service-Provider|KnowledgeBase.KB_QualityAndService|KnowledgeBase.Building-And-Publishing-Projects|KnowledgeBase.Build-NAnt|KnowledgeBase.MSBuild|KnowledgeBase.SVN-Branches|KnowledgeBase.SVN-Sventon|KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website|KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory|KnowledgeBase.IIS-6-Deploying-an-url-forward|KnowledgeBase.IIS6-Add-AWStats|KnowledgeBase.IIS6-Support-for-Ms-Office2007|KnowledgeBase.Mobile
-KnowledgeBase.KB_Mobile-Apps|ICTAutomatisering.ICTAutomatisering_RhoMobile
-KnowledgeBase.KB_QualityAndService|
-KnowledgeBase.Microsoft_PowerBI|
-KnowledgeBase.Microsoft_ReportingServices|
 KnowledgeBase.MMC_Admin_Tools|
 KnowledgeBase.Mobile|
 KnowledgeBase.MS-SQL-Troubleshooting|KnowledgeBase.master|KnowledgeBase.sa
@@ -98,6 +90,7 @@ MVSD.Vestia-Estrade-Projecten|MVSD.Vestia-Projectontwikkeling
 MVSD.Vestia-Projectontwikkeling|
 MVSD.Wateringse-Binnentuinen|
 MVSD.Zomerfestival-Brielle|
+NexusVerus.NexusVerus_Index|
 Index|
 MainPage|
 MessageFormatterHelp|MessageFormatterTest
@@ -156,4 +149,11 @@ KnowledgeBase.IIS-6-Deploying-an-url-forward|KnowledgeBase.IIS-6-Deploying-and-c
 KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website|
 KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory|
 KnowledgeBase.IIS6-Add-AWStats|
-NexusVerus.NexusVerus_Index|
+KnowledgeBase.IIS6-Support-for-Ms-Office2007|
+KnowledgeBase.JavaScript|
+KnowledgeBase.KB_Development_Guidelines|
+KnowledgeBase.KB_Index|KnowledgeBase.Windows_OS|KnowledgeBase.Workspace-Management|KnowledgeBase.Windows-Containers_and_Docker|KnowledgeBase.Virtualization|KnowledgeBase.PerformanceTuningAndBestPratices|KnowledgeBase.Email_Clients-Servers|KnowledgeBase.Database|KnowledgeBase.MS-SQL-Troubleshooting|KnowledgeBase.Dynamics_365-CRM|KnowledgeBase.Dynamics_365-CRM_Howto|KnowledgeBase.Dynamics_365-CRM_TemplatesAndTools|KnowledgeBase.Dynamics_365-CRM_TechnicalResources|KnowledgeBase.Dynamics_365-CRM_ConventionsAndStandards|KnowledgeBase.JavaScript|KnowledgeBase.ASP_DotNET-MVC|KnowledgeBase.DotNET-Chart-Controls|KnowledgeBase.KB_Development_Guidelines|KnowledgeBase.Ogone-Payment-Service-Provider|KnowledgeBase.KB_QualityAndService|KnowledgeBase.Building-And-Publishing-Projects|KnowledgeBase.Build-NAnt|KnowledgeBase.MSBuild|KnowledgeBase.SVN-Branches|KnowledgeBase.SVN-Sventon|KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website|KnowledgeBase.IIS-6-Deploying-and-configuring-a-new-website-into-a-virtual-directory|KnowledgeBase.IIS-6-Deploying-an-url-forward|KnowledgeBase.IIS6-Add-AWStats|KnowledgeBase.IIS6-Support-for-Ms-Office2007|KnowledgeBase.Mobile
+KnowledgeBase.KB_Mobile-Apps|ICTAutomatisering.ICTAutomatisering_RhoMobile
+KnowledgeBase.KB_QualityAndService|
+KnowledgeBase.Microsoft_PowerBI|
+KnowledgeBase.Microsoft_ReportingServices|
